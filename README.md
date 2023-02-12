@@ -65,6 +65,31 @@
 <info>Na Nigéria, os planos de um casamento geram uma confusão inimaginável e testam a amizade e o amor de diversas pessoas envolvidas. Tudo se desenrola a partir de um homem que cai em um golpe e precisa correr contra o tempo para conseguir planejar o casamento luxuoso de um rico investidor, antes que sua vida desmorone.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TEEN WOLF-O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3920aeec7c71339fd9d39fe22bf1abe162e0f99e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um mal terrível vem à tona. Scott McCall (Tyler Posey), não mais adolescente mas ainda um Alpha, forma novos aliados e reúne amigos de confiança para lutar contra o que pode ser o maior inimigo que eles já enfrentaram.e</info>
+</item> 
+
+<item>
+<title>[COLOR silver][B] JUNG_E [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:806fd21d27e579bee117e964ddea8049b4080dcb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2LAtcGxhgfPmaKL7dItQ1n9TepH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Situada no século 22, a mudança climática fez com que o planeta se tornasse inabitável e os humanos vivessem em um abrigo, que está em guerra. Jung Yi é a líder de elite das forças aliadas. Ela se torna o objeto de um experimento de clonagem de cérebro. Este experimento é uma chave potencial para vencer a guerra.</info>
+</item> 
+
+<item>
+<title>[COLOR silver][B] DETECTIVE KNIGHT: ROUGUE DUBLADO NÃO OFICIAL  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a63ca814e9fdd9b3761f8244af1c82b07489762$nome=DUBLAO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0d0e39bd00ab67eada491c43fc7447f356ddcfa$nome=LEGENDADO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight’s partner in a shootout following a heist. With Knight in hot pursuit, the bandits flee L.A. for New York, where the detective’s dark past collides with his present case and threatens to tear his world apart…unless redemption can claim Knight first.</info>
+</item> 
+
 
 
 

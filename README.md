@@ -1,6 +1,31 @@
 # LAN-AMENTOS-2023
 
 
+
+<item>
+<title>[COLOR silver][B] BLOOD LEGENDADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f25ec02494d60afc1dd83424af3a6287b616b52</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gCUFtTvjK4gbmjVxhx8bhyOhAeW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jess, uma mãe e enfermeira recém-separada, muda-se para a antiga casa de fazenda de sua família com Tyler, sua filha adolescente, e Owen, seu filho de oito anos. Uma noite, o cachorro da família sente algo na floresta e sai correndo para encontrá-lo. Ele retorna alguns dias depois e ataca Owen, mordendo-o ferozmente antes que Jess possa intervir. Owen é levado às pressas para o hospital. Sua condição piora e ninguém consegue descobrir o porquê… até que Jess descobre uma cura perturbadora…</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BATEM Á PORTA HDCAM CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E198334007D6EB8EB50F9170CC208651DA4AA065</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qctCXXSM4XUpZntb9wHp9RNSwdP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante as férias, uma menina e seus pais são feitos reféns por estranhos armados que exigem que a família faça uma escolha para evitar o apocalipse.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SNOW FALL  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e56972b391cb55ffd312a9069cf85aa8e5cb48d6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wfZklSVDJPpHT0Arq4A8GY8Q9S9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que uma tempestade de inverno prende cinco amigos em uma cabana remota sem energia e com pouca comida, a desorientação lentamente reivindica sua sanidade enquanto cada um deles sucumbe ao medo de que a própria neve possa estar contaminada ou de alguma forma maligna..</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] INFIESTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c7c34bca32b2561af8d0757f0c57ca99b90e5ac</link>

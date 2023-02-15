@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] RE/MEMBER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa815265f2d3b8dac9b31315490ccd6ac8cf8572</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cCTmZ93aBZ1FwHntiDpa2Lj92zs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma terrível lenda urbana que circula entre os alunos de um colégio está prestes a se tornar realidade: nos corredores do prédio uma criatura sobrenatural vagueia e amaldiçoou um grupo de alunos. Cada noite, Asuka e cinco de seus colegas devem vagar pela escola em busca de partes de um corpo desmembrado. Se eles não puderem encontrar e coletar todos eles, eles serão mortos um por um e desmembrados apenas para voltar à vida na manhã seguinte e reviver o ciclo mortal de novo! Uma história de fantasmas macabra e convincente. Baseado na web novel "Karada Sagashi” de Welzard.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM AMOR PARA DUAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:add6827e87c929f43a456523a76a09824c8015ca</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg</thumbnail>

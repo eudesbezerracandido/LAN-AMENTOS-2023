@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA (HDCAM) DUBLADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8810E5D189288567648DCC431EB2DA994DDD2AFE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</fanart>
+<info>Scott Lang e Hope Van Dyne, com Hank Pym e Janet Van Dyne, exploram o Reino Quântico, onde interagem com criaturas estranhas e embarcam em uma aventura que vai além dos limites do que eles achavam possível.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] NA PALMA DA MÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -9,14 +16,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A vida de uma mulher vira de cabeça para baixo quando um homem perigoso encontra um celular perdido e começa a seguir tudo o que ela faz.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA (HDCAM) DUBLADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8810E5D189288567648DCC431EB2DA994DDD2AFE</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</fanart>
-<info>Scott Lang e Hope Van Dyne, com Hank Pym e Janet Van Dyne, exploram o Reino Quântico, onde interagem com criaturas estranhas e embarcam em uma aventura que vai além dos limites do que eles achavam possível.</info>
 </item>
 
 <item>

@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ALERTA MAXÍMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:619b9afe0680c4f2688f19e8b98527798472983c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O piloto Brodie Torrance salva seus passageiros de um relâmpago fazendo um pouso arriscado em uma ilha devastada pela guerra e descobre que sobreviver ao pouso era apenas o começo. Quando a maioria dos passageiros são feitos de reféns por rebeldes perigosos, a única pessoa com quem Torrance pode contar para ajudar é Louis Gaspare, um acusado de assassinato que estava sendo transportado pelo FBI. Para resgatar os passageiros, Torrance precisará da ajuda de Gaspare e descobrirá que há mais em Gaspare do que aparenta.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEU NOME É CHIHIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3698ea8dda0fe265b2f520d8745c903ca088b8b2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hkvq6vqz6j1gSojBYkpTjSauFZD.jpg</thumbnail>

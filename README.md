@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VALENTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d5ee375aa8062441e39f6e35d28974a445cbcda</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v6aAs9edaRQMwZIprxeDDdTdB9K.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nas férias de verão, Darious, de 14 anos, explora os limites de sua masculinidade por meio de interações desordenadas com seu pai rígido, Malcolm, e a orientação do misterioso andarilho, Porter. Ao descobrir a verdadeira identidade de Porter, Darious é jogado no meio de um conflito entre os dois homens que poderá colocar tanto sua família quanto sua segurança em jogo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] I WANNA DANCE WITH SOMEBODY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d73e9a751b0d162d2d5bbbe2420028b100775b3b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vkOVROMEixrM87hMtopn3JD92Uv.jpg</thumbnail>

@@ -1,5 +1,15 @@
 # LAN-AMENTOS-2023
 
+
+<item>
+<title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA (HDCAM) DUBLADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8810E5D189288567648DCC431EB2DA994DDD2AFE$nome=SERVIDOR 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0D835EF37F2B313261E5C8EA8E30EEE1AEDA516$nome=SERVIDOR 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</fanart>
+<info>Scott Lang e Hope Van Dyne, com Hank Pym e Janet Van Dyne, exploram o Reino Quântico, onde interagem com criaturas estranhas e embarcam em uma aventura que vai além dos limites do que eles achavam possível.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UM PARAISO PERIGOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03e8d2fb32bb647fe1f5b236f0f6b02c84542b0b</link>
@@ -9,12 +19,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA (HDCAM) DUBLADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8810E5D189288567648DCC431EB2DA994DDD2AFE$nome=SERVIDOR 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0D835EF37F2B313261E5C8EA8E30EEE1AEDA516$nome=SERVIDOR 2</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</fanart>
-<info>Scott Lang e Hope Van Dyne, com Hank Pym e Janet Van Dyne, exploram o Reino Quântico, onde interagem com criaturas estranhas e embarcam em uma aventura que vai além dos limites do que eles achavam possível.</info>
+<title>[COLOR silver][B] EXCLUIDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O4BRZDOA3W7MYFOFZVBFRACPT27QI43D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w3nvKg5Ntog0VeWsBqCysxfNNFL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida perfeita de uma mulher de classe média alta começa a desmoronar com a chegada de duas figuras sombrias em sua cidade.</info>
 </item>
 
 <item>

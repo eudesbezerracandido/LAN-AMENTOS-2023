@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FANTASMA E CIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JPCFCYI6HF7ZQRSVY7A5BSWKKPOTTIKK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1fCji01buq6HHLhreImjfWRtgH0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um homem descobre a existência de um fantasma em sua casa e resolve monetizar o fenômeno na internet e dar jantares no lugar para o público conhecer o fantasma, mas quando um dia seu parceiro e o fantasma desaparece, seus planos são atrapalhados.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COMO AGRADAR UMA MULHER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:628705ab0bd6d5e9549abb3bec32beda3b25f565</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9PONfgIdAx01DJ0Ld93PVXxoU9r.jpg</thumbnail>

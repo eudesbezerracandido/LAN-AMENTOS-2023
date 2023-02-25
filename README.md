@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DURO DE ATUAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9094eb1d26ececa66aaa95fbc1f3d1ec8136a47a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Die Hart segue uma versão fictícia de Kevin Hart enquanto ele tenta se tornar uma estrela de cinema de ação séria.Ele frequenta uma escola dirigida por Ron Wilcox, interpretado por John Travolta, onde tenta aprender como se tornar uma das estrelas de ação mais cobiçadas da indústria.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NA PALMA DA MÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:650dee66175400c7a45c6588484d1d5a985f249d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg</thumbnail>

@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O PIOR VIZINHO DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b08c274a06a80b4e9bd14a6b81fb0fbac479e8d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Acompanhamos um homem chato, aposentado e rabugento, Otto (Tom Hanks), de 59 anos. Vários anos antes, foi deposto como presidente da associação de condomínios, mas não se importava com a deposição e, por isso, continua vigiando o bairro com mão de ferro. Quando a grávida Parvaneh e sua família se mudam para a casa geminada em frente e as cartas da nova vizinha acidentalmente vão parar na caixa de correio de Otto, uma amizade inesperada acaba se formando e a vida dos dois mudam drasticamente. Uma comédia dramática sobre amizade inesperada, amor e a importância de se cercar das ferramentas adequadas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM PARAISO PERIGOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03e8d2fb32bb647fe1f5b236f0f6b02c84542b0b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7tnliSzyWleQYhDtdUacU26BMcz.jpg</thumbnail>

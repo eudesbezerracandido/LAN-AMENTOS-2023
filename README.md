@@ -1,7 +1,37 @@
 # LAN-AMENTOS-2023
 
 
+<item>
+<title>[COLOR silver][B] CREED 3 HDCAM CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0CFD5757A6AA0834A6453FD20FBAD39946FA0609</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Adonis prospera em sua carreira e vida familiar, mas quando um amigo de infância e ex-prodígio do boxe ressurge, o confronto é mais do que apenas uma luta.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] A FARSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3daa0d5e8fe4b786e6c17816fb20bc9f0471ebef</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7ZBfjV7pJMXnuftpDr35gUHe8Pe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Adrien, um dançarino atraente cuja carreira foi arruinada por um acidente de moto, desperdiça sua juventude na preguiça da Riviera Francesa, onde é cuidado por Martha, uma ex-estrela de cinema. Sua vida muda quando conhece Margot, que vive de golpes e manipulações amorosas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SAYEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72f49a090f721ae1a310d3f8d37b0184d746b81b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sayen, está caçando os homens que assassinaram a avó dela. Usando seu treinamento e conhecimento da natureza, ela é capaz de virar o jogo sobre eles, aprendendo de uma conspiração de uma corporação que ameaça as terras ancestrais de seu povo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMOR AO PRIMEIRO BEIJO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12e4e6290b89cde09ee6c20ccde361b52b270c41</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com a habilidade de ver o futuro, Javier descobre quem é o grande amor de sua vida. Só tem um problema: ela é a namorada do seu melhor amigo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ESTA NOITE VOÇÊ DORME COMIGO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

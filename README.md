@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] 10 DIAS DE UM HOMEM BOM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f379e4e317e840560669ce9b88f24891b4a2f536</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ao investigar um desaparecimento, um detetive particular embarca em uma missão que vai mudar sua vida de forma inesperada.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A FARSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3daa0d5e8fe4b786e6c17816fb20bc9f0471ebef</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7ZBfjV7pJMXnuftpDr35gUHe8Pe.jpg</thumbnail>

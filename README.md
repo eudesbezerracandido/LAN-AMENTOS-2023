@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MAGIC MIKE-A ÚLTIMA DANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RH3LTRABFJDYRION45MOBCTNOZM2N654</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/raPPX7aRjqc33360tdadlzWDzo2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após encarar um negócio falido, um período sem grana e um trabalho como bartender na Flórida, Magic Mike Lane decide voltar aos palcos. Na esperança de encontrar diversão, ele vai até Londres com uma socialite que o instiga com uma oferta que ele não pode recusar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EXPERIÊNCIA APLHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G7523LIV35MREKF7O2MPM572N3VPACCU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/h80c7Bs2XfmeO2zHrH5lCWNd6d8.jpg</thumbnail>

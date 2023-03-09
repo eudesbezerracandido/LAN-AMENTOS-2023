@@ -1,7 +1,13 @@
 # LAN-AMENTOS-2023
 
 
-
+<item>
+<title>[COLOR silver][B] 80 PELO BRADY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd1a420f078e6a26855adf88f3416a8a8a2391b5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jixBLmH4gQuTKTenZr89egvqZbW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Inspirada em uma história real de fãs de futebol, as atrizes interpretam quatro melhores amigas que viajam para o Super Bowl de 2017 para ver seu jogador favorito.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ESQUEMA DE RISCO-OPERAÇÃO FORTUNE ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

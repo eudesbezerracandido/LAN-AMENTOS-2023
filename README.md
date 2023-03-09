@@ -1,6 +1,16 @@
 # LAN-AMENTOS-2023
 
 
+
+
+<item>
+<title>[COLOR silver][B] ESQUEMA DE RISCO-OPERAÇÃO FORTUNE ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3RS5JUKJ5ABAQ3IDTS6G4UGDLDSZGYIP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Orson Fortune (Jason Statham) é um agente do MI6 que, junto de sua equipe profissional, recruta uma estrela de Hollywood para ajudar em uma missão secreta. Uma nova tecnologia de armas mortais foi criada, ameaçando derrubar a ordem mundial.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CREED 3 HDCAM CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0CFD5757A6AA0834A6453FD20FBAD39946FA0609</link>

@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EM UMA ILHA BEM DISTANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U4M6BVBF6YIHJNZAVY25OB3AUWI6PZZE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rEZMl8M5EKjPncmaBi6c0UEkAqz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ao viajar à Croácia para conhecer a casa que ganhou de herança, uma mulher reencontra a alegria de viver e abre as portas para um novo amor.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ESQUEMA DE RISCO-OPERAÇÃO FORTUNE ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3RS5JUKJ5ABAQ3IDTS6G4UGDLDSZGYIP</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg</thumbnail>

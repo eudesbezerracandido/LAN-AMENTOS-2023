@@ -1,7 +1,13 @@
 # LAN-AMENTOS-2023
 
 
-
+<item>
+<title>[COLOR silver][B] TANGOS,TEQUILAS E ALGUMAS MENTIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2RENJ7KL7NVIVUJNXFASMAAPYRIXKQKS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sFaDyM9qe2eZ4TMEpB9ozWWVhUm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lu acredita que tem a vida perfeita. Quando conhece Diego, um belo e mal-humorado argentino que está visitando o México, acredita que será fácil conquistá-lo. Mas sua vida dará uma reviravolta quando, para ganhar uma aposta com suas amigas, ela fará o impossível para que ele se apaixone, mesmo que isso signifique ir até o coração da Argentina.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] LUTHER - O CAIR DA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -9,6 +15,14 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Continuando as aventuras do detetive John Luther, a trama foca em um assassino horrível que está aterrorizando Londres, enquanto o detetive está atrás das grades. Com orgulho ferido e incapacitado de fazer alguma coisa de dentro da prisão, Luther decide sair de lá a qualquer custo e resolver aquele caso.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VOLTE SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a02476098cdc6f6d2d9a2eb58e73ecad5e684fb0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5lr41BAVnwrnOCYp8GMN5J6K8RM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um apresentador de rádio aposentado embala mantimentos para ganhar dinheiro para ir à festa de aniversário de seu ex-empregador, onde espera se reunir com o amor de sua vida.</info>
 </item>
 
 <item>

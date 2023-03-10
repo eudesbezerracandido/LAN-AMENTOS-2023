@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A JOGADA DE CHANG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b985f0199c65df77aaf232a2f970dd2375673f5e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Chang, asiático-americano de 16 anos , é um estudante impopular que adora basquete , mas é sempre subestimado. Embora seus pares tratam ele como insignificante, ele se torna obcecado com aprender com a bola. Ao fazer isso, Chang está determinado a vencer o astro do colégio chamado Matt, ao mesmo tempo em que ganha a adoração de seu interesse romântico, Kristy.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LUTHER - O CAIR DA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b916d32391ce6800f9851aef3ea24400320a0dc0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg</thumbnail>

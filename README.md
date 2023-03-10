@@ -1,6 +1,16 @@
 # LAN-AMENTOS-2023
 
 
+
+
+<item>
+<title>[COLOR silver][B] LUTHER - O CAIR DA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b916d32391ce6800f9851aef3ea24400320a0dc0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Continuando as aventuras do detetive John Luther, a trama foca em um assassino horrível que está aterrorizando Londres, enquanto o detetive está atrás das grades. Com orgulho ferido e incapacitado de fazer alguma coisa de dentro da prisão, Luther decide sair de lá a qualquer custo e resolver aquele caso.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] 80 PELO BRADY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd1a420f078e6a26855adf88f3416a8a8a2391b5</link>

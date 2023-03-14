@@ -1,6 +1,12 @@
 # LAN-AMENTOS-2023
 
-
+<item>
+<title>[COLOR silver][B] TUDO EM TODO LUGAR AO MESMO TEMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DREQ7F7USBK26SJHWKZDDF7OZQK4PUAU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Filme vencedor do Oscar de melhor roteiro original. Evelyn Wang (Michelle Yeoh) é uma cansada mulher chinesa que luta para se manter e manter a vida da família nos Estados Unidos. O marido quer o divórcio, a filha se mostra rebelde e o pai está doente. Mas tudo fica anda mais estranho quando ela descobre que é a chave para salvar o multiverso, e pode acessar o conhecimento e os talentos de todos os seus vários eus através dos infinitos universos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] 65-AMEAÇA PRÉ HISTÓRICA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

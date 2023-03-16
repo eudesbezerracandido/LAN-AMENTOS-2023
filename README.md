@@ -1,5 +1,14 @@
 # LAN-AMENTOS-2023
 
+
+<item>
+<title>[COLOR silver][B] SHAZAN - A FÚRIA DOS DEUSES ( HDCAM )  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D69B8700393CB416DBC50065AC30BA46BD4A569A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5D0piyKxJMDd7h4zR5sQU72dUzI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Continua a história do adolescente Billy Batson que, ao recitar a palavra mágica “SHAZAM!”, é transformado em seu alto ego adulto de super-herói, Shazam.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TUDO EM TODO LUGAR AO MESMO TEMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DREQ7F7USBK26SJHWKZDDF7OZQK4PUAU</link>

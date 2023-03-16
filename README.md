@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR silver][B] SHAZAN - A FÚRIA DOS DEUSES ( HDCAM )  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] SHAZAM - A FÚRIA DOS DEUSES ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D69B8700393CB416DBC50065AC30BA46BD4A569A</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5D0piyKxJMDd7h4zR5sQU72dUzI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>

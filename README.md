@@ -1,12 +1,24 @@
 # LAN-AMENTOS-2023
 
 
+
+
+
+
 <item>
 <title>[COLOR silver][B] SHAZAM - A FÚRIA DOS DEUSES ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E199EF6A8213110415EA303EE7FC46700BE8E20C</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5D0piyKxJMDd7h4zR5sQU72dUzI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Continua a história do adolescente Billy Batson que, ao recitar a palavra mágica “SHAZAM!”, é transformado em seu alto ego adulto de super-herói, Shazam.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O SOM DO CAOOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd8568112598b32bbb3d3303ec008263600dab4d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yka6u5dbx1vWoMrNIHHutluaepp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O influenciador Matt (Ward Kerremans) acaba de ter um bebê e se mudou para sua antiga casa de infância com sua esposa Liv (Sallie Harmsen) e o pequeno Julius. Um dia ele se depara com pistas que apontam para um segredo obscuro do passado de seu pai (Johan Leysen), que sofre de demência. É sobre um acidente de trabalho na fábrica que já lhe pertenceu. A pedido de seus seguidores, Matt inicia uma pesquisa em que ameaça se perder cada vez mais e por meio da qual abre inesperadamente a caixa de Pandora. Profundamente perturbada, Liv tenta fazer tudo ao seu alcance para salvar o marido.</info>
 </item>
 
 <item>

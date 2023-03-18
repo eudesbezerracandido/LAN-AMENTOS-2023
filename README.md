@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O REI DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3c1f553ea40a57f54a63a75334c5c3f3d859191</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o0UxfLtPJ7rN1lKyBMFwbw5ngNU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O Rei das Sombras é baseado em uma antiga lenda africana que é transferida para os subúrbios parisienses de hoje: depois que seu pai morreu, os dois meio-irmãos Ibrahim (Kaaris) e Adama (Alassane Diong) entraram em um conflito de gangues entre os arranha-céus cinzentos e finalmente se encontraram. em lados diferentes. À medida que os confrontos se tornam cada vez mais violentos, ocorre um desastre.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PÂNICO 6 ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QMVSVZASWUPITMG422TLGMB3XIUFCP7J</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg</thumbnail>

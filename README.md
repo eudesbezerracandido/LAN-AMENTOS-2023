@@ -1,20 +1,22 @@
 # LAN-AMENTOS-2023
 
 
+
+<item>
+<title>[COLOR silver][B] SHAZAM - A FÚRIA DOS DEUSES ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1680796D987EF4EDA6DA42FF267D05A385089653$nome=SERVIDOR 720P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78223495BDD7CBBDF288E83E1E6B89332877EE81$nome=SERVIDOR 1080P</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5D0piyKxJMDd7h4zR5sQU72dUzI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Continua a história do adolescente Billy Batson que, ao recitar a palavra mágica “SHAZAM!”, é transformado em seu alto ego adulto de super-herói, Shazam.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O ESTRANGULADOR DE BOSTON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c0a5aaf24aeee75b1702e115c6fa266c74bfe50</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O Estrangulador de Boston”, do premiado roteirista e diretor Matt Ruskin, é um thriller de crime real sobre as repórteres pioneiras que divulgaram o caso dos famosos assassinatos do Estrangulador de Boston na década de 1960. O filme acompanha Loretta McLaughlin, repórter do jornal Record American, que se torna a primeira jornalista a conectar os assassinatos do Estrangulador de Boston. À medida que o misterioso assassino faz mais e mais vítimas, Loretta tenta continuar sua investigação ao lado da colega e confidente Jean Cole, mas a dupla enfrenta dificuldades por causa do sexismo desenfreado da época. Apesar disso, McLaughlin e Cole continuam investigando corajosamente, correndo riscos pessoais, colocando suas próprias vidas em jogo em sua busca para revelar a verdade.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SHAZAM - A FÚRIA DOS DEUSES ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E199EF6A8213110415EA303EE7FC46700BE8E20C</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5D0piyKxJMDd7h4zR5sQU72dUzI.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Continua a história do adolescente Billy Batson que, ao recitar a palavra mágica “SHAZAM!”, é transformado em seu alto ego adulto de super-herói, Shazam.</info>
 </item>
 
 <item>

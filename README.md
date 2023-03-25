@@ -1,13 +1,7 @@
 # LAN-AMENTOS-2023
 
 
-<item>
-<title>[COLOR silver][B] teste [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://www.terabox.com/portuguese/play/video?path=%2FFILMES%2FQuando%20Um%20Homem%20Ama%20Uma%20Mulher.mkv&t=-1</link>
-<thumbnail></thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
+
 
 <item>
 <title>[COLOR silver][B] JOHN WICK  4 BABA YAGA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

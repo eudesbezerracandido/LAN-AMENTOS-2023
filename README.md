@@ -1,7 +1,12 @@
 # LAN-AMENTOS-2023
 
-
-
+<item>
+<title>[COLOR silver][B] FÉ NAS ALTURAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5aeb1a467e878c6cf404b16b05466d27712a49c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iBKkwzr8n2iAQVL0gYjBVdhcUc5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O passageiro Doug White segue uma verdadeira história de fé e sobrevivência, numa jornada angustiante para pousar um avião com segurança e salvar a vida de toda sua família, após o piloto da aeronave morrer de forma inesperada durante o voo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ESQUEMA DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

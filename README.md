@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] THA KHIN GYI HNINT NPAPI TOH SAYAR( LEGENDA FIXA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9CF71DCE60F955B7175EB676382C8173EF40D822</link>
+<thumbnail>https://wpengine-myanmore.s3.amazonaws.com/uploads/2019/10/thakhin.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Duas irmãs da classe trabalhadora enfrentam a ameaça de pessoas tirânicas com dinheiro e poder. Um filme de luta de classes que mostra como a justiça está sendo corrompida pelos ricos e poderosos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MISTER MAYFAIR (LEGENDA FIXA) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F884867AEB43393E174881E5F30BFAC323975E1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9r6iQRC1zsJc4n2SJRBFeBbyb3h.jpg</thumbnail>

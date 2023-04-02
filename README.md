@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] CREED 3 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c559815f8b0d1876fcf22928d9f92da504268dea</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Adonis prospera em sua carreira e vida familiar, mas quando um amigo de infância e ex-prodígio do boxe ressurge, o confronto é mais do que apenas uma luta</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SONS OF PREACHER ( LEGENDA FIXA )  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03FE80A230C2EA77AB2E830B5AFF7283F34D5CBA</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzA1ZjBlOGYtMDNhOC00MDFlLWE5ZGEtNTU5NThlOGVjNTUxXkEyXkFqcGdeQXVyNTIyNDYxNg@@._V1_.jpg</thumbnail>
@@ -169,14 +177,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Orson Fortune (Jason Statham) é um agente do MI6 que, junto de sua equipe profissional, recruta uma estrela de Hollywood para ajudar em uma missão secreta. Uma nova tecnologia de armas mortais foi criada, ameaçando derrubar a ordem mundial.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] CREED 3 HDCAM CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0CFD5757A6AA0834A6453FD20FBAD39946FA0609</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Adonis prospera em sua carreira e vida familiar, mas quando um amigo de infância e ex-prodígio do boxe ressurge, o confronto é mais do que apenas uma luta.</info>
 </item>
 
 <item>

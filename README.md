@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DUNGEONS & DRAGONS:HONRA ENTRE REBELDES ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B63B37A4496428E51CA79B2A3AFCCD6D1419CC2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/85ivt7lJm3J5Mqybdh59m09eksV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um mundo repleto de dragões, elfos, anões, orcs e outras criaturas fantásticas, sobreviver é sempre um grande desafio. Raven Hightower é um humano que se arrisca entre os lugares mais perigosos e misteriosos desse universo, sempre com a ajuda de outros aventureiros que, assim como ele, estão dispostos a combater o mal e a derrotar as mais terríveis criaturas que surgem em seus caminhos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CREED 3 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c559815f8b0d1876fcf22928d9f92da504268dea</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg</thumbnail>

@@ -19,30 +19,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] SONS OF PREACHER ( LEGENDA FIXA )  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03FE80A230C2EA77AB2E830B5AFF7283F34D5CBA</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMzA1ZjBlOGYtMDNhOC00MDFlLWE5ZGEtNTU5NThlOGVjNTUxXkEyXkFqcGdeQXVyNTIyNDYxNg@@._V1_.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> O vínculo dos irmãos David e Elijah é testado quando seus caminhos individuais os afastam um do outro. Um responde ao chamado das ruas e o outro ao chamado de Deus. Quando circunstâncias além de seu controle infringem suas vidas, ambos são forçados a perceber que, seja bom ou ruim, você colhe o que planta.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] THA KHIN GYI HNINT NPAPI TOH SAYAR( LEGENDA FIXA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9CF71DCE60F955B7175EB676382C8173EF40D822</link>
-<thumbnail>https://wpengine-myanmore.s3.amazonaws.com/uploads/2019/10/thakhin.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Duas irmãs da classe trabalhadora enfrentam a ameaça de pessoas tirânicas com dinheiro e poder. Um filme de luta de classes que mostra como a justiça está sendo corrompida pelos ricos e poderosos.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] MISTER MAYFAIR (LEGENDA FIXA) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F884867AEB43393E174881E5F30BFAC323975E1</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9r6iQRC1zsJc4n2SJRBFeBbyb3h.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Max Mayfair está vivendo a ‘boa vida’. Tendo deixado a cidade de Nova York e seu passado como gângster, ele agora dirige o clube mais glamoroso de Londres: o estilo Rat Pack. As armas foram substituídas pelo glamour e os assaltos a banco pelo blues. Isto é, até a chegada inesperada de sua neta desconhecida, Bárbara. Acompanhado por sua namorada, Ava, e o resto de sua família criminosa de Londres, Max descobrirá que Mayfair é tão perigoso quanto Manhattan, só que desta vez ele tem tudo a perder.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] TETRIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc75af7b4ce06ef29df159bff84bca746957509b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg</thumbnail>

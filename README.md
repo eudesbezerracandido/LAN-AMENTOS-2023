@@ -20,9 +20,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] SHAZAM - A FÚRIA DOS DEUSES ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1680796D987EF4EDA6DA42FF267D05A385089653$nome=SERVIDOR 720P</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78223495BDD7CBBDF288E83E1E6B89332877EE81$nome=SERVIDOR 1080P</link>
+<title>[COLOR silver][B] SHAZAM - A FÚRIA DOS DEUSES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee52414f07f333a035e47dbe87534a69534ba3c5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5D0piyKxJMDd7h4zR5sQU72dUzI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Continua a história do adolescente Billy Batson que, ao recitar a palavra mágica “SHAZAM!”, é transformado em seu alto ego adulto de super-herói, Shazam.</info>

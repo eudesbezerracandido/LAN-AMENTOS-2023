@@ -2,6 +2,32 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] 65-AMEAÇA PRÉ HISTÓRICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5ed201d349ac2bfeedcc074c379d59fc1a3e7a2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rzRb63TldOKdKydCvWJM8B6EkPM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após um acidente catastrófico em um planeta desconhecido, o piloto Mills rapidamente descobre que está preso na Terra há 65 milhões de anos. Agora, com apenas uma chance de resgate, Mills e o único outro sobrevivente, Koa, devem atravessar um terreno desconhecido cheio de perigosas criaturas pré-históricas (incluindo dinossauros) em uma luta épica para sobreviver.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JOHN WICK  4 BABA YAGA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7hiG6XcjNsvDHhjC0vATqSl2fLX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O assassino profissional retorna às telas para John Wick 4: Baba Yaga. O assassino profissional John Wick (Keanu Reeves) agora virou metade do submundo contra ele com sua vingança, que agora está entrando em sua quarta rodada em Nova York, Berlim, Paris e Osaka. Sua equipe, composta por Bowery King (Laurence Fishburne), o gerente do hotel Winston (Ian McShane) e o concierge Charon (Lance Reddick) do lendário hotel assassino Continental, novamente fazem parte da festa. No entanto, as chances de escapar desta vez parecem quase impossíveis, pois o maior inimigo está surgindo. O implacável chefe do submundo Marquis de Gramont (Bill Skarsgård), que tem alianças inteiras atrás dele, representa a maior e sanguinária ameaça até hoje. Mas seus capangas também são durões, incluindo Shimazu (Hiroyuki Sanada) e Killa (Scott Adkins) localizados. Felizmente, existem velhos aliados como Caine (Donnie Yen) que correm para ajudar Wick. Não há caminho de volta, só um sobrevive.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SHAZAM - A FÚRIA DOS DEUSES ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1680796D987EF4EDA6DA42FF267D05A385089653$nome=SERVIDOR 720P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78223495BDD7CBBDF288E83E1E6B89332877EE81$nome=SERVIDOR 1080P</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5D0piyKxJMDd7h4zR5sQU72dUzI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Continua a história do adolescente Billy Batson que, ao recitar a palavra mágica “SHAZAM!”, é transformado em seu alto ego adulto de super-herói, Shazam.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DUNGEONS & DRAGONS:HONRA ENTRE REBELDES ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B63B37A4496428E51CA79B2A3AFCCD6D1419CC2</link>
@@ -43,36 +69,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] JOHN WICK  4 BABA YAGA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7hiG6XcjNsvDHhjC0vATqSl2fLX.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O assassino profissional retorna às telas para John Wick 4: Baba Yaga. O assassino profissional John Wick (Keanu Reeves) agora virou metade do submundo contra ele com sua vingança, que agora está entrando em sua quarta rodada em Nova York, Berlim, Paris e Osaka. Sua equipe, composta por Bowery King (Laurence Fishburne), o gerente do hotel Winston (Ian McShane) e o concierge Charon (Lance Reddick) do lendário hotel assassino Continental, novamente fazem parte da festa. No entanto, as chances de escapar desta vez parecem quase impossíveis, pois o maior inimigo está surgindo. O implacável chefe do submundo Marquis de Gramont (Bill Skarsgård), que tem alianças inteiras atrás dele, representa a maior e sanguinária ameaça até hoje. Mas seus capangas também são durões, incluindo Shimazu (Hiroyuki Sanada) e Killa (Scott Adkins) localizados. Felizmente, existem velhos aliados como Caine (Donnie Yen) que correm para ajudar Wick. Não há caminho de volta, só um sobrevive.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SHAZAM - A FÚRIA DOS DEUSES ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1680796D987EF4EDA6DA42FF267D05A385089653$nome=SERVIDOR 720P</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78223495BDD7CBBDF288E83E1E6B89332877EE81$nome=SERVIDOR 1080P</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5D0piyKxJMDd7h4zR5sQU72dUzI.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Continua a história do adolescente Billy Batson que, ao recitar a palavra mágica “SHAZAM!”, é transformado em seu alto ego adulto de super-herói, Shazam.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] O ESTRANGULADOR DE BOSTON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c0a5aaf24aeee75b1702e115c6fa266c74bfe50</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O Estrangulador de Boston”, do premiado roteirista e diretor Matt Ruskin, é um thriller de crime real sobre as repórteres pioneiras que divulgaram o caso dos famosos assassinatos do Estrangulador de Boston na década de 1960. O filme acompanha Loretta McLaughlin, repórter do jornal Record American, que se torna a primeira jornalista a conectar os assassinatos do Estrangulador de Boston. À medida que o misterioso assassino faz mais e mais vítimas, Loretta tenta continuar sua investigação ao lado da colega e confidente Jean Cole, mas a dupla enfrenta dificuldades por causa do sexismo desenfreado da época. Apesar disso, McLaughlin e Cole continuam investigando corajosamente, correndo riscos pessoais, colocando suas próprias vidas em jogo em sua busca para revelar a verdade.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] 65-AMEAÇA PRÉ HISTÓRICA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FAKSQBSK2RNB3K5CABWKKHJR75PFXP4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/rzRb63TldOKdKydCvWJM8B6EkPM.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Após um acidente catastrófico em um planeta desconhecido, o piloto Mills rapidamente descobre que está preso na Terra há 65 milhões de anos. Agora, com apenas uma chance de resgate, Mills e o único outro sobrevivente, Koa, devem atravessar um terreno desconhecido cheio de perigosas criaturas pré-históricas (incluindo dinossauros) em uma luta épica para sobreviver.</info>
 </item>
 
 <item>

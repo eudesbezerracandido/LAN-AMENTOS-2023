@@ -44,6 +44,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MEU AMIGO LUTCHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:871665f4eaf98dfab65d018e894a12b547ddffe7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Chupa: A Criatura Mítica segue o adolescente Alex e sua família, que vão para o México durante uma visita. Durante a visita no país latino-americano, ele faz uma amizade improvável com um monstro folclórico local, o chupa-cabra, que vive no galpão do avô. Para salvar a criatura, ele e seus primos embarcarão em uma grande aventura.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DUNGEONS & DRAGONS:HONRA ENTRE REBELDES ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B63B37A4496428E51CA79B2A3AFCCD6D1419CC2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/85ivt7lJm3J5Mqybdh59m09eksV.jpg</thumbnail>

@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336C4D2040DCC562A39F67F62C247022685C30D1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</fanart>
+<info>Scott Lang e Hope Van Dyne, com Hank Pym e Janet Van Dyne, exploram o Reino Quântico, onde interagem com criaturas estranhas e embarcam em uma aventura que vai além dos limites do que eles achavam possível.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOHN WICK  4 BABA YAGA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7hiG6XcjNsvDHhjC0vATqSl2fLX.jpg</thumbnail>
@@ -217,15 +225,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/tNHOildeM8pRcHUQE85IHh6DxkR.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> A responsabilidade pela família sempre significa abrir mão de sonhos? Em Esta Noite, Você Dorme Comigo, Nina (Roma Gasiorowska) tem uma vida normal: um bom emprego, lindas filhas e um marido amoroso. Tudo que todo mundo sonha em ter no mundo atual. Mas com o tempo, o relacionamento deles não é mais o que costumava ser quando se casaram. Quando o casamento de Nina entra em crise, ela acidentalmente conhece um estagiário jovem e bonito no trabalho, que também é um ex-namorado de uma vida distante. Jan (Maciej Musial) vira seu mundo de cabeça para baixo e a desperta para a garota que ela era antes de se tornar uma esposa e mãe modelo. Em encontros rápidos e de muita paixão, Nina éaAtormentada por emoções, senso de responsabilidade e paixão, Nina precisa fazer a única escolha certa. Mas é possível? Existe apenas uma boa solução nesta situação? Uma adaptação do romance de Anna.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA (HDCAM) DUBLADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8810E5D189288567648DCC431EB2DA994DDD2AFE$nome=SERVIDOR 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0D835EF37F2B313261E5C8EA8E30EEE1AEDA516$nome=SERVIDOR 2</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</fanart>
-<info>Scott Lang e Hope Van Dyne, com Hank Pym e Janet Van Dyne, exploram o Reino Quântico, onde interagem com criaturas estranhas e embarcam em uma aventura que vai além dos limites do que eles achavam possível.</info>
 </item>
 
 <item>

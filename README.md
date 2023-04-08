@@ -68,6 +68,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AH, BELINDA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d1203491edc43063c887ebd00d62b261db783af</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bp3h7SZDI7KPw0jK0L6EwfMqzZC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A jovem atriz Dilara vai estrelar um comercial de “Belinda”, um xampu que será lançado em breve. Dilara, que começou os ensaios, um dia percebe que todos os elementos do cenário publicitário se concretizaram. Agora ela é Handan, não Dilara. A jovem tenta desesperadamente provar os fatos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CREED 3 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c559815f8b0d1876fcf22928d9f92da504268dea</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg</thumbnail>

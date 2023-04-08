@@ -60,6 +60,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS REIS DA RUA MULBERRY: QUE REINE O AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f42cca44a63f497b14b8ce8bbe41baf574d59d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3Tr5ziHzI6nEJyXwcyr0z29mA77.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> E se dois jovens de Kwazulu Natal pudessem derrotar o tirânico senhor do crime local que ameaça suas famílias acreditando que é possível ser um herói de Bollywood? O espirituoso Ticky (Aaqil Hoosen) é como um artista tjara – impetuoso e ousado, com pouco respeito pelas regras. Ele escapa da realidade de sua existência no distrito de Sugarhill dos anos 80 vivendo em um mundo dos sonhos de Bollywood, onde ele é um herói de ação imbatível. Quando o tímido Baboo (Shaan Nathoo) se muda para a vizinhança com seu esnobe pai acadêmico, Ticky pensa que ele é o maior perdedor que já viu – mas logo os dois meninos são ameaçados pela ameaça comum do valentão local e senhor do crime Raja (Neville Pillay).</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CREED 3 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c559815f8b0d1876fcf22928d9f92da504268dea</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg</thumbnail>

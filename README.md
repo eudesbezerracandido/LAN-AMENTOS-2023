@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] O ÚLTIMO REINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd6f8da14bac1c5cd329145c13196ab977c6b447</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na Inglaterra, no século IX, Uhtred, filho de um nobre, sequestrado pelos vikings quando criança, deve escolher entre seu país natal e as pessoas que o criaram. Em The Last Kingdom: Seven Kings Must Die uma sequência do final da série, Uhtred de Bebbanburg atravessará mais uma vez um reino fragmentado junto a velhos companheiros e novos aliados. Travando duras batalhas contra seus inimigos. A morte do Rei Eduardo traz uma luta por poder, causando uma briga entre herdeiros rivais e invasores. Quando Uhtred é chamado para ajudar a concretizar os planos de uma aliança, ele precisa escolher entre as pessoas que ama e seu sonho de unificar a Inglaterra.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] 65-AMEAÇA PRÉ HISTÓRICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] TÁR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01c8c79a6825ed2277a50b66505ec090d13944be</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9FSlyzf5qXOOxAthSFHzxB7iVGg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tendo alcançado uma carreira invejável com a qual poucos poderiam sonhar, a renomada maestrina/compositora Lydia Tár (Cate Blanchett), a primeira diretora musical feminina da Filarmônica de Berlim, está no topo do mundo. Como regente, Lydia não apenas orquestra, mas também manipula. Como uma pioneira, a virtuosa apaixonada lidera o caminho na indústria da música clássica dominada por homens. Além disso, Lydia se prepara para o lançamento de suas memórias enquanto concilia trabalho e família. Ela também está disposta a enfrentar um de seus desafios mais significativos: uma gravação ao vivo da Sinfonia nº 5 de Gustav Mahler. No entanto, forças que nem mesmo ela pode controlar lentamente destroem a elaborada fachada de Lydia, revelando segredos sujos e a natureza corrosiva do poder. E se a vida derrubar Lydia de seu pedestal?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] RAINHA EM FUGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

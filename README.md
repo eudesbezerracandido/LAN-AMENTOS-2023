@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] RENFIELD - DANDO SANGUE PELO CHEFE (HDCAM) LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a587217f8be569b0ce3e9c63a3ab274874b73c3d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nnryxxmgS17IBKvu23Hpg1mimZU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nesta moderna história de monstros sobre o leal servo de Drácula, Nicholas Hoult (Mad Max: Estrada da Fúria, franquia X-Men) estrela como Renfield, o torturado ajudante do chefe mais narcisista da história, Drácula (vencedor do Oscar® Nicolas Cage). Renfield é forçado a obter a presa de seu mestre e cumprir todas as suas ordens, não importa o quão degradado seja. Mas agora, após séculos de servidão, Renfield está pronto para ver se há uma vida fora da sombra do Príncipe das Trevas. Se ao menos ele pudesse descobrir como acabar com sua co-dependência.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TÁR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01c8c79a6825ed2277a50b66505ec090d13944be</link>

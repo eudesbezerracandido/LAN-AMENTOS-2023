@@ -4,6 +4,46 @@
 
 
 <item>
+<title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336C4D2040DCC562A39F67F62C247022685C30D1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</fanart>
+<info>Scott Lang e Hope Van Dyne, com Hank Pym e Janet Van Dyne, exploram o Reino Quântico, onde interagem com criaturas estranhas e embarcam em uma aventura que vai além dos limites do que eles achavam possível.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JOHN WICK  4 BABA YAGA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7hiG6XcjNsvDHhjC0vATqSl2fLX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O assassino profissional retorna às telas para John Wick 4: Baba Yaga. O assassino profissional John Wick (Keanu Reeves) agora virou metade do submundo contra ele com sua vingança, que agora está entrando em sua quarta rodada em Nova York, Berlim, Paris e Osaka. Sua equipe, composta por Bowery King (Laurence Fishburne), o gerente do hotel Winston (Ian McShane) e o concierge Charon (Lance Reddick) do lendário hotel assassino Continental, novamente fazem parte da festa. No entanto, as chances de escapar desta vez parecem quase impossíveis, pois o maior inimigo está surgindo. O implacável chefe do submundo Marquis de Gramont (Bill Skarsgård), que tem alianças inteiras atrás dele, representa a maior e sanguinária ameaça até hoje. Mas seus capangas também são durões, incluindo Shimazu (Hiroyuki Sanada) e Killa (Scott Adkins) localizados. Felizmente, existem velhos aliados como Caine (Donnie Yen) que correm para ajudar Wick. Não há caminho de volta, só um sobrevive.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SHAZAM - A FÚRIA DOS DEUSES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee52414f07f333a035e47dbe87534a69534ba3c5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5D0piyKxJMDd7h4zR5sQU72dUzI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Continua a história do adolescente Billy Batson que, ao recitar a palavra mágica “SHAZAM!”, é transformado em seu alto ego adulto de super-herói, Shazam.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O EXORCISTA DO PAPA ( HDCAM ) 8.5 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46BE9E1BB927F6DB732D83389DF99CDB458C0AE0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rBDAkmDdRv1bG996JPPNq0cMOVG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inspirado nos arquivos reais do Padre Gabriele Amorth, Chefe Exorcista do Vaticano, o padre que realizou mais de 100.000 exorcismos em sua vida, faleceu em 2016 aos 91 anos. Amorth escreveu duas memórias – An Exorcist Tells His Story e An Exorcist: More Stories – e detalhou suas experiências lutando contra Satanás e demônios que agarraram as pessoas em seu mal. O filme, sendo o retrato da figura da vida real, acompanha Amorth (Russell Crowe) enquanto ele investiga a terrível possessão de um menino e acaba descobrindo uma conspiração secular que o Vaticano tentou desesperadamente manter no esquecimento.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DUNGEONS & DRAGONS:HONRA ENTRE REBELDES ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B63B37A4496428E51CA79B2A3AFCCD6D1419CC2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/85ivt7lJm3J5Mqybdh59m09eksV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um mundo repleto de dragões, elfos, anões, orcs e outras criaturas fantásticas, sobreviver é sempre um grande desafio. Raven Hightower é um humano que se arrisca entre os lugares mais perigosos e misteriosos desse universo, sempre com a ajuda de outros aventureiros que, assim como ele, estão dispostos a combater o mal e a derrotar as mais terríveis criaturas que surgem em seus caminhos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RENFIELD - DANDO SANGUE PELO CHEFE (HDCAM) LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a587217f8be569b0ce3e9c63a3ab274874b73c3d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nnryxxmgS17IBKvu23Hpg1mimZU.jpg</thumbnail>
@@ -52,30 +92,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336C4D2040DCC562A39F67F62C247022685C30D1</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</fanart>
-<info>Scott Lang e Hope Van Dyne, com Hank Pym e Janet Van Dyne, exploram o Reino Quântico, onde interagem com criaturas estranhas e embarcam em uma aventura que vai além dos limites do que eles achavam possível.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] JOHN WICK  4 BABA YAGA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7hiG6XcjNsvDHhjC0vATqSl2fLX.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O assassino profissional retorna às telas para John Wick 4: Baba Yaga. O assassino profissional John Wick (Keanu Reeves) agora virou metade do submundo contra ele com sua vingança, que agora está entrando em sua quarta rodada em Nova York, Berlim, Paris e Osaka. Sua equipe, composta por Bowery King (Laurence Fishburne), o gerente do hotel Winston (Ian McShane) e o concierge Charon (Lance Reddick) do lendário hotel assassino Continental, novamente fazem parte da festa. No entanto, as chances de escapar desta vez parecem quase impossíveis, pois o maior inimigo está surgindo. O implacável chefe do submundo Marquis de Gramont (Bill Skarsgård), que tem alianças inteiras atrás dele, representa a maior e sanguinária ameaça até hoje. Mas seus capangas também são durões, incluindo Shimazu (Hiroyuki Sanada) e Killa (Scott Adkins) localizados. Felizmente, existem velhos aliados como Caine (Donnie Yen) que correm para ajudar Wick. Não há caminho de volta, só um sobrevive.</info>
-</item> 
-
-<item>
-<title>[COLOR silver][B] SHAZAM - A FÚRIA DOS DEUSES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee52414f07f333a035e47dbe87534a69534ba3c5</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5D0piyKxJMDd7h4zR5sQU72dUzI.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Continua a história do adolescente Billy Batson que, ao recitar a palavra mágica “SHAZAM!”, é transformado em seu alto ego adulto de super-herói, Shazam.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B]  A BALEIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e80e251f128ad1dfc6d6ea23dfb35323b0c2837</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4hhd8JuwsHTvpqW9wW9oebsHVu0.jpg</thumbnail>
@@ -84,27 +100,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] O EXORCISTA DO PAPA ( HDCAM ) 8.5 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46BE9E1BB927F6DB732D83389DF99CDB458C0AE0</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/rBDAkmDdRv1bG996JPPNq0cMOVG.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Inspirado nos arquivos reais do Padre Gabriele Amorth, Chefe Exorcista do Vaticano, o padre que realizou mais de 100.000 exorcismos em sua vida, faleceu em 2016 aos 91 anos. Amorth escreveu duas memórias – An Exorcist Tells His Story e An Exorcist: More Stories – e detalhou suas experiências lutando contra Satanás e demônios que agarraram as pessoas em seu mal. O filme, sendo o retrato da figura da vida real, acompanha Amorth (Russell Crowe) enquanto ele investiga a terrível possessão de um menino e acaba descobrindo uma conspiração secular que o Vaticano tentou desesperadamente manter no esquecimento.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] MEU AMIGO LUTCHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:871665f4eaf98dfab65d018e894a12b547ddffe7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Chupa: A Criatura Mítica segue o adolescente Alex e sua família, que vão para o México durante uma visita. Durante a visita no país latino-americano, ele faz uma amizade improvável com um monstro folclórico local, o chupa-cabra, que vive no galpão do avô. Para salvar a criatura, ele e seus primos embarcarão em uma grande aventura.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DUNGEONS & DRAGONS:HONRA ENTRE REBELDES ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B63B37A4496428E51CA79B2A3AFCCD6D1419CC2</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/85ivt7lJm3J5Mqybdh59m09eksV.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Em um mundo repleto de dragões, elfos, anões, orcs e outras criaturas fantásticas, sobreviver é sempre um grande desafio. Raven Hightower é um humano que se arrisca entre os lugares mais perigosos e misteriosos desse universo, sempre com a ajuda de outros aventureiros que, assim como ele, estão dispostos a combater o mal e a derrotar as mais terríveis criaturas que surgem em seus caminhos.</info>
 </item>
 
 <item>

@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] POWER RANGER: AGORA E SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b55b8caad04a30b64069c2abc7b027f577e04f7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lB1psIWct40ZSJPLp8wsQ98y0dI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Três décadas depois que o poderoso Zordon criou os Power Rangers, o grupo fica frente a frente com uma ameaça do passado. Em meio a uma crise global, os heróis são chamados mais uma vez para salvar o mundo. Este especial que celebra o trigésimo aniversário da franquia é inspirado no famoso lema “Uma vez Ranger, sempre Ranger”, o que significa: os integrantes da família Ranger são sempre recebidos de braços abertos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HOMEM FORMIGA & A VESPA - QUANTUMANIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:336C4D2040DCC562A39F67F62C247022685C30D1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg</thumbnail>

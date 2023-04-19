@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] CAÇADOR DE TORMENTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64b60c8177ab1ec4a8bf40b9fd39c7c03eac1cc5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g0UOstAfVWAK5FazCMfdWdkM38i.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O adolescente de bom coração William sempre viveu na esperança de seguir os passos de seu falecido pai e se tornar um caçador de tempestades. O legado de seu pai agora se transformou em um negócio turístico em busca de tempestades, administrado pelo ganancioso e imprudente Zane Rogers, que agora está usando William como a atração principal para liderar um grupo de aventureiros desavisados ​​​​no fundo do olho da supercélula mais perigosa de todos os tempos. visto.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DE FÉRIAS PARA O AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

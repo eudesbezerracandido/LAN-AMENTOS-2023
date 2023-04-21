@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ENCURRALADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b1ea7fbcc6ac934d680341c39cd697a8fc1cd50</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mnSqnhE3DwfvgxaGeqp3QC4VjoE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Em Encurralados, um casal decide se afastar de Istambul para escapar de um escândalo, então tentam recomeçar a vida em uma nova cidade. Mas logo que chegam ao novo endereço, descobrem que os moradores vão fazer de tudo para se livrar deles.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SEM RESPOSTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a38d3c49e6c3a7463a74838dbefc2dd71c4ca2f1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg</thumbnail>

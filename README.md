@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] SEM RESPOSTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a38d3c49e6c3a7463a74838dbefc2dd71c4ca2f1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O corretíssimo Cole se apaixona pela enigmática Sadie, mas logo enfrenta a chocante descoberta de que ela é uma agente secreta. Antes que eles possam decidir se terão ou não um segundo encontro, Cole e Sadie são arrastados para uma aventura internacional para salvar o mundo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CAÇADOR DE TORMENTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64b60c8177ab1ec4a8bf40b9fd39c7c03eac1cc5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/g0UOstAfVWAK5FazCMfdWdkM38i.jpg</thumbnail>

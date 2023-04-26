@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] JOGO PERFEITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb98874f12154dd58581aef3c94fba53ca15cb77</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5Qy4BkDxOCTbOjdywjWuB9zUU8p.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O bilionário e jogador de tecnologia Jake Foley (Crowe) organiza um jogo de pôquer de alto risco entre amigos de infância, oferecendo a eles a chance de ganhar mais dinheiro do que jamais sonharam. A noite muda quando ele revela seu elaborado plano de vingança por suas traições e para jogar, eles terão que desistir da única coisa que passaram a vida tentando manter… seus segredos. À medida que o jogo se desenrola, ladrões invadem e eles devem se unir para sobreviver a uma noite de terror.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CAVALEIROS DO ZODIACOS-SAINT SEIYA-O COMEÇO ( BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <utube>Eh5FgzR_4EU</utube>

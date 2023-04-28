@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] PETER PAN & WENDY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:682b9aa265bc9b9242b1095766287a38ed52f807</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dirigido por David Lowery, “Peter Pan e Wendy” apresenta Wendy Darling, uma jovem com medo de deixar sua casa de infância para trás, conhece Peter Pan, um menino que se recusa a crescer. Com seus irmãos e uma fada, Tinker Bell, ela viaja com Peter para o mundo mágico da Terra do Nunca. Lá, ela encontra o pirata perverso, Capitão Gancho, e embarca em uma aventura emocionante que vai mudar sua vida para sempre.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AGENTE INFILTRADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfe80a94a057adbc66346b8ed45e467b0ffb8c77</link>

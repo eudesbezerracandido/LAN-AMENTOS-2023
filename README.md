@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] AGENTE INFILTRADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfe80a94a057adbc66346b8ed45e467b0ffb8c77</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sgEUDZ1ZVTYLVLKWaXDud4COGLF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Agente Infiltrado é um filme francês de ação e suspense policial dirigido por Morgan S. Dalibert e produzido pela Inoxy Films e Nolita para a Netflix. A trama acompanha o agente infiltrado Adam Franco (Alban Lenoir), que tem anos de experiência realizando trabalhos suspeitos. Como sua próxima missão, Franco deve se infiltrar em um grande grupo de mafiosos franceses para impedir um ataque terrorista. Porém, após entrar no grupo, o agente começa a enfrentar um dilema moral. A situação e as dúvidas de Adam se intensificam ainda mais quando um garoto de oito anos, filho do chefe da máfia, entra na jogada.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TIC-TAC: A MATÉRNIDADE DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

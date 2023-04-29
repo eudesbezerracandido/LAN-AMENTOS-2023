@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CASAMENTO EM FAMÍLIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:903a7d46e41f4d64aefee046aac3930b5259c130</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1vi88La90aTwEtsRMNqXNwtTXn3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Michelle (Emma Roberts) e Allen (Luke Bracey) estão juntos há algum tempo e Michelle está começando a querer dar o próximo grande passo e se casar. Mas Allen não tem tanta certeza e entra em pânico. Desesperados, os dois recorrem aos pais. Mas eles têm seus próprios segredos. Quando o casal decide que todos podem se encontrar para jantar, o caos se instala, pois ambos os pais parecem ter uma conexão com o parceiro um do outro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AGENTE INFILTRADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfe80a94a057adbc66346b8ed45e467b0ffb8c77</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sgEUDZ1ZVTYLVLKWaXDud4COGLF.jpg</thumbnail>

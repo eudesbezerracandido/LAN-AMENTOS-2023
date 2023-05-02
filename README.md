@@ -3,9 +3,8 @@
 <item>
 <title>[COLOR silver][B] CAVALEIROS DO ZODIACOS-SAINT SEIYA-O COMEÇO ( Linguagem ESPANHOU )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/cz_20230502/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Saint%20Seiya-%20O%20Come%C3%A7o.mp4</link>
-<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/omPLRVEydDJdkXoBw87PWQ3heCY.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/uwyYXaXD2Bswg9FPKCZyICbHyIh.jpg</fanart>
 <info>Quando um órfão de rua teimoso em busca de sua irmã sequestrada involuntariamente toca em poderes ocultos, ele descobre que pode ser a única pessoa viva que pode proteger uma deusa reencarnada, enviada para vigiar a humanidade. Ele só se tornará um Cavaleiro do Zodíaco quando puder deixar sua irmã ir e abraçar seu destino.</info>
 </item>
 

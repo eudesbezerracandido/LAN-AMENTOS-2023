@@ -2,7 +2,7 @@
 
 <item>
 <title>[COLOR silver][B] CAVALEIROS DO ZODIACOS-SAINT SEIYA-O COMEÇO ( BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://free.freefirebrr.online/cB_R_kxWQJQjRWPijngWk7cZGXbnegLj-FB8eE9O0_9AfXjgZnaQRdo90ttaqCjaVVNCygoFD1kjdn9Q90yDBg/pHmObAX8AW3cFvWmJ2LWdYrV1-23FvGV7CYOOtGUVqE/720.m3u8</link>
+<link></link>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/omPLRVEydDJdkXoBw87PWQ3heCY.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>

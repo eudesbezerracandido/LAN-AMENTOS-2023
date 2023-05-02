@@ -1,7 +1,7 @@
 # LAN-AMENTOS-2023
 
 <item>
-<title>[COLOR silver][B] CAVALEIROS DO ZODIACOS-SAINT SEIYA-O COMEÇO ( BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] CAVALEIROS DO ZODIACOS-SAINT SEIYA-O COMEÇO ( Linguagem ESPANHOU )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/cz_20230502/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Saint%20Seiya-%20O%20Come%C3%A7o.mp4</link>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/omPLRVEydDJdkXoBw87PWQ3heCY.jpg</thumbnail>

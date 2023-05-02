@@ -1,7 +1,13 @@
 # LAN-AMENTOS-2023
 
-
-
+<item>
+<title>[COLOR silver][B] CAVALEIROS DO ZODIACOS-SAINT SEIYA-O COMEÇO ( BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://free.freefirebrr.online/cB_R_kxWQJQjRWPijngWk7cZGXbnegLj-FB8eE9O0_9AfXjgZnaQRdo90ttaqCjaVVNCygoFD1kjdn9Q90yDBg/pHmObAX8AW3cFvWmJ2LWdYrV1-23FvGV7CYOOtGUVqE/720.m3u8</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/omPLRVEydDJdkXoBw87PWQ3heCY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um órfão de rua teimoso em busca de sua irmã sequestrada involuntariamente toca em poderes ocultos, ele descobre que pode ser a única pessoa viva que pode proteger uma deusa reencarnada, enviada para vigiar a humanidade. Ele só se tornará um Cavaleiro do Zodíaco quando puder deixar sua irmã ir e abraçar seu destino.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PETER PAN & WENDY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -41,15 +47,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/5Qy4BkDxOCTbOjdywjWuB9zUU8p.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O bilionário e jogador de tecnologia Jake Foley (Crowe) organiza um jogo de pôquer de alto risco entre amigos de infância, oferecendo a eles a chance de ganhar mais dinheiro do que jamais sonharam. A noite muda quando ele revela seu elaborado plano de vingança por suas traições e para jogar, eles terão que desistir da única coisa que passaram a vida tentando manter… seus segredos. À medida que o jogo se desenrola, ladrões invadem e eles devem se unir para sobreviver a uma noite de terror.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] CAVALEIROS DO ZODIACOS-SAINT SEIYA-O COMEÇO ( BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<utube>Eh5FgzR_4EU</utube>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/omPLRVEydDJdkXoBw87PWQ3heCY.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Quando um órfão de rua teimoso em busca de sua irmã sequestrada involuntariamente toca em poderes ocultos, ele descobre que pode ser a única pessoa viva que pode proteger uma deusa reencarnada, enviada para vigiar a humanidade. Ele só se tornará um Cavaleiro do Zodíaco quando puder deixar sua irmã ir e abraçar seu destino.</info>
 </item>
 
 <item>

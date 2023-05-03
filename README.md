@@ -14,7 +14,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Dirigido por David Lowery, “Peter Pan e Wendy” apresenta Wendy Darling, uma jovem com medo de deixar sua casa de infância para trás, conhece Peter Pan, um menino que se recusa a crescer. Com seus irmãos e uma fada, Tinker Bell, ela viaja com Peter para o mundo mágico da Terra do Nunca. Lá, ela encontra o pirata perverso, Capitão Gancho, e embarca em uma aventura emocionante que vai mudar sua vida para sempre.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] CASAMENTO EM FAMÍLIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

@@ -145,7 +145,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] JOHN WICK  4 BABA YAGA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] JOHN WICK  4 BABA YAGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7hiG6XcjNsvDHhjC0vATqSl2fLX.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>

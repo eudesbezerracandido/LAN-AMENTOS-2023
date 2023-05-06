@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SUBSTITUTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff42c4dabffdd27f2eb163a9df3dd6d81798b647</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ro4XtqD2bdgIoeK4Ysy3rvNOCju.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte de seu marido, Evan, Faye decide transferir sua consciência para um androide, mas percebe que a inteligência artificial não é capaz de substituir seu verdadeiro amor e acaba entrando em uma inesperada trama de perseguição.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PETER PAN & WENDY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:682b9aa265bc9b9242b1095766287a38ed52f807</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg</thumbnail>

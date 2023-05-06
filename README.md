@@ -1,12 +1,13 @@
 # LAN-AMENTOS-2023
 
 
+
 <item>
-<title>[COLOR silver][B] A ROLETA DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cf36f6e547ec100c00bff93a2a8d053079454b9</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/yDziA0OTfZq19IBlQ6EUemraSfY.jpg</thumbnail>
+<title>[COLOR silver][B] GUARDIÕES DA GALÁXIA 3 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65AFC39A2ED9484691B648A556FBD5AF90F70F91</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gNGiErwNakC6snFJoVpcD7vYWGa.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Sete pessoas acordam sequestradas em uma mansão para fazerem parte de um jogo mortal. À medida que o relógio avança, para sobreviver, os sete competidores devem escolher um morrerá e o escolhido terá que concordar. Em 60 minutos, os maiores segredos virão à tona e eles descobrirão que estão todos unidos por um passado sombrio.</info>
+<info> Guardiões da Galáxia Vol. 3 Torrent – Em Guardiões da Galáxia Vol. 3, o amado grupo de desajustados busca se estabelecer em Lugar Nenhum, mas não demora muito para que suas vidas sejam reviradas pelos ecos do passado turbulento de Rocket (Bradley Cooper). Ainda se recuperando da perda de Gamora (Zoe Saldana), após os acontecimentos de Vingadores: Guerra Infinita (2018), Peter Quill (Chris Pratt) reúne sua equipe para defender o universo e um companheiro de equipe. Mas esta missão pode significar o fim dos Guardiões como conhecemos, se ela não for bem-sucedida. Encerramento da trilogia iniciada em 2014, sendo a continuação de Guardiões da Galáxia Vol. 2 (2017).</info>
 </item>
 
 <item>
@@ -15,6 +16,14 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/omPLRVEydDJdkXoBw87PWQ3heCY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uwyYXaXD2Bswg9FPKCZyICbHyIh.jpg</fanart>
 <info>Quando um órfão de rua teimoso em busca de sua irmã sequestrada involuntariamente toca em poderes ocultos, ele descobre que pode ser a única pessoa viva que pode proteger uma deusa reencarnada, enviada para vigiar a humanidade. Ele só se tornará um Cavaleiro do Zodíaco quando puder deixar sua irmã ir e abraçar seu destino.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A ROLETA DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cf36f6e547ec100c00bff93a2a8d053079454b9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yDziA0OTfZq19IBlQ6EUemraSfY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sete pessoas acordam sequestradas em uma mansão para fazerem parte de um jogo mortal. À medida que o relógio avança, para sobreviver, os sete competidores devem escolher um morrerá e o escolhido terá que concordar. Em 60 minutos, os maiores segredos virão à tona e eles descobrirão que estão todos unidos por um passado sombrio.</info>
 </item>
 
 <item>

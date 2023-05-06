@@ -1,5 +1,14 @@
 # LAN-AMENTOS-2023
 
+
+<item>
+<title>[COLOR silver][B] A ROLETA DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cf36f6e547ec100c00bff93a2a8d053079454b9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yDziA0OTfZq19IBlQ6EUemraSfY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sete pessoas acordam sequestradas em uma mansão para fazerem parte de um jogo mortal. À medida que o relógio avança, para sobreviver, os sete competidores devem escolher um morrerá e o escolhido terá que concordar. Em 60 minutos, os maiores segredos virão à tona e eles descobrirão que estão todos unidos por um passado sombrio.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CAVALEIROS DO ZODIACOS-SAINT SEIYA-O COMEÇO ( Linguagem ESPANHOU )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/cz_20230502/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Saint%20Seiya-%20O%20Come%C3%A7o.mp4</link>

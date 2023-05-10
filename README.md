@@ -1,6 +1,16 @@
 # LAN-AMENTOS-2023
 
 
+
+
+<item>
+<title>[COLOR silver][B] O URSO DO PÓ BRANCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc140be477613fa1b410a754c291aefde7c6244a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7tBvUMyZeJvpaAcnbV3vcCa753K.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O Urso do Pó Branco Torrent – Um grupo excêntrico de policiais, criminosos, turistas e adolescentes se convergem numa floresta da Geórgia, onde um urso negro de 200kg ingeriu uma quantidade impressionante de cocaína e partiu para uma fúria movida a coca por mais golpe… e sangue.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DUNGEONS & DRAGONS:HONRA ENTRE REBELDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4941d884c8ce876be900395cf92af3cc35e3760f</link>

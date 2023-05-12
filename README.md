@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ROYALTEEN: PRINCESA MARGRETHE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:289c1b56872a8ff64f7fe9f82e3f851423c59e19</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oWmcC2RENbkdS3BuPor530KzKDc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após o escândalo que viveu no baile do colegial do ano anterior, a princesa norueguesa Margrethe (Elli Rhiannon Müller Osborne) tem o sonho de levar uma vida normal. No entanto, por trás da sua imagem perfeita, há muitos problemas familiares complicados na realeza. Agora a jovem deve encontrar sua própria voz enquanto busca amadurecer e encontrar um amor verdadeiro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DUNGEONS & DRAGONS:HONRA ENTRE REBELDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4941d884c8ce876be900395cf92af3cc35e3760f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/85ivt7lJm3J5Mqybdh59m09eksV.jpg</thumbnail>

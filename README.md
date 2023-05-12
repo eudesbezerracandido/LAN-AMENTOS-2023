@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] SOMBRAS DE UM CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49f48a48d5bc20e394bf8c7bc99047840f6e083c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vRSbYibtGcEYBFfCAkkvSCF9eES.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Os negócios do investigador particular Philip Marlowe (Liam Neeson) vão mal quando a bela Clare Cavendish (Diane Kruger) ilumina seu escritório decadente com o rosto. Ela tem uma missão: seu amante Nico Peterson (François Arnaud) desapareceu sem deixar vestígios e Marlowe deve encontrá-lo. Um trabalho vem a calhar para o detetive e ele nunca foi capaz de recusar um desejo de uma beleza misteriosa. Ele também se apaixonou pela loira de olhos negros imediatamente. Então ele se joga no meio da busca e, assim, mais uma vez bem no meio de grandes problemas. Porque ele desvenda um mistério e logo assume uma família poderosa e riquíssima que não se esquiva de nada.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O URSO DO PÓ BRANCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

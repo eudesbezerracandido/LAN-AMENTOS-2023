@@ -28,6 +28,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CAVALEIROS DO ZODIACOS-SAINT SEIYA-O COMEÇO ( HDCAM & ESPANHOU )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5957637C38BD5D2D1124D6AF026AAE476C2104AF$nome=HDCAM DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28ac41bf223c0e038a0a47d7737c26bb73a58cb6$nome=ESPANHOU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/omPLRVEydDJdkXoBw87PWQ3heCY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uwyYXaXD2Bswg9FPKCZyICbHyIh.jpg</fanart>
+<info>Quando um órfão de rua teimoso em busca de sua irmã sequestrada involuntariamente toca em poderes ocultos, ele descobre que pode ser a única pessoa viva que pode proteger uma deusa reencarnada, enviada para vigiar a humanidade. Ele só se tornará um Cavaleiro do Zodíaco quando puder deixar sua irmã ir e abraçar seu destino.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUARDIÕES DA GALÁXIA 3 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65AFC39A2ED9484691B648A556FBD5AF90F70F91$nome=GUARDIÕES DA GALÁXIA 3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43b475e315987c500ced210fbf0fbe5a95083329$nome=GUARDIÕES 3 LEGENDADO</link>

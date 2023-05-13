@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] SISU ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc846c67d71e87f06652fff20ebac132ad55e8dc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xkPFPFZtimcuj86pXQyrVGxCKcd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nas profundezas do deserto da Lapônia, Aatami Korpi está em busca de ouro. De vez em quando, o sobrevoo de bombardeiros e os sons distantes da guerra podem ser ouvidos na noite de outono. Finalmente, o trabalho árduo é recompensado e o pó de ouro na panela se transforma em pedaços de ouro, e Aatami sai para levar seu tesouro de ouro para a cidade mais próxima. Depois que ele se depara com a patrulha nazista liderada pelo SS Obersturmführer Bruno Helldorf, começa uma perseguição de tirar o fôlego e faminta por ouro através do deserto destruído e minado da Lapônia.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A CRATERA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

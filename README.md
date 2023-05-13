@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SUPER MARIO BROS: O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91947597c21752ac8d6b4d1b312628c3540f4c54</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i9XdxHsFrcqLkRWSF1coOHo4R39.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Mario é um encanador junto com seu irmão Luigi. Um dia, eles vão parar no reino dos cogumelos, governado pela Princesa Peach, mas ameaçado pelo rei dos Koopas, que faz de tudo para conseguir reinar em todos os lugares.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A MÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d26eef480eec230cbe2d9aa5d975bb5c2ff66982</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5OeWHBMifiRPMz6eS23miS5ttED.jpg</thumbnail>

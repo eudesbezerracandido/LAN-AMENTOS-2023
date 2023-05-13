@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A CRATERA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88a2a9488550a90a9ecd825fc76aa28b23bb8ee5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/65CXDhp2Y0ro847Lzq9l1iQ9Hn6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Crater” é a história sobre o amadurecimento de Caleb Channing, que foi criado numa colônia de mineração lunar e está prestes a ser transferido permanentemente para um planeta idílico e distante após a morte do pai. Mas, antes de partir, ele e seus três melhores amigos, Dylan, Borney e Marcus, juntamente com Addison, uma recém-chegada da Terra, querem realizar o último desejo do pai dele. Então eles roubam um rover para viver uma última aventura e partem em uma jornada para explorar uma cratera misteriosa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A MÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d26eef480eec230cbe2d9aa5d975bb5c2ff66982</link>

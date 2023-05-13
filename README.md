@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A MÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d26eef480eec230cbe2d9aa5d975bb5c2ff66982</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5OeWHBMifiRPMz6eS23miS5ttED.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em A Mãe, Zoe (Lucy Paez) é uma adolescente de 13 anos, filha adotiva de um casal amoroso, com uma casa estável, e preocupações normais de uma menina de sua idade, como escola e amigos. Mas, sua vida tranquila sofre um choque, quando sua identidade é descoberta por criminosos perigosos, e ela é sequestrada à força na tentativa de alcançar sua mãe biológica, que ela mal conhece. Separada de seus pais adotivos, Zoe acaba se encontrando com sua mãe biológica, uma assassina mortal que sai do esconderijo para proteger a filha, da qual havia desistido anos antes. Os motivos do abandono são revelados, e enquanto fogem de homens perigosos, essa mãe emocionalmente mal preparada, tem uma necessidade primária de amar e proteger a adolescente. E enquanto reconstroem essa relação, buscam sobreviver. Filme com Jennifer Lopez.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOMBRAS DE UM CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49f48a48d5bc20e394bf8c7bc99047840f6e083c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vRSbYibtGcEYBFfCAkkvSCF9eES.jpg</thumbnail>

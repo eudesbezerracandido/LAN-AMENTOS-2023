@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DUPLA JORNADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f83d2082eae23f2616a2c1a1734d4b4445523a8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gmY6yEyvLlkqrgqYNXPp1llPZeT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Jamie Foxx interpreta um pai trabalhador que quer dar uma vida boa para a filha. O trabalho de limpeza de piscinas no Vale de San Fernando é uma fachada para sua verdadeira fonte de renda: caçar e matar vampiros como parte de uma união internacional de caçadores de vampiros.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SISU ( HDCAM ) INGLÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc846c67d71e87f06652fff20ebac132ad55e8dc</link>

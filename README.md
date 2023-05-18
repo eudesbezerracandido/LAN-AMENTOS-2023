@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] VELOZES & FURIOSOS 10 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84c8d54b60944efddff3ac89bcb86fd2264553af</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hc2ymDMfOCZ0JqrsMUBgL1GZXnz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ao longo de muitas missões e contra probabilidades impossíveis, Dom Toretto e sua família foram mais espertos, mais nervosos e superaram todos os inimigos em seu caminho. Agora, eles enfrentam o oponente mais letal que já enfrentaram: uma ameaça terrível emergindo das sombras do passado, alimentada por vingança de sangue e determinada a destruir esta família e destruir tudo - e todos - que Dom ama, para sempre. .</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ORGULHO E PRECONCEITO: TORNANDO-LHE ELIZABETH BENNET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18fc8eec6d4d9f06c6171a90f08f145c47a9cbab</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sxznJhZRFvxDMzy8tLGv5Eitdw9.jpg</thumbnail>

@@ -255,7 +255,7 @@
 
 <item>
 <title>[COLOR silver][B] 65-AMEAÇA PRÉ HISTÓRICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5ed201d349ac2bfeedcc074c379d59fc1a3e7a2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5ed201d349ac2bfeedcc074c379d59fc1a3e7a2</link> 
 <thumbnail>https://www.themoviedb.org/t/p/original/rzRb63TldOKdKydCvWJM8B6EkPM.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após um acidente catastrófico em um planeta desconhecido, o piloto Mills rapidamente descobre que está preso na Terra há 65 milhões de anos. Agora, com apenas uma chance de resgate, Mills e o único outro sobrevivente, Koa, devem atravessar um terreno desconhecido cheio de perigosas criaturas pré-históricas (incluindo dinossauros) em uma luta épica para sobreviver.</info>

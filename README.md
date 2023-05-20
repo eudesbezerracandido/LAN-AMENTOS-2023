@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A EXTORSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f9ca94f0d7c0e0257cfe541a1bd5915ff654f4d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wAQvIuLJRFo0LCr0gLQTng9KRco.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Guillermo Francella é Alejandro, um experiente piloto à beira da aposentadoria, chantageado e forçado a levar uma misteriosa carga de Buenos Aires a Madri para não ser penalizado por um grave erro que cometeu no trabalho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ORGULHO E PRECONCEITO: TORNANDO-LHE ELIZABETH BENNET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18fc8eec6d4d9f06c6171a90f08f145c47a9cbab</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sxznJhZRFvxDMzy8tLGv5Eitdw9.jpg</thumbnail>

@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SAYEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72f49a090f721ae1a310d3f8d37b0184d746b81b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nas florestas do sul do Chile, Sayen, uma jovem mapuche, sai em busca dos mercenários que assassinaram sua avó. Usando seu treinamento, ela consegue sobreviver e virar o jogo contra esses intrusos. Ela deve escolher entre ir embora ou proteger não só sua gente, mas também outros grupos nativos, da tenebrosa empresa que ameaça suas terras e seus meios de subsistência.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PLAY DEAD: NÓS BASTIDORES DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3754e2c15ca7e21085e5faf7783e9e893544226</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/h5bwT8fuE6VIaOslRezwDiL2DxK.jpg</thumbnail>

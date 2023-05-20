@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HOMEM BRANCOS NÃO SABEM ENTERRAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:337b3a8934c1a46b76ee621ef10902bf615c5425</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jK3nu1ZvjmQXOVhNz2OcdmF9nE9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Neste remake moderno do filme icônico, Jeremy, ex-astro do basquete cujas lesões paralisaram sua carreira, junta-se a Kamal, um jogador promissor que estragou seu próprio futuro no esporte. Equilibrando relacionamentos delicados, pressões financeiras e conflitos internos, esses jogadores de basquete de rua aparentemente opostos se unem numa última tentativa de viver seus sonhos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SAYEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72f49a090f721ae1a310d3f8d37b0184d746b81b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg</thumbnail>

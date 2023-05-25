@@ -1,6 +1,13 @@
 # LAN-AMENTOS-2023
 
 
+<item>
+<title>[COLOR silver][B] HORMÔNIOS Á FLOR DA PÉLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20ce866c47e368d07dd2f6c68e4f6cbe765c1c62</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xpDndQSw95YOIq5a3RSTo9ZZavw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Enquanto tentam sobreviver ao ensino médio, Charly e Paula vivem os hormônios à flor da pele e o medo de perder a amizade se revelarem o que sentem um pelo outro.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] VELOZES & FURIOSOS 10 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

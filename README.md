@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ASTERIX & OBELIX: O IMPERIO DO MEIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d8afbeb9684e3ee09192e4d2b28c2260c0a0bb3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cc04u9rMTbT3SIZUTEbDp4OmcQy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Estamos no ano 50 a.C. A Imperatriz da China acaba de ser aprisionada após um golpe de estado instigado por Deng Tsin Qin, um príncipe traiçoeiro.Auxiliada por Finalthesis, o mercador fenício, e pelo seu fiel guarda-costas Mai Wei, a única filha da imperatriz, a Princesa Sass-Yi, foge em direção à Gália para pedir o auxílio de dois corajosos guerreiros, Asterix e Obélix, que são dotados de força sobre-humana graças à sua poção mágica.Os dois heróis inseparáveis aceitam de bom grado ajudar a princesa a salvar a mãe e a libertar o seu país. Assim, tem início uma grande viagem e uma aventura a caminho da China.Porém, César e o seu poderoso exército, sedentos de uma nova conquista, partem também rumo ao Império do Meio…</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] A MÃE DO ANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d8afbeb9684e3ee09192e4d2b28c2260c0a0bb3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3kTffR2pOxjwVP1qI5RwWnktI4y.jpg</thumbnail>

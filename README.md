@@ -9,6 +9,14 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/85u2q8iUBDq2gj5iJrdD4lzckRq.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Filme A Pequena Sereia Dublado – Legendado – Ariel é uma curiosa sereia que deseja experimentar a vida em terra firme e, contra a vontade de seu pai, visita a superfície. Ariel se vê em uma inesperada jornada de autodescoberta ao encontrar um príncipe, uma bruxa do mar e um novo mundo incrível.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A MÃE DO ANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d8afbeb9684e3ee09192e4d2b28c2260c0a0bb3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3kTffR2pOxjwVP1qI5RwWnktI4y.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Filme A Mãe do Ano Dublado – Legendado – A Mãe do Ano é um filme de ação polonês dirigido por Mateusz Rakowicz, que mostra Nina (Agnieszka Grochowska), uma agente especial da OTAN aposentada. Ela tenta levar uma vida pacífica, longe do caos ao qual tinha se acostumado, mas quando seu filho, Max – que Nina nunca teve a chance de conhecer – é sequestrado por uma gangue de criminosos cruéis, a ex-agente decide que está na hora de voltar à ativa. Para ela, a missão é uma chance dupla: sentir a adrenalina de enfrentar o perigo como nos velhos tempos, e devolver a vida de Max como sempre deveria ter sido.</info>
 </item> 
 
 <item>

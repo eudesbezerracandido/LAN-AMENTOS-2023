@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS TRÊS MOSQUETEIROS:D'ARTAGNAN ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F3F5C8AFE66C9DB2E080375B2DDE4EA3DE2BDE7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hfExJPcbBtDeFDEb7I1By72Drlr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em um Reino dividido pelas guerras religiosas e ameaçado pela invasão da Inglaterra, um grupo de homens e mulheres cruzará suas espadas e unirá seu destino ao da França em Os Três Mosqueteiros: D’Artagnan. Segue-se d’Artagnan, um jovem gascão espirituoso que é dado como morto depois de tentar salvar uma jovem de um sequestro. Ao chegar a Paris, ele tenta por todos os meios encontrar seus agressores. Mal sabe ele que sua busca o levará ao centro de uma guerra real onde o futuro da França está em jogo. Aliado a Athos, Porthos e Aramis, três mosqueteiros do Rei com perigosa imprudência, d’Artagnan confronta as maquinações sombrias do Cardeal de Richelieu. Mas é quando ele se apaixona perdidamente por Constance Bonacieux, a confidente da rainha, que d’Artagnan está realmente em perigo. Porque é essa paixão que o leva atrás daquela que se torna sua inimiga mortal: Milady de Winter.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] ASTERIX & OBELIX: O IMPERIO DO MEIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9598df615605ca939ad9a56a8c2d4a2f02e0836c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cc04u9rMTbT3SIZUTEbDp4OmcQy.jpg</thumbnail>

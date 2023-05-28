@@ -4,7 +4,7 @@
 
 
 <item>
-<title>[COLOR silver][B] A PEQUENA SEREIA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] A PEQUENA SEREIA ESPANHOL ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51B86E2558CDB30B243E7CD7BA03AEB939320474</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/85u2q8iUBDq2gj5iJrdD4lzckRq.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>

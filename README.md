@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SANGUE E OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e509d83e2e838d6c0a44a9f621ed27f8eb375f3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1YZT69IKGRUV620PZFmniAGoVrG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Primavera de 1945. “Sangue e Ouro” se passa nos últimos dias da Segunda Guerra Mundial e conta a história do desertor alemão Henrique (Robert Maaser), da jovem e corajosa fazendeira Elsa (Marie Hacke) e de um grande grupo de nazistas. Henrique, que fugiu do front para voltar para casa e reencontrar a filha, se depara com uma tropa da SS. O líder (Alexander Scheer) decide enforcar Henrique em uma árvore, mas Elsa o salva e o esconde em sua fazenda. Enquanto isso, a SS procura um tesouro judaico escondido em um vilarejo próximo, mas enfrenta a resistência da população saturada que não quer entregar seu ouro. Henrique e Elsa são arrastados para uma caça eletrizante ao tesouro, que termina em um confronto sangrento na igreja local.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] OS TRÊS MOSQUETEIROS:D'ARTAGNAN ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F3F5C8AFE66C9DB2E080375B2DDE4EA3DE2BDE7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hfExJPcbBtDeFDEb7I1By72Drlr.jpg</thumbnail>

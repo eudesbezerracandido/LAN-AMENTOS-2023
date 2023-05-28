@@ -200,8 +200,9 @@
 
 <item>
 <title>[COLOR silver][B] GUARDIÕES DA GALÁXIA 3 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1834199FFBFC739F4D20B12687C853589A0CAA9A$nome=GUARDIÕES DA GALÁXIA 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1834199FFBFC739F4D20B12687C853589A0CAA9A$nome=GUARDIÕES 3 GALÁXIA 3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b8fa2513c3a31474e834a94f4cc7da1a67cabd5$nome=GUARDIÕES 3 LEGENDADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1834199FFBFC739F4D20B12687C853589A0CAA9A$nome=GUARDIÕES 3 DUBLADO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gNGiErwNakC6snFJoVpcD7vYWGa.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Guardiões da Galáxia Vol. 3 Torrent – Em Guardiões da Galáxia Vol. 3, o amado grupo de desajustados busca se estabelecer em Lugar Nenhum, mas não demora muito para que suas vidas sejam reviradas pelos ecos do passado turbulento de Rocket (Bradley Cooper). Ainda se recuperando da perda de Gamora (Zoe Saldana), após os acontecimentos de Vingadores: Guerra Infinita (2018), Peter Quill (Chris Pratt) reúne sua equipe para defender o universo e um companheiro de equipe. Mas esta missão pode significar o fim dos Guardiões como conhecemos, se ela não for bem-sucedida. Encerramento da trilogia iniciada em 2014, sendo a continuação de Guardiões da Galáxia Vol. 2 (2017).</info>

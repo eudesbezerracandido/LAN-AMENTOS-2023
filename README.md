@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TIN & TINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bedf9d2dd9282bf4d370fd7e9c478f612772acf6</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODJjMjQ0MjktNDE4OS00MWNjLWE3OTQtMDM0MGZhM2FmM2UzXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após sofrer um trágico aborto, Lola (Milena Smit) e seu marido Adolfo (Jaime Lorente) decidem adotar dois irmãos albinos que estavam vivendo no convento sob o cuidado das freiras. No entanto, a obsessão das crianças com a religião católica e a Bíblia Sagrada começa a incomodar o casal, a ponto de gerar consequências desastrosas.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] SANGUE E OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e509d83e2e838d6c0a44a9f621ed27f8eb375f3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1YZT69IKGRUV620PZFmniAGoVrG.jpg</thumbnail>

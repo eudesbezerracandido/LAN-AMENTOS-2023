@@ -160,7 +160,7 @@
 
 <item>
 <title>[COLOR silver][B] GUARDIÕES DA GALÁXIA 3 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65AFC39A2ED9484691B648A556FBD5AF90F70F91$nome=GUARDIÕES DA GALÁXIA 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1834199FFBFC739F4D20B12687C853589A0CAA9A$nome=GUARDIÕES DA GALÁXIA 3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b8fa2513c3a31474e834a94f4cc7da1a67cabd5$nome=GUARDIÕES 3 LEGENDADO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gNGiErwNakC6snFJoVpcD7vYWGa.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>

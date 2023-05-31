@@ -3,6 +3,7 @@
 
 
 
+
 <item>
 <title>[COLOR silver][B] BELO DESASTRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d52e90b16c69aff4f7518a09159df3ac5a38682</link>
@@ -12,8 +13,9 @@
 </item> 
 
 <item>
-<title>[COLOR silver][B] A PEQUENA SEREIA ESPANHOL ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51B86E2558CDB30B243E7CD7BA03AEB939320474</link>
+<title>[COLOR silver][B] A PEQUENA SEREIA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51B86E2558CDB30B243E7CD7BA03AEB939320474$nome=ESPANHOL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E7A732CCE12BAC29E5C61CBB2837A69195BF00C1$nome=DUBLADO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/85u2q8iUBDq2gj5iJrdD4lzckRq.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Filme A Pequena Sereia Dublado – Legendado – Ariel é uma curiosa sereia que deseja experimentar a vida em terra firme e, contra a vontade de seu pai, visita a superfície. Ariel se vê em uma inesperada jornada de autodescoberta ao encontrar um príncipe, uma bruxa do mar e um novo mundo incrível.</info>

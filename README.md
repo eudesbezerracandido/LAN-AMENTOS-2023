@@ -1,8 +1,13 @@
 # LAN-AMENTOS-2023 
 
 
-
-
+<item>
+<title>[COLOR silver][B] O SOLDADO FANTASMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc2be33f90a3a0580ec6837ad8d06a102bb118f3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kl8CzY2ApzC8BrYpnHq6evGD9dc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nas profundezas da floresta, dois meninos descobrem a entrada de um bunker secreto escondido desde a Segunda Guerra Mundial e, inadvertidamente, despertam um soldado morto-vivo, que embarca em uma matança grotesca e ritualística. Uma investigação policial começa, mas uma a uma a polícia e outros locais são assassinados. Apenas um veterano da Segunda Guerra Mundial detém o segredo para impedir as mortes, mas alguém acreditará nele?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HOMEM ARANHA - ATRAVÉS DO ARANHAVERSO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

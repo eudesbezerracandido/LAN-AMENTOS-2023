@@ -5,6 +5,14 @@
 
 
 <item>
+<title>[COLOR silver][B] HOMEM ARANHA - ATRAVÉS DO ARANHAVERSO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F873FDCCF90E33CFD99F1656FDABA0E737B5451</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Homem-Aranha: Através do Aranhaverso, é a continuação do vencedor do Oscar Homem-Aranha: No Aranhaverso, de 2018, que acompanha Miles Morales (Shameik Moore), o simpático Homem-Aranha do Brooklyn. Neste novo capítulo, Miles está de volta para uma nova missão em sua agitada vida como super herói. No novo filme, Morales é transportado para uma aventura épica através do multiverso, e deve unir forças com a mulher-aranha Gwen Stacy (Hailee Steinfeld) e um novo time de Pessoas-Aranha, formado por heróis de diversas dimensões. No entanto, tudo muda quando os heróis entram em conflito sobre como lidar com uma nova ameaça, e Miles se vê em um impasse. E para piorar ainda mais a situação, eles precisam enfrentar um vilão muito mais poderoso do que qualquer coisa que já tenham encontrado antes. Agora, para salvar as pessoas que ele mais ama no mundo, Miles deve redefinir o que significa ser um super herói.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BELO DESASTRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d52e90b16c69aff4f7518a09159df3ac5a38682</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uNIadSJbxQ0p0DtJLUPfVW6TAEu.jpg</thumbnail>

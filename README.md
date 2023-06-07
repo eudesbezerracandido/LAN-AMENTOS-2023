@@ -1,6 +1,16 @@
 # LAN-AMENTOS-2023 
 
 
+
+
+<item>
+<title>[COLOR silver][B] O MILAGRE DE TYSON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db46a5e85e8d7d91151f510961beb63def334e74</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1RPTzQiQ3JiRlG7uPMdiPEWbo5B.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um garoto autista e sem habilidades atléticas se esforça para se tornar um improvável campeão de maratona, realizando um sonho do seu pai e lhe dando uma segunda chance de colocar sua família em primeiro lugar</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O SOLDADO FANTASMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc2be33f90a3a0580ec6837ad8d06a102bb118f3</link>

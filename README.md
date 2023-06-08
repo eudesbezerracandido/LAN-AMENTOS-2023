@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] MINHA CULPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c381624ecb93d8918f7dddbba200d73e468015a8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a59iGvF609yAZ5tfZUoQ3XipeQH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Noah é obrigada a mudar de cidade, deixando seus amigos e namorado para trás, após sua mãe se casar com um novo marido rico. Lá ela conhece Nick, seu novo meio-irmão, e os dois se apaixonam loucamente, vivendo um grande romance proibido.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O MILAGRE DE TYSON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

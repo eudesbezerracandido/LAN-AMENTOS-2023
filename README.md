@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SISU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42D2B136CB42053F0ECD44CF4277177A3A813EE9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ygO9lowFMXWymATCrhoQXd6gCEh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de anos à procura de ouro, Aatami Korpi, encontra finalmente o tesouro de uma vida. Para levar o achado das colinas da Lapônia para a cidade, terá de atravessar o deserto ocupado pelas tropas nazis.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] PRIMEIRA COMUNHÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e569e2b5a21410ff53b4c8d7844edeed721b7a0c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AdI2MkMriHeay5AKUytfnW8oGct.jpg</thumbnail>

@@ -1,6 +1,14 @@
-# LAN-AMENTOS-2023 
+# LAN-AMENTOS-2023
 
 
+
+<item>
+<title>[COLOR silver][B]TRANSFORMERS-O DESPERTAR DAS FERAS ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F59F09D7379F4BA8423C5CFA00B8CC55F572A158</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d2SVY6NOQRnPuzsaP85brkWJGF9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fkYBA2s38nKxBAZBVIqeUNmi6QO.jpg</fanart>
+<info>Uma aventura global dos anos 90 que apresenta os Maximals, Predacons e Terrorcons à batalha existente na Terra entre Autobots e Decepticons.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PRIMEIRA COMUNHÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

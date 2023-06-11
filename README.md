@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] INFILTRADA: GOLPE DE VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:373e5f68de88738dfa52131e0af1277a995fa109</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qoiHW97hQTmFHwZYStMepK5rEzY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma boxeadora se infiltra em um esquema de tráfico humano em busca de sua irmã desaparecida. Quando a missão fica ainda mais pessoal, ela é forçada a lutar contra um poderoso cartel e confrontar seu passado traumático.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SISU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42D2B136CB42053F0ECD44CF4277177A3A813EE9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ygO9lowFMXWymATCrhoQXd6gCEh.jpg</thumbnail>

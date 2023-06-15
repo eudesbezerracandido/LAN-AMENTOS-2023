@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DANDO RENFIELD - SANGUE PELO CHEFE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2010f14178269fca454d9068a490db773bf1bbf3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8vfgvLkoPsE6s4i6dlJ9b2ikG7h.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nesta moderna história de monstros sobre o leal servo de Drácula, Nicholas Hoult (Mad Max: Estrada da Fúria, franquia X-Men) estrela como Renfield, o torturado ajudante do chefe mais narcisista da história, Drácula (vencedor do Oscar® Nicolas Cage). Renfield é forçado a obter a presa de seu mestre e cumprir todas as suas ordens, não importa o quão degradado seja. Mas agora, após séculos de servidão, Renfield está pronto para ver se há uma vida fora da sombra do Príncipe das Trevas. Se ao menos ele pudesse descobrir como acabar com sua co-dependência.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DEIXADOS PARA TRÁS: O INICIO DO FIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3aad46b776b2321964376c64df244b46f9596b4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/944LdA7uTyUO5vYc3hvqv5aRFow.jpg</thumbnail>

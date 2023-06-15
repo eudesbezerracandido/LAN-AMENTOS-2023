@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] THE FLASH 2023 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2B1781C9F1BA664EFAFA7B51EB50C15174EE0E0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/89GrfnscTLQJZDPwo2XewBfAF9x.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Todo mundo já pensou em voltar no tempo para mudar alguma coisa que incomodou a vida, é por isso que Flash decide fazer o mesmo. Depois dos eventos de Liga da Justiça, Barry Allen decide viajar no tempo para evitar o assassinato de sua mãe, pelo qual seu pai foi injustamente condenado à cadeia. O que ele não imaginava seria que sua atitude teria consequências catastróficas para o universo. Ao voltar no tempo, Allen se vê em um efeito borboleta e começa a viajar entre mundos diferentes do seu. Para voltar para seu plano original, Flash contará com a ajuda de versões de heróis que já conheceu, incluindo versões do Batman que já são conhecidas (Michael Keaton e Ben Affleck), para evitar mais quebras entre universos e voltar ao norma</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRANSFORMERS-O DESPERTAR DAS FERAS ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C7DAAD5647F58E7DCFA0C52F59A2527013D44E7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/d2SVY6NOQRnPuzsaP85brkWJGF9.jpg</thumbnail>

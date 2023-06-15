@@ -84,7 +84,7 @@
 
 <item>
 <title>[COLOR silver][B] HOMEM ARANHA - ATRAVÉS DO ARANHAVERSO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F873FDCCF90E33CFD99F1656FDABA0E737B5451$nome=HDCAM1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6FCB907CC927744D325598374432D7F43B7C7E$nome=HDCAM1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13D6DE5AB80B759B375D2F7FA5C3D860166921D8$nome=HDCAM2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>

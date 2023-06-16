@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O RESGATE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9869e1d88c4505f20c6101a9b099c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fpyLpijUvVkocOlVzWXQCV7fRv8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de escapar da morte por um triz, o mercenário Tyler Rake encara mais uma missão perigosa: resgatar a família de um criminoso implacável.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DANDO RENFIELD - SANGUE PELO CHEFE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2010f14178269fca454d9068a490db773bf1bbf3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8vfgvLkoPsE6s4i6dlJ9b2ikG7h.jpg</thumbnail>

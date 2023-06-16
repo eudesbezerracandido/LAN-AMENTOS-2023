@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O VILAREJO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccbe3a6635daeb4edf7a99d76b1a0ccf5366bdfb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9mPCRtKjtwDq2gbZTbrgmAp7SMl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem precisa trabalhar no aterro sanitário que destruiu a beleza do seu vilarejo, mas tudo o que ele quer é escapar desse destino.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O RESGATE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9869e1d88c4505f20c6101a9b099c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fpyLpijUvVkocOlVzWXQCV7fRv8.jpg</thumbnail>

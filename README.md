@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CHEVALIER: A VERDADEIRA HISTÓRIA NUNCA CONTADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a3cc0a5bd4ca5ade9ee74226a0b156873d697ed</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iLhp2fqA0VDIhnC20QHDnw5Yrcf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inspirado na incrível história do compositor Joseph Bologne, Chevalier de Saint-Georges. Filho de uma escrava africana e de um fazendeiro francês, Bologne alcança uma posição impensável ​​na sociedade como célebre violinista, compositor e esgrimista, além de viver um caso de amor malfadado e de se desentender com Maria Antonieta e sua corte.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DANDO RENFIELD - SANGUE PELO CHEFE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2010f14178269fca454d9068a490db773bf1bbf3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8vfgvLkoPsE6s4i6dlJ9b2ikG7h.jpg</thumbnail>

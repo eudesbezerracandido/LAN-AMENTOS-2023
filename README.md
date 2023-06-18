@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O PACTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e68805f93b408f3c3803b8ae1bb2fb1ff97c9cd9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pTQZT9R6YjKrweJ0llPtq57j1Z0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um sargento do Exército é resgatado de uma missão no Afeganistão pelo seu intérprete. Naquela que seria a sua última missão no estrangeiro, Kinley fica à beira da morte mas sobrevive graças a Ahmed, que o protege e o carrega por quilometros a fim de garantir a sua segurança. Sem se lembrar muito bem do que aconteceu, o sargento apenas sabe que quando o homem se encontra em risco de vida, como a sua família, é a sua verdadeira missão retribuir o favor e ajudá-lo a sobreviver.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O VILAREJO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccbe3a6635daeb4edf7a99d76b1a0ccf5366bdfb</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9mPCRtKjtwDq2gbZTbrgmAp7SMl.jpg</thumbnail>

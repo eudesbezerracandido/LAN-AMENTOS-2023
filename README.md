@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DESAPARECIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B4HLBQMSEW277ATXOWK5DQIPOMZIP6RE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fcJmqffmemRv9Eb2ZOkeqM5h5MO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando sua mãe desaparece durante uma viagem de férias na Colômbia com seu novo namorado, a busca de June por respostas. Presa há milhares de quilômetros em Los Angeles, June faz uso dos recursos tecnológicos para tentar encontrá-la. Mas quanto mais fundo ela cava, mais questões surgem; e quando se depara com segredos de sua mãe, descobre que talvez nunca tenha conhecido sua mãe de verdade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O PACTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e68805f93b408f3c3803b8ae1bb2fb1ff97c9cd9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pTQZT9R6YjKrweJ0llPtq57j1Z0.jpg</thumbnail>

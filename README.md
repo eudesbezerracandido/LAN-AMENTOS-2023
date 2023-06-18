@@ -39,7 +39,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a3cc0a5bd4ca5ade9ee74226a0b156873d697ed</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iLhp2fqA0VDIhnC20QHDnw5Yrcf.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Inspirado na incrível história do compositor Joseph Bologne, Chevalier de Saint-Georges. Filho de uma escrava africana e de um fazendeiro francês, Bologne alcança uma posição impensável ​​na sociedade como célebre violinista, compositor e esgrimista, além de viver um caso de amor malfadado e de se desentender com Maria Antonieta e sua corte.</info>
+<info>Inspirado na incrível história do compositor Joseph Bologne, Chevalier de Saint-Georges. Filho de uma escrava africana e de um fazendeiro francês, Bologne alcança uma posição impensável na sociedade como célebre violinista, compositor e esgrimista, além de viver um caso de amor malfadado e de se desentender com Maria Antonieta e sua corte.</info>
 </item>
 
 <item>

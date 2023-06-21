@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BEAU TEM MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B96B1A105400E077F5D500660F9C96A96D47DA9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vPZnGnrLok0S5ZHPL5H8RG4PmEK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte repentina de sua mãe, um homem gentil e atormentado pela sua ansiedade enfrenta seus medos mais obscuros enquanto embarca em uma jornada épica e Kafkaesca de volta para casa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRANSFORMERS-O DESPERTAR DAS FERAS ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C7DAAD5647F58E7DCFA0C52F59A2527013D44E7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/d2SVY6NOQRnPuzsaP85brkWJGF9.jpg</thumbnail>

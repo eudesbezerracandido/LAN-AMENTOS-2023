@@ -11,19 +11,36 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] BEAU TEM MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B96B1A105400E077F5D500660F9C96A96D47DA9</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/vPZnGnrLok0S5ZHPL5H8RG4PmEK.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Após a morte repentina de sua mãe, um homem gentil e atormentado pela sua ansiedade enfrenta seus medos mais obscuros enquanto embarca em uma jornada épica e Kafkaesca de volta para casa.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] TRANSFORMERS-O DESPERTAR DAS FERAS ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C7DAAD5647F58E7DCFA0C52F59A2527013D44E7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/d2SVY6NOQRnPuzsaP85brkWJGF9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fkYBA2s38nKxBAZBVIqeUNmi6QO.jpg</fanart>
 <info>Uma aventura global dos anos 90 que apresenta os Maximals, Predacons e Terrorcons à batalha existente na Terra entre Autobots e Decepticons.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SISU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42D2B136CB42053F0ECD44CF4277177A3A813EE9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ygO9lowFMXWymATCrhoQXd6gCEh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de anos à procura de ouro, Aatami Korpi, encontra finalmente o tesouro de uma vida. Para levar o achado das colinas da Lapônia para a cidade, terá de atravessar o deserto ocupado pelas tropas nazis.</info>
+</item> 
+
+<item>
+<title>[COLOR silver][B] O RESGATE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9869e1d88c4505f20c6101a9b099c8a8d2074ed$nome=O RESGATE 2</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BJI3Q22ST3BUOP5LC4LXZDN3CB6WILB5$nome=O RESGATE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fpyLpijUvVkocOlVzWXQCV7fRv8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de escapar da morte por um triz, o mercenário Tyler Rake encara mais uma missão perigosa: resgatar a família de um criminoso implacável.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BEAU TEM MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B96B1A105400E077F5D500660F9C96A96D47DA9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vPZnGnrLok0S5ZHPL5H8RG4PmEK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte repentina de sua mãe, um homem gentil e atormentado pela sua ansiedade enfrenta seus medos mais obscuros enquanto embarca em uma jornada épica e Kafkaesca de volta para casa.</info>
 </item>
 
 <item>
@@ -48,15 +65,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/9mPCRtKjtwDq2gbZTbrgmAp7SMl.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um jovem precisa trabalhar no aterro sanitário que destruiu a beleza do seu vilarejo, mas tudo o que ele quer é escapar desse destino.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] O RESGATE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9869e1d88c4505f20c6101a9b099c8a8d2074ed$nome=O RESGATE 2</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BJI3Q22ST3BUOP5LC4LXZDN3CB6WILB5$nome=O RESGATE</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fpyLpijUvVkocOlVzWXQCV7fRv8.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Depois de escapar da morte por um triz, o mercenário Tyler Rake encara mais uma missão perigosa: resgatar a família de um criminoso implacável.</info>
 </item>
 
 <item>
@@ -90,14 +98,6 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma boxeadora se infiltra em um esquema de tráfico humano em busca de sua irmã desaparecida. Quando a missão fica ainda mais pessoal, ela é forçada a lutar contra um poderoso cartel e confrontar seu passado traumático.</info>
 </item>
-
-<item>
-<title>[COLOR silver][B] SISU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42D2B136CB42053F0ECD44CF4277177A3A813EE9</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ygO9lowFMXWymATCrhoQXd6gCEh.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Depois de anos à procura de ouro, Aatami Korpi, encontra finalmente o tesouro de uma vida. Para levar o achado das colinas da Lapônia para a cidade, terá de atravessar o deserto ocupado pelas tropas nazis.</info>
-</item> 
 
 <item>
 <title>[COLOR silver][B] PRIMEIRA COMUNHÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/ygO9lowFMXWymATCrhoQXd6gCEh.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Depois de anos à procura de ouro, Aatami Korpi, encontra finalmente o tesouro de uma vida. Para levar o achado das colinas da Lapônia para a cidade, terá de atravessar o deserto ocupado pelas tropas nazis.</info>
-</item> 
+</item>
 
 <item>
 <title>[COLOR silver][B] O RESGATE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

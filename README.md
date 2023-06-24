@@ -35,6 +35,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] INUMBER: O OURO DE JOENESBURGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5eef2d4113409861adb96fd7af37624899740ab0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lfsbL4QcmMKJvdVYE36tPRmoaiv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No submundo do crime de Joanesburgo, na África do Sul, um policial infiltrado tem o dever de impedir o maior roubo de ouro da história do continente, mas se vê em um dilema. Será que ele deve seguir a lei e proteger a fortuna de um ditador ou ajudar um grupo de criminosos audaciosos a conseguir o que quer?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O RESGATE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9869e1d88c4505f20c6101a9b099c8a8d2074ed$nome=O RESGATE 2</link>
   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BJI3Q22ST3BUOP5LC4LXZDN3CB6WILB5$nome=O RESGATE</link>

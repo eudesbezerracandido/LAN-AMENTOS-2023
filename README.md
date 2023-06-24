@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O MELHOR DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4db90ff9ee7921fffcbeaccd9cf7e866e1f47f8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4kEsUVpzjvPMsY7TQOQP5ipVmnh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Enquanto vivencia as tumultuosas dificuldades da adolescência, o gênio da matemática de 12 anos, Prem Patel, descobre que seu pai, recentemente falecido, era um rapper famoso e imediatamente busca descobrir mais sobre a vida e paixões dele. Embora suas ações pareçam inconsequentes e a forma mais rápida de ele perder tudo, Prem, incentivado por fantasias imaginativas cheias de hip-hop, está determinado a descobrir se tem hip-hop no DNA.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O RESGATE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9869e1d88c4505f20c6101a9b099c8a8d2074ed$nome=O RESGATE 2</link>
   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BJI3Q22ST3BUOP5LC4LXZDN3CB6WILB5$nome=O RESGATE</link>

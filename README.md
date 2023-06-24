@@ -35,6 +35,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TESLA: O HOMEM ELÉTRICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5615b7258f75d77e04079c1b2702f327cd9445b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xD6ytmowMxYcrPCh4oYhcWyuTF0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Com Ethan Hawke. A história real do gênio revolucionário Nikola Tesla. De sua relação com Thomas Edison a seus experimentos com a eletricidade e a criação de um novo sistema mundial de transmissão de energia sem fio.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] INUMBER: O OURO DE JOENESBURGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5eef2d4113409861adb96fd7af37624899740ab0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lfsbL4QcmMKJvdVYE36tPRmoaiv.jpg</thumbnail>

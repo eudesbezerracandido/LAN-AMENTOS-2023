@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VELOZES & FURIOSOS 10 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e7e9bd3e8f97215db09d1224003bd9f5c787a41</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hc2ymDMfOCZ0JqrsMUBgL1GZXnz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ao longo de muitas missões e contra probabilidades impossíveis, Dom Toretto e sua família foram mais espertos, mais nervosos e superaram todos os inimigos em seu caminho. Agora, eles enfrentam o oponente mais letal que já enfrentaram: uma ameaça terrível emergindo das sombras do passado, alimentada por vingança de sangue e determinada a destruir esta família e destruir tudo - e todos - que Dom ama, para sempre. .</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRANSFORMERS-O DESPERTAR DAS FERAS ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C7DAAD5647F58E7DCFA0C52F59A2527013D44E7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/d2SVY6NOQRnPuzsaP85brkWJGF9.jpg</thumbnail>
@@ -230,17 +238,6 @@
 </item> 
 
 <item>
-<title>[COLOR silver][B] VELOZES & FURIOSOS 10 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:789FA90E3024F269785CC50B302135F7820A5737$nome=HDCAM</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ac05cdeb8e069b54b68a8aa79b984fe9f5f24e5$nome=SEM ANÚNCIOS</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F144BAD18DA96DC727F3D183A367CDA59280815F$nome=DUBLADO 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B62DE5D63FDDFA5F145C0A6E3D8E4CFD2C39561$nome=DUBLADO 2</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hc2ymDMfOCZ0JqrsMUBgL1GZXnz.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Ao longo de muitas missões e contra probabilidades impossíveis, Dom Toretto e sua família foram mais espertos, mais nervosos e superaram todos os inimigos em seu caminho. Agora, eles enfrentam o oponente mais letal que já enfrentaram: uma ameaça terrível emergindo das sombras do passado, alimentada por vingança de sangue e determinada a destruir esta família e destruir tudo - e todos - que Dom ama, para sempre. .</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] HOMEM BRANCOS NÃO SABEM ENTERRAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:337b3a8934c1a46b76ee621ef10902bf615c5425</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jK3nu1ZvjmQXOVhNz2OcdmF9nE9.jpg</thumbnail>
@@ -286,14 +283,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/gmY6yEyvLlkqrgqYNXPp1llPZeT.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Jamie Foxx interpreta um pai trabalhador que quer dar uma vida boa para a filha. O trabalho de limpeza de piscinas no Vale de San Fernando é uma fachada para sua verdadeira fonte de renda: caçar e matar vampiros como parte de uma união internacional de caçadores de vampiros.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SISU ( HDCAM ) INGLÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc846c67d71e87f06652fff20ebac132ad55e8dc</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/xkPFPFZtimcuj86pXQyrVGxCKcd.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Nas profundezas do deserto da Lapônia, Aatami Korpi está em busca de ouro. De vez em quando, o sobrevoo de bombardeiros e os sons distantes da guerra podem ser ouvidos na noite de outono. Finalmente, o trabalho árduo é recompensado e o pó de ouro na panela se transforma em pedaços de ouro, e Aatami sai para levar seu tesouro de ouro para a cidade mais próxima. Depois que ele se depara com a patrulha nazista liderada pelo SS Obersturmführer Bruno Helldorf, começa uma perseguição de tirar o fôlego e faminta por ouro através do deserto destruído e minado da Lapônia.</info>
 </item>
 
 <item>

@@ -52,6 +52,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RUBY MARINHO-MOSTRO ADOLESCENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:684E84A55CBDAE7EF4DA977F1ED9E5F3457EC72A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lotWiuWuTGlQ94rzBdy6ZmKZnTA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Ruby Marinho – Monstro Adolescente, Ruby (Lana Condor) é uma adolescente típica. Ela cresceu em uma cidade litorânea na Flórida e, como todos os adolescentes, tem vergonha de sua família. Mas, neste caso, Ruby tem um motivo especial para se envergonhar: ela vem de uma família de monstros marinhos! Ninguém na cidade sabe, mas a pobre Ruby tem medo de que algum dia a verdade seja revelada. O que seria então de sua vida social? Isso seria um desastre. Os Marinho são diferentes, mas os vizinhos culpam o fato de a família ser do Canadá. Claro, a verdade surge e o desastre acontece.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O NASCIMENTO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3afe64f4fb5081094e001577d7c1a48d7dac84c9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dyZF3BqHD24J4UTdwK8OMuK5mfI.jpg</thumbnail>

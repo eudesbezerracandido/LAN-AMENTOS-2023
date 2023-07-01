@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] INDIANA JONES E A RELIQUIA DO DESTINO ( HDACAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59573263C8C6449A5A176C8BFD710BCA6CA917C0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gTAR51U4eAiCokNqtRy7FsprUar.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>(Harrisson Ford), famoso arqueólogo, professor e aventureiro, embarca em mais uma missão inesperada. Neste retorno do herói lendário, Indiana Jones, na quinta parcela da icônica série de filmes, encontra-se em uma nova era, aproximando-se da aposentadoria. Ele luta para se encaixar em um mundo que parece tê-lo superado. Mas quando as garras de um mal muito familiar retornam na forma de um antigo rival, Indiana Jones deve colocar seu chapéu e pegar seu chicote mais uma vez para garantir que um antigo e poderoso artefato não caia nas mãos erradas. Mas, desta vez, ele tem o sangue de uma nova geração para o ajudar nas suas descobertas e na sua luta contra o vilão Jürgen Voller (Mads Mikkelsen). Acompanhado de sua afilhada, Helena Shaw (Phoebe Waller-Bridge), o arqueólogo corre contra o tempo para recuperar o item que pode mudar o curso da história.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] THE FLASH 2023 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2B1781C9F1BA664EFAFA7B51EB50C15174EE0E0</link>

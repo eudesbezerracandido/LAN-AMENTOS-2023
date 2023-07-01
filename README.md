@@ -52,6 +52,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O NASCIMENTO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3afe64f4fb5081094e001577d7c1a48d7dac84c9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dyZF3BqHD24J4UTdwK8OMuK5mfI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de anos tentando desesperadamente criar uma família, Julie (Melissa Barrera) está finalmente grávida de novo e se mudando para uma nova casa com seu marido Daniel (Guy Burnet). Ambos estão ansiosos para um novo começo. Quando Julie é colocada em repouso absoluto na cama, ela lentamente começa ser consumida pela monotonia e a ansiedade de suas novas compulsões. Experiências horríveis e assustadoras no apartamento logo começam a cair sobre Julie, despertando demônios de seu passado e fazendo com que outras pessoas questionem sua sanidade. Presa e forçada a enfrentar seu passado e o sobrenatural, Julie luta para proteger a si mesma e a seu bebê ainda não nascido.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FRIO NÓS OSSOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd70d6cdd486803ec3cd5a9c26632ebd603057ab</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ttPNKyqXv3kK92tCw4zI7tjOaOn.jpg</thumbnail>

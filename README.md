@@ -52,6 +52,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FRIO NÓS OSSOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd70d6cdd486803ec3cd5a9c26632ebd603057ab</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ttPNKyqXv3kK92tCw4zI7tjOaOn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nimona é um filme de animação baseado na graphic novel homônima de N. D. Stevenson, onde acompanhamos Ballister Boldheart (Riz Ahmed), um cavaleiro enquadrado por um crime que não cometeu. Para provar sua inocência, a única esperança do homem é aceitar a ajuda de Nimona (Chloë Grace Moretz), uma jovem transmorfa – que também pode ser o monstro que Boldheart um dia jurou matar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MELHOR DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4db90ff9ee7921fffcbeaccd9cf7e866e1f47f8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4kEsUVpzjvPMsY7TQOQP5ipVmnh.jpg</thumbnail>

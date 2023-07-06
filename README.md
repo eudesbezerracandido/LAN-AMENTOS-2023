@@ -52,6 +52,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]A PROFECIA DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44cefa3d3a690134386709fccf11e957de2eb568</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma poderosa empresa de biotecnologia faz uma descoberta de ponta, permitindo a clonagem de a partir de meros fragmentos de DNA, inclusive figuras históricas. Por trás dessa empresa, está um grupo de satanistas que rouba o Santo Sudário, ficando em posse do DNA de Jesus Cristo. O clone será a última oferenda ao Diabo. O Arcanjo Miguel vem à Terra e fará de tudo para acabar com esta profecia do mal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RUBY MARINHO-MOSTRO ADOLESCENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:684E84A55CBDAE7EF4DA977F1ED9E5F3457EC72A</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lotWiuWuTGlQ94rzBdy6ZmKZnTA.jpg</thumbnail>

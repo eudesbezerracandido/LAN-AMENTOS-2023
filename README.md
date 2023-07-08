@@ -52,6 +52,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ESTAÇÃO DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37cb5158c0c9b964de1dbbf16141c30dc003fcdf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/he3FIuyDwmFABb21QM6F4P5Z8z5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após uma série de relacionamentos fracassados, um casal de amigos decide se arriscar em busca do amor e pode acabar encontrando a resposta um no outro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEUS SOGROS ESTÃO PRO CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3608730bf053a1f44d1b96d6b8c94bdefe8b56c0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/49nATL5ugRRdz5dQdWuPuTzB8BE.jpg</thumbnail>

@@ -52,6 +52,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MEUS SOGROS ESTÃO PRO CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3608730bf053a1f44d1b96d6b8c94bdefe8b56c0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/49nATL5ugRRdz5dQdWuPuTzB8BE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O gerente do banco Owen (Adam Devine) está animado para se casar com Parker (Nina Dobrev), o amor de sua vida. Os sogros (Pierce Brosnan, Ellen Barkin) acabaram de chegar à cidade e é hora das últimas horas de trabalho. O banco é roubado pelos notórios Bandidos Fantasmas e Owen fica com uma terrível suspeita: seus futuros sogros são os criminosos lendários?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM MOTIVO PARA LUTAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a61969936bab23f79a78d936143e5712733c296a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/n5320Te725bESCpbHPX0li0VZBw.jpg</thumbnail>

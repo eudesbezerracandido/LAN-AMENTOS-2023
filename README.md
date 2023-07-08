@@ -399,8 +399,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] GUARDIÕES DA GALÁXIA 3 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1834199FFBFC739F4D20B12687C853589A0CAA9A$nome=GUARDIÕES 3 GALÁXIA 3</link>
+<title>[COLOR silver][B] GUARDIÕES DA GALÁXIA 3 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2180E97388C1EA78FA284F3779624BE5EC420A4F$nome=GUARDIÕES 3 GALÁXIA 3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b8fa2513c3a31474e834a94f4cc7da1a67cabd5$nome=GUARDIÕES 3 LEGENDADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1834199FFBFC739F4D20B12687C853589A0CAA9A$nome=GUARDIÕES 3 DUBLADO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gNGiErwNakC6snFJoVpcD7vYWGa.jpg</thumbnail>

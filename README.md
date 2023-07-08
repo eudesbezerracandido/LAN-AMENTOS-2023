@@ -52,6 +52,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM MOTIVO PARA LUTAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a61969936bab23f79a78d936143e5712733c296a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n5320Te725bESCpbHPX0li0VZBw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Greg, um agente da DGIS (Direção Geral de Segurança Interna), se infiltra numa ZAD (Zona À Défender) com uma identidade falsa. Lá ele conhece Myriam, uma ativista ambiental. 18 meses depois, Greg retorna à ZAD numa missão oficial, reencontra Myriam e descobre que ela teve um bebê. Dividido entre sua ambição profissional e o amor nascente, Greg deve tomar uma decisão que pode mudar tudo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SISU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42D2B136CB42053F0ECD44CF4277177A3A813EE9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ygO9lowFMXWymATCrhoQXd6gCEh.jpg</thumbnail>

@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] TRANSFORMERS-O DESPERTAR DAS FERAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:402D347491CFFEDE6A90FCB805FD952D8B1C6FEF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d2SVY6NOQRnPuzsaP85brkWJGF9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fkYBA2s38nKxBAZBVIqeUNmi6QO.jpg</fanart>
+<info>Uma aventura global dos anos 90 que apresenta os Maximals, Predacons e Terrorcons à batalha existente na Terra entre Autobots e Decepticons.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] INDIANA JONES E A RELIQUIA DO DESTINO ( HDACAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -33,14 +40,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/hc2ymDMfOCZ0JqrsMUBgL1GZXnz.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Ao longo de muitas missões e contra probabilidades impossíveis, Dom Toretto e sua família foram mais espertos, mais nervosos e superaram todos os inimigos em seu caminho. Agora, eles enfrentam o oponente mais letal que já enfrentaram: uma ameaça terrível emergindo das sombras do passado, alimentada por vingança de sangue e determinada a destruir esta família e destruir tudo - e todos - que Dom ama, para sempre. .</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] TRANSFORMERS-O DESPERTAR DAS FERAS ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C7DAAD5647F58E7DCFA0C52F59A2527013D44E7</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/d2SVY6NOQRnPuzsaP85brkWJGF9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/fkYBA2s38nKxBAZBVIqeUNmi6QO.jpg</fanart>
-<info>Uma aventura global dos anos 90 que apresenta os Maximals, Predacons e Terrorcons à batalha existente na Terra entre Autobots e Decepticons.</info>
 </item>
 
 <item>

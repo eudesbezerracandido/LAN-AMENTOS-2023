@@ -4,10 +4,19 @@
 <item>
 <title>[COLOR silver][B] MISSÃO: IMPOSSÍVEL - ACERTO DE CONTAS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:262DF2E7AD0E175DE3CD8D1D64AE618F5345F0D0$nome=MISSÃO:IMPOSSÍVEL ACERTO DE CONTAS</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:182301e9ef59e96a84a32ad67fee3394870543b6$nome=QUADRILOGIA DA MISSÃO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:182301e9ef59e96a84a32ad67fee3394870543b6$nome=QUADRILOGIA DA MISSÃO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7TsfjhvzgiIaf9POEmfkYOPJF15.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Missão Impossível 7: Acerto de Contas Parte 1 é o sétimo capítulo da franquia de ação e espionagem iniciada em 1996, que acompanha o agente norte-americano Ethan Hunt (Tom Cruise) em missões altamente secretas e perigosas. Agora, no novo filme, Ethan e a equipe do IMF formada por Ilsa Faust (Rebecca Ferguson), Benji Dunn (Simon Pegg) e Luther Stickell (Ving Rhames) recebem outra importante missão: eles devem rastrear uma nova e aterrorizante arma que, se cair nas mãos erradas, pode representar uma ameaça para toda a humanidade. Com o controle do futuro e o destino de todo o mundo em jogo, a equipe precisa partir em uma corrida frenética e mortal ao redor do planeta. Além disso, Ethan ainda é confrontado por um novo inimigo misterioso e muito perigoso, e é forçado a aceitar que, para completar o desafio, nada pode importar mais do que a missão – nem mesmo sua própria vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BIRD BOX: BARCELONA DUOLOGIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2838FB9D99B821022EE98D5CD9E2A49EFB99914$nome=BIRD BOX 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76c11e016a06317d41e9b867548ca154d522df19$nome=BIRD BOX 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iTGBHdL12QEpLyRVlykDuiYxzAG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Bird Box: Barcelona Torrent – Bird Box Barcelona é uma expansão do universo de Bird Box. Dos mesmos produtores do fenômeno global que conquistou o público em 2018, depois que uma força misteriosa dizima a população do mundo, fazendo com que todos que a vejam tirem suas vidas, Sebastian (Mario Casas) e sua filha Anna (Alejandra Howard) precisam enfrentar uma jornada de sobrevivência pelas ruas desoladas de Barcelona. Mas, ao desenvolver uma aliança incômoda junto a outros sobreviventes em busca de um lugar seguro, eles descobrem uma ameaça ainda mais assustadora que não para de crescer. Sem esquecer de cobrir os olhos do mal que os persegue.</info>
 </item>
 
 <item>
@@ -166,7 +175,7 @@
 <item>
 <title>[COLOR silver][B] O RESGATE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9869e1d88c4505f20c6101a9b099c8a8d2074ed$nome=O RESGATE 2</link>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BJI3Q22ST3BUOP5LC4LXZDN3CB6WILB5$nome=O RESGATE</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BJI3Q22ST3BUOP5LC4LXZDN3CB6WILB5$nome=O RESGATE</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fpyLpijUvVkocOlVzWXQCV7fRv8.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Depois de escapar da morte por um triz, o mercenário Tyler Rake encara mais uma missão perigosa: resgatar a família de um criminoso implacável.</info>

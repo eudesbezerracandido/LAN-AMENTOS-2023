@@ -12,8 +12,8 @@
 
 <item>
 <title>[COLOR silver][B] BIRD BOX: BARCELONA DUOLOGIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F2E493F7BC5B151BAB813A2153B4A9AE077932F7$nome=BIRD BOX 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76c11e016a06317d41e9b867548ca154d522df19$nome=BIRD BOX 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F2E493F7BC5B151BAB813A2153B4A9AE077932F7$nome=BIRDBOX 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76c11e016a06317d41e9b867548ca154d522df19$nome=BIRDBOX 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iTGBHdL12QEpLyRVlykDuiYxzAG.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Bird Box: Barcelona Torrent – Bird Box Barcelona é uma expansão do universo de Bird Box. Dos mesmos produtores do fenômeno global que conquistou o público em 2018, depois que uma força misteriosa dizima a população do mundo, fazendo com que todos que a vejam tirem suas vidas, Sebastian (Mario Casas) e sua filha Anna (Alejandra Howard) precisam enfrentar uma jornada de sobrevivência pelas ruas desoladas de Barcelona. Mas, ao desenvolver uma aliança incômoda junto a outros sobreviventes em busca de um lugar seguro, eles descobrem uma ameaça ainda mais assustadora que não para de crescer. Sem esquecer de cobrir os olhos do mal que os persegue.</info>

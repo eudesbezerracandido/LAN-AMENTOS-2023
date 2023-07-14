@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PISCINA INFINITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f5658b286dde16683179a9767cc2277d8d844a6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d0RDZqvyziOZB0esOt9rFYR2uG3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Enquanto ficam em um resort isolado na ilha, James e Em estão desfrutando de umas férias perfeitas de praias intocadas, funcionários excepcionais e tomando sol. Mas guiados pela sedutora e misteriosa Gabi, eles se aventuram fora dos terrenos do resort e se encontram em uma cultura cheia de violência, hedonismo e horror incalculável.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRANSFORMERS-O DESPERTAR DAS FERAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:402D347491CFFEDE6A90FCB805FD952D8B1C6FEF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/d2SVY6NOQRnPuzsaP85brkWJGF9.jpg</thumbnail>

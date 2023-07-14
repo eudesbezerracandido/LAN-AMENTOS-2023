@@ -12,7 +12,7 @@
 
 <item>
 <title>[COLOR silver][B] BIRD BOX: BARCELONA DUOLOGIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2838FB9D99B821022EE98D5CD9E2A49EFB99914$nome=BIRD BOX 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F2E493F7BC5B151BAB813A2153B4A9AE077932F7$nome=BIRD BOX 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76c11e016a06317d41e9b867548ca154d522df19$nome=BIRD BOX 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iTGBHdL12QEpLyRVlykDuiYxzAG.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>

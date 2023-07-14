@@ -1,6 +1,13 @@
 # LAN-AMENTOS-2023
 
 
+<item>
+<title>[COLOR silver][B] MISSÃO: IMPOSSÍVEL - ACERTO DE CONTAS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:262DF2E7AD0E175DE3CD8D1D64AE618F5345F0D0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7TsfjhvzgiIaf9POEmfkYOPJF15.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Missão Impossível 7: Acerto de Contas Parte 1 é o sétimo capítulo da franquia de ação e espionagem iniciada em 1996, que acompanha o agente norte-americano Ethan Hunt (Tom Cruise) em missões altamente secretas e perigosas. Agora, no novo filme, Ethan e a equipe do IMF formada por Ilsa Faust (Rebecca Ferguson), Benji Dunn (Simon Pegg) e Luther Stickell (Ving Rhames) recebem outra importante missão: eles devem rastrear uma nova e aterrorizante arma que, se cair nas mãos erradas, pode representar uma ameaça para toda a humanidade. Com o controle do futuro e o destino de todo o mundo em jogo, a equipe precisa partir em uma corrida frenética e mortal ao redor do planeta. Além disso, Ethan ainda é confrontado por um novo inimigo misterioso e muito perigoso, e é forçado a aceitar que, para completar o desafio, nada pode importar mais do que a missão – nem mesmo sua própria vida.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TRANSFORMERS-O DESPERTAR DAS FERAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

@@ -20,6 +20,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MISTÉRIO EM ALTO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8549ef27d98d7bd32190d5759b7fd808438e21a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7qXL4ShmMzgQ8IuBkjkTHu88iiT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de uma festa num iate, um grupo de amigos acorda à deriva em alto-mar. Sem mantimentos ou chance de comunicação, percebem que são parte de um plano de vingança.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] Dr.CARRINHO E OS CAVALEIROS TEMPLARIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43d7bed0f9ffc8316d5f14b2fd8a3aaf9a33eed9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qWuCK5h5o7pQDILZgQYHSIc59TX.jpg</thumbnail>

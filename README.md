@@ -20,6 +20,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RELAÇÕES PERIGOSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33402e1a86be3de5a490d89b475f79d3a5150270</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d5muJYBkQcVBDrbMONFuTqXhmhG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O carro de Taylor Crane, uma fotógrafa de pássaros, quebra durante uma viagem e ela acaba refém de Riad Bishara, um paranoico fugitivo da CIA, que acredita que ela trabalha para o governo. Para salvar sua vida, ela precisará descobrir a verdadeira identidade de seu sequestrador antes que seja tarde demais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MISTÉRIO EM ALTO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8549ef27d98d7bd32190d5759b7fd808438e21a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7qXL4ShmMzgQ8IuBkjkTHu88iiT.jpg</thumbnail>

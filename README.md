@@ -28,6 +28,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DE TIRAR O FÔLEGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04dd9eeb8f7ceec07e876414e16c3919c0a0d6c6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dinZWscZF1xjO6T36dHRB11ZWx7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>De Tirar o Fôlego é um documentário original da Netflix que acompanha a impressionante jornada de Alessia Zecchini, uma premiada mergulhadora italiana que treinou incansavelmente para bater o recorde mundial de mergulho livre. Porém, ela não esteve sozinha nessa missão: Alessia também contou com a ajuda de Stephen Keenan, seu fiel treinador e especialista em segurança. Compartilhando a paixão pelo mergulho livre, o documentário mostra as recompensas e desafios do sonho compartilhado pela dupla, mostrando sua paixão quase obsessiva pelos oceanos e como os dois estiveram dispostos a fazer e arriscar tudo a fim de conquistarem um lugar na história.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MISTÉRIO EM ALTO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8549ef27d98d7bd32190d5759b7fd808438e21a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7qXL4ShmMzgQ8IuBkjkTHu88iiT.jpg</thumbnail>

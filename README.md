@@ -79,7 +79,7 @@
 
 <item>
 <title>[COLOR silver][B] TRANSFORMERS-O DESPERTAR DAS FERAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:402D347491CFFEDE6A90FCB805FD952D8B1C6FEF</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12b3dd5992495481d9707b3b74ede50e76563771</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/d2SVY6NOQRnPuzsaP85brkWJGF9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fkYBA2s38nKxBAZBVIqeUNmi6QO.jpg</fanart>
 <info>Uma aventura global dos anos 90 que apresenta os Maximals, Predacons e Terrorcons à batalha existente na Terra entre Autobots e Decepticons.</info>

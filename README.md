@@ -1,6 +1,13 @@
 # LAN-AMENTOS-2023
 
 
+<item>
+<title>[COLOR silver][B] UMA FESTA DE AROMBA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:768e68087772caec1a1c3832af526db6287f04e7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jJJuiyH3ibOA3VdUjrXA88HRxfS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma Festa de Arromba Torrent – Os aspirantes a promotores de clubes e melhores amigos Damon (Tosin Cole) e Kevin (Jacob Latimore) mal conseguem manter as coisas sob controle. Sem dinheiro, sorte e emprego fixo, eles estão prestes a serem despejados de casa. Para tentar mudar a situação, eles decidem sediar a festa do ano em uma mansão exclusiva, local de seu último trabalho como faxineiros, que por acaso pertence a ninguém menos que LeBron James. Eles acham que mesmo sem permissão, nada pode dar errado.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] OPPENHEIMER ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

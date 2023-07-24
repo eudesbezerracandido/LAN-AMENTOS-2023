@@ -118,7 +118,7 @@
 
 <item>
 <title>[COLOR silver][B] VELOZES & FURIOSOS 10 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e7e9bd3e8f97215db09d1224003bd9f5c787a41</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e7e9bd3e8f97215db09d1224003bd9f5c787a41</link> 
 <thumbnail>https://www.themoviedb.org/t/p/original/hc2ymDMfOCZ0JqrsMUBgL1GZXnz.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Ao longo de muitas missões e contra probabilidades impossíveis, Dom Toretto e sua família foram mais espertos, mais nervosos e superaram todos os inimigos em seu caminho. Agora, eles enfrentam o oponente mais letal que já enfrentaram: uma ameaça terrível emergindo das sombras do passado, alimentada por vingança de sangue e determinada a destruir esta família e destruir tudo - e todos - que Dom ama, para sempre. .</info>

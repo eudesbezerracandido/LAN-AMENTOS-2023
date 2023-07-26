@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BATMAN - A PERDIÇÃO CHEGOU A GOTHAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:950a14de1bcc5e46d24fee6413aabdac7725ff0d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hTQMObXnPjV8Yo90hiC7quSz0U7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Batman: A Perdição Chegou a Gotham Torrent – O explorador Bruce Wayne acidentalmente desencadeia um antigo mal e retorna a Gotham depois de estar ausente por duas décadas. Lá, Batman luta contra as forças sobrenaturais de Lovecraft e encontra aliados e inimigos como o Arqueiro Verde, Ra’s al Ghul, Mr. Freeze, Killer Croc, Two-Face e James Gordon.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OPPENHEIMER ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B3C03508A24FB7C90D1D7CFE4A09EA7187AA8A9</link> 
 <thumbnail>https://www.themoviedb.org/t/p/original/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg</thumbnail>

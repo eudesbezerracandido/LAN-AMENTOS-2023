@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PROJETO EXTRAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3436c33014bb65c83d83f23916de829dd9b2cb7d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t3vZkkM5G40pUJxUzkz69H777Hm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando uma refinaria de petróleo administrada pela China é atacada em Mosul, no Iraque, um empreiteiro de segurança privada chinês é chamado para resgatar os trabalhadores do petróleo. Ele descobre, no entanto, que o verdadeiro plano dos atacantes é roubar uma fortuna em petróleo e se une a um ex-fuzileiro naval americano para detê-los.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BATMAN - A PERDIÇÃO CHEGOU A GOTHAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:950a14de1bcc5e46d24fee6413aabdac7725ff0d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hTQMObXnPjV8Yo90hiC7quSz0U7.jpg</thumbnail>

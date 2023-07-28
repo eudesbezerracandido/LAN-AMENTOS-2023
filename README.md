@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MINHA CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZWIYXY6AA5WEM7FHBF4YOYHHFPP63C5J</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qbDfpHOgvnxIhVJLunxXFDL6fG5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Carla vive se escondendo com seu pai. Quando um estranho misterioso aparece, ela começa a questionar a razão do isolamento de sua família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O CHAMADO 4: SAMARA RESSURGE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc5a92d86a9108a4eb19655fa9ce957ed3728d8c$nome=O CHAMADO 4</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69e356624b30f7bf27cfac86545a60f5e442d440$nome=O CHAMADO 3</link>

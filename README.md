@@ -11,7 +11,10 @@
 
 <item>
 <title>[COLOR silver][B] O CHAMADO 4: SAMARA RESSURGE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc5a92d86a9108a4eb19655fa9ce957ed3728d8c</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc5a92d86a9108a4eb19655fa9ce957ed3728d8c$nome=O CHAMADO 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69e356624b30f7bf27cfac86545a60f5e442d440$nome=O CHAMADO 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69e356624b30f7bf27cfac86545a60f5e442d440$nome=O CHAMADO 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7eeb8135d28765c09deaa5559fb09c1bc347e5a$nome=O CHAMADO 1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7IlDfL40rIe1bVERCxXUJJfx2en.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O Chamado 4 Samara Ressurge Torrent – As pessoas que assistem a um vídeo amaldiçoado morrem repentinamente. Essas mortes ocorrem em todo o Japão. Ayaka Ichijo é uma estudante extremamente inteligente com um QI de 200 que terá que revelar o mistério do vídeo amaldiçoado para salvar a vida de sua irmã mais nova que assistiu para se divertir. Ring 4 segue Ayaka Ichijo (Fuka Koshiba), uma estudante que é cética em relação ao vídeo e à lenda que o cerca, que se tornou uma sensação viral. Ela logo descobre que sua irmã Futaba (Yuki Yagi) viu uma cópia da fita e descobre que a morte dela não ocorrerá em sete dias, mas em 24 horas, levando-a a desvendar a maldição de Sadako para salvá-la, Ela está acompanhada de seu namorado Oji Maeda (Kazuma Kawamura), bem como o talentoso médium e cartomante Mestre Kenshin (Hiroyuki Ikeuchi).</info>

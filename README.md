@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O PEQUENO ROUBO DO PEQUENO NUNU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6ab5887ee28803484e7e83bed2409941c92620b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k4fi3epbUws0Y8qbudyCIaNjciw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ex-soldado acaba entrando para a gangue de um chefão do crime. Agora, ele faz parte de um plano para realizar um assalto ousado na África do Sul.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PROJETO EXTRAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3436c33014bb65c83d83f23916de829dd9b2cb7d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/t3vZkkM5G40pUJxUzkz69H777Hm.jpg</thumbnail>

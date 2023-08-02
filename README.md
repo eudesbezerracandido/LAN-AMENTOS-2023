@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ARMA SECRETA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F11B08C79261213237B7B821FADBD46146444CAA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ac3ZnOIZqmmu2tqvnVBL6cMSgCc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um agente militar contratado para apreender uma arma que transforma as pessoas em assassinas busca vingança após seu irmão se tornar uma vítima. Piotr Witkowski (Plano de Aula) interpreta o mercenário com uma intensidade impressionante.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ELEMENTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1C544144FEE92151BF2AC7FE941A5F81FCDA58A0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/88OGFOcFI04CL4uucb6I7ZzUqD6.jpg</thumbnail>

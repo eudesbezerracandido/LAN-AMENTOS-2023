@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O ESTRANGULADOR DE BOSTON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c0a5aaf24aeee75b1702e115c6fa266c74bfe50</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>As repórteres Loretta McLaughlin e Jean Cole são pioneiras ao divulgar o caso dos famosos assassinatos do Estrangulador de Boston. À medida que o assassino faz mais vítimas, a dupla continua corajosamente a investigação, colocando suas próprias vidas em jogo em sua busca para revelar a verdade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA FESTA DE AROMBA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:768e68087772caec1a1c3832af526db6287f04e7</link> 
 <thumbnail>https://www.themoviedb.org/t/p/original/jJJuiyH3ibOA3VdUjrXA88HRxfS.jpg</thumbnail>

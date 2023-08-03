@@ -12,7 +12,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] FELICIDADES PARA PRINCIPIANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] FELICIDADES PARA PRINCIPIANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title> 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c022f5c13c3ecce5e12c7590404945d03063a538</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sejOOSFyqNd2KHWo9s3FiP7JCTv.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>

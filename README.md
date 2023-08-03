@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] QUEM MATOU? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4620aeaf99d98e956e605bde06781a82795d798</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wURuMRNINuztoC0HotYMVfWfyPt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com uma série de mortes aterrorizando uma cidadezinha na Tailândia, um detetive está determinado a encontrar o assassino. E um imigrante britânico é o principal suspeito.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FELICIDADES PARA PRINCIPIANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c022f5c13c3ecce5e12c7590404945d03063a538</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sejOOSFyqNd2KHWo9s3FiP7JCTv.jpg</thumbnail>

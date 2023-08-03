@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] FELICIDADES PARA PRINCIPIANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c022f5c13c3ecce5e12c7590404945d03063a538</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sejOOSFyqNd2KHWo9s3FiP7JCTv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após o divórcio, uma professora se aventura a recomeçar na vida e no amor quando decide fazer uma reveladora caminhada de longa distância.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PARAISO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df02e798240ac4595afedd05b1e67f944dd41542</link>

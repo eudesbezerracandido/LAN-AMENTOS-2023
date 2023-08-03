@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] PARAISO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df02e798240ac4595afedd05b1e67f944dd41542</link>
+<thumbnail>Um homem vê o lado sombrio da empresa de doação de tempo em que trabalha quando sua esposa precisa abrir mão de 40 anos da própria vida para quitar uma dívida.</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>https://www.themoviedb.org/t/p/original/tmGuklpV65Ve9vBNvGEMMQX6xR8.jpg</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BABILÔNIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

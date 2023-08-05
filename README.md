@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] 100 COISAS PARA FAZER ANTES DE VIRAR SUMBI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e78d57989c599e4dea04ad7f975e9767daacca9f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lwyleO7PqNNkX66stvANWP01p9I.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 100 Coisas para Fazer Antes de Virar Zumbi, Akira Tendo (Eiji Akaso) trabalha em uma empresa abusiva, sofrendo com horas extras eternas, assédio moral e tarefas ilógicas, se sentindo mais morto do que vivo. Até que um dia, a cidade é invadida por zumbis e, diante de toda essa destruição, ele decide não ir mais trabalhar. Com uma atitude feliz e positiva, Akira cria uma lista de 100 coisas que gostaria de fazer antes de virar zumbi, como limpar a casa e acampar, e começa a realizar cada desejo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] QUEM MATOU? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4620aeaf99d98e956e605bde06781a82795d798</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wURuMRNINuztoC0HotYMVfWfyPt.jpg</thumbnail>

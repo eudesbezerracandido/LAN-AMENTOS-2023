@@ -111,7 +111,7 @@
 
 <item>
 <title>[COLOR silver][B] MIRACULOS: AS AVENTURAS DE LADYBUG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5dd98fc23be857513fd8909b61f086671aab1666</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WQYAKLL2OX6R5BOED7VIHCLKLVVJARSR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eZEKKCNW0vI7B7AZNdCAeq2mMAw.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em Miraculous: As Aventuras de Ladybug – O Filme, Marinette e Adrien são dois adolescentes como outros quaisquer, porém quando o perigo bate à porta eles se transformam nos superheróis mascarados, os opostos Ladybug e Cat Noir. Aprendendo a lidar com seus poderes e usá-los somente de maneira altruísta, a dupla também precisa manter a identidade em segredo – até mesmo um do outro. Mas o surgimento de um inesperado romance pode complicar ainda mais as aventuras dos dois heróis dedicados a proteger e salvar Paris enquanto um vilão desencadeia o caos na cidade. Ladybug e Cat Noir conseguirão se unir e salvar o dia?</info>

@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] DE FRENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7682c76364e94ae1556cc8a649d1b760a9c6751e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3y04Ley91fZLlfUrr3MeqKxViu9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Perigo e humor se unem quando um motorista apaixonado e um mecânico buscam um chefão do crime aposentado por engano, dando início a uma aventura que vai mudar a vida de todos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] QUEM MATOU? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

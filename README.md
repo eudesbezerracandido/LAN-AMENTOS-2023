@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] SOBRENATURAL: A PORTA VERMELHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d26e49e3e9a46b6ace6f949ac7f5c38cfaf9cdc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sobrenatural: A Porta Vermelha Torrent, quinto filme da franquia, se passa 10 anos após os eventos de Sobrenatural: Capítulo 2. A trama de Sobrenatural: A Porta Vermelha volta a seguir a família Lambert, formada por Renai (Rose Byrne), Josh (Patrick Wilson, Foster (Andrew Astor), Dalton (Ty Simpkins) e Kali (Juliana Davies). Josh segue para o leste para deixar seu filho, Dalton, na faculdade. Dalton acabou de ingressar na faculdade, no entanto, o sonho do jovem logo se torna um pesadelo, e ele logo se dá conta de que ainda está muito longe de conseguir levar uma vida normal. Quando os demônios reprimidos de seu passado voltam repentinamente para assombrar os dois, ele e o pai são obrigados a retornar à macabra dimensão da Porta Vermelha, enfrentando uma série de novas e ainda mais terríveis ameaças e encarando seus medos mais profundos para, só assim, banirem seus demônios de uma vez por todas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DE FRENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7682c76364e94ae1556cc8a649d1b760a9c6751e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3y04Ley91fZLlfUrr3MeqKxViu9.jpg</thumbnail>
@@ -75,7 +83,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] ELEMENTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] ELEMENTOS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1C544144FEE92151BF2AC7FE941A5F81FCDA58A0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/88OGFOcFI04CL4uucb6I7ZzUqD6.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>

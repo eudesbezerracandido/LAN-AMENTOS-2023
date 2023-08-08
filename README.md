@@ -482,9 +482,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] HOMEM ARANHA - ATRAVÉS DO ARANHAVERSO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6FCB907CC927744D325598374432D7F43B7C7E$nome=HDCAM1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13D6DE5AB80B759B375D2F7FA5C3D860166921D8$nome=HDCAM2</link>
+<title>[COLOR silver][B] HOMEM ARANHA - ATRAVÉS DO ARANHAVERSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0553cf78749bb6d1d76ab7d2c5ee9fe47b10d3b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Homem-Aranha: Através do Aranhaverso, é a continuação do vencedor do Oscar Homem-Aranha: No Aranhaverso, de 2018, que acompanha Miles Morales (Shameik Moore), o simpático Homem-Aranha do Brooklyn. Neste novo capítulo, Miles está de volta para uma nova missão em sua agitada vida como super herói. No novo filme, Morales é transportado para uma aventura épica através do multiverso, e deve unir forças com a mulher-aranha Gwen Stacy (Hailee Steinfeld) e um novo time de Pessoas-Aranha, formado por heróis de diversas dimensões. No entanto, tudo muda quando os heróis entram em conflito sobre como lidar com uma nova ameaça, e Miles se vê em um impasse. E para piorar ainda mais a situação, eles precisam enfrentar um vilão muito mais poderoso do que qualquer coisa que já tenham encontrado antes. Agora, para salvar as pessoas que ele mais ama no mundo, Miles deve redefinir o que significa ser um super herói.</info>

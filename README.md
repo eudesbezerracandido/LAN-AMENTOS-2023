@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] QUE HORAS EU TE PEGO? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7ea7ae9c5ac80a3260eb30f67a3de89e33743b7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/en47PkDX8IhtQA3i1MYslx8eH91.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Que Horas Eu Te Pego? Torrent – Em Que Horas Eu Te Pego, Maddie (Jennifer Lawrence) é uma mulher que tem o costume de sempre tomar as atitudes erradas. Quando percebe que pode perder a sua casa de infância, onde cresceu e viveu por muito tempo, ela decide arranjar um emprego. Mas não é qualquer emprego que se acha nos anúncios, e sim um pedido desesperado de dois pais com seu filho de dezenove anos. O anúncio descreve o trabalho que ela terá de fazer: “namorar” o garoto de dezenove anos, Percy, que é muito introvertido, antes que ele saia definitivamente de casa para ir para a faculdade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GRAN TURISMO - DE JOGADOR A CORREDOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5CE220BD5EEB20C28ED90554CD4941ACAFC3F870</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iOnj2bHV0oWr9tRNiThZsHie2XO.jpg</thumbnail>

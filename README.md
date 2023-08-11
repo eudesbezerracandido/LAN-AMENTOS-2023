@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SEDE SEM FIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35abef08f899e2af85dc25aba6b08db961924ba5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gCUFtTvjK4gbmjVxhx8bhyOhAeW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jess, uma enfermeira que recentemente se separou de seu marido e se mudou com seus dois filhos, Tyler e Owen, de volta para sua antiga fazenda. Logo após chegarem lá, o cachorro de Owen foge para a floresta e retorna dias depois, raivoso e cheio de sangue. Quando ele morde o Owen, o ataque resulta em uma infecção que altera o comportamento do jovem de um jeito alarmante e mortal. Enquanto ele sucumbe aos sintomas de sua misteriosa doença, Jess descobre uma cura perturbadora, que a fará se questionar até onde ela está disposta a ir para manter seu filho vivo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JAGUN JAGUN: O GUERREIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18664b558e8e65487ebb812b005dc6c481f5adc6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2NrM70jJ4NPST409wHER8ZVZiKo.jpg</thumbnail>

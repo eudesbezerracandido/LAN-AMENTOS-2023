@@ -2,6 +2,23 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] AGENTE STONE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fa285f6c2003c70e085033719ba987215bab02c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9EpaPaKozP2b8L1hJekBFI75gCm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Agente Stone é um suspense de espionagem dirigido por Tom Harper (Peaky Blinders) para a Netflix. Na história, acompanhamos a agente de elite Rachel Stone (Gal Gadot), que esconde um grande segredo: ela é a única pessoa que pode se colocar entre uma misteriosa e ultra-poderosa organização que busca manter a paz mundial, e a possível perda do bem mais valioso – e perigoso – da instituição, conhecido como o Coração. Com Jamie Dornan (50 Tons de Cinza), Alia Bhatt (A Espiã), Sophie Okonedo (Morte no Nilo), Matthias Schweighöfer (Exército de Ladrões: Invasão da Europa), Jing Lusi, Paul Ready, Jon Kortajarena e Archie Madekwe.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JAGUN JAGUN: O GUERREIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18664b558e8e65487ebb812b005dc6c481f5adc6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2NrM70jJ4NPST409wHER8ZVZiKo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Femi Adebayo (King of Thieves) interpreta o violento líder de um exército de elite que se sente ameaçado quando um jovem guerreiro místico cruza seu caminho.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DUOLOGIA- MEGATUBARÃO 2 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CEEEDE10C930AABE67865AC84DA9E09815A02E7A$nome=MEGATUBARÃO II</link>

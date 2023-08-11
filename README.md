@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] VERMELHO,BRANCO E SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e20e955568b3d923540485a5e05fe49516ca24a1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/et8l2Sk3HJhwpvwnaJsMfQkBets.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Baseado no bestseller do New York Times, Vermelho, Branco & Sangue Azul é focado em Alex, o filho da presidenta dos Estados Unidos e o príncipe britânico Henry, cuja rivalidade histórica ameaça abalar a relação entre os dois países. Quando eles são forçados a encenar uma trégua, sua relação fria começa a derreter e o atrito entre eles gera faíscas de algo mais intenso do que eles nunca imaginaram.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AGENTE STONE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fa285f6c2003c70e085033719ba987215bab02c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9EpaPaKozP2b8L1hJekBFI75gCm.jpg</thumbnail>

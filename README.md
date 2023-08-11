@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GRAN TURISMO - DE JOGADOR A CORREDOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5CE220BD5EEB20C28ED90554CD4941ACAFC3F870</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iOnj2bHV0oWr9tRNiThZsHie2XO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>De Jogador a Corredor é a adaptação do videogame homônimo. Dirigido por Neill Blomkamp, ​​o longa também é baseado em uma história da vida real. As habilidades impressionantes de jogo de Jann Mardenborough (Archie Madekwe), um jogador adolescente do PlayStation, acostumado ao Gran Turismo no videogame, o levam a viver uma verdadeira fantasia improvável, quando ele começa a vencer uma série de competições da Nissan para se tornar um verdadeiro piloto de corrida profissional. Correndo atrás da realização de seus desejos, o jovem desafiará o impossível, encontrando a motivação necessária em um grupo que também acredita no seu potencial.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SEDE SEM FIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35abef08f899e2af85dc25aba6b08db961924ba5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gCUFtTvjK4gbmjVxhx8bhyOhAeW.jpg</thumbnail>

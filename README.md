@@ -3,6 +3,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] ZOEY: O CASAMENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0fd2ab3c9882b2490b96b0dc62a2f52dce2eb90e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/liVS0KJMviz4iOfbrZkLqdCzBIp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme Zoey 102: O Casamento, Agora com vinte e poucos anos, Zoey Brooks ainda está tentando entender a vida e o amor.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AS TARTARUGAS NINJAS: CÃOS MUTANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A26318401B97C84DB4134CE85EF65DCF0E111F9</link>

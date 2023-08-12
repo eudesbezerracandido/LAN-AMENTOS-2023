@@ -175,8 +175,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] OS TRÊS MOSQUETEIROS: D'ARTAGNAN ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F3F5C8AFE66C9DB2E080375B2DDE4EA3DE2BDE7</link>
+<title>[COLOR silver][B] OS TRÊS MOSQUETEIROS: D'ARTAGNAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:STIFYTW276IEYGDQPVOO456Q3X4SBFSF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xmJnNx64tszsJD9NAk7MenKBcC.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Os Três Mosqueteiros: D'Artagnan é um filme de ação e aventura e o primeiro de uma saga épica de duas partes dirigida por Martin Bourboulon, baseada no romance "Os Três Mosqueteiros" de Alexandre Dumas, publicado em 1844.</info>

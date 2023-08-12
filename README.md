@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] AS TARTARUGAS NINJAS: CÃOS MUTANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A26318401B97C84DB4134CE85EF65DCF0E111F9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> De Jogador a Corredor é a adaptação do videogame homônimo. Dirigido por Neill Blomkamp, ​​o longa também é baseado em uma história da vida real. As habilidades impressionantes de jogo de Jann Mardenborough (Archie Madekwe), um jogador adolescente do PlayStation, acostumado ao Gran Turismo no videogame, o levam a viver uma verdadeira fantasia improvável, quando ele começa a vencer uma série de competições da Nissan para se tornar um verdadeiro piloto de corrida profissional. Correndo atrás da realização de seus desejos, o jovem desafiará o impossível, encontrando a motivação necessária em um grupo que também acredita no seu potencial.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VERMELHO,BRANCO E SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e20e955568b3d923540485a5e05fe49516ca24a1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/et8l2Sk3HJhwpvwnaJsMfQkBets.jpg</thumbnail>

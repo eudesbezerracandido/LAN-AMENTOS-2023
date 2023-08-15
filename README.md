@@ -3,6 +3,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] A MAQUINA DO CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:997d7a87aa050b05f0a6511ad83828c30f98a9d0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x9dGI7LIOMMlFzyIBUta1svft2Y.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O passado de bebedeiras de Bert o alcança 20 anos depois, quando ele e seu pai são sequestrados por aqueles que Bert ofendeu há 20 anos enquanto estava em uma excursão de faculdade na Rússia.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ZOEY: O CASAMENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

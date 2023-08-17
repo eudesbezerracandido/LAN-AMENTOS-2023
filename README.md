@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DEVIL'S PEAK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2fa01257b07302b31b45d2102276cb87ed46b880</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gN0fW1kEGRLuqQBgeeZI4UdEMQO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Devil’s Peak Torrent – Nas montanhas Apalaches da Carolina do Norte, Jacob McNeely, de dezoito anos, está dividido entre apaziguar seu pai traficante de metanfetamina e deixar as montanhas para sempre com a garota que ama.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A MAQUINA DO CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:997d7a87aa050b05f0a6511ad83828c30f98a9d0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/x9dGI7LIOMMlFzyIBUta1svft2Y.jpg</thumbnail>

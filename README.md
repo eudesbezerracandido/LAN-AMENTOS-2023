@@ -3,6 +3,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] RIVER WILD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d601d6b1833a5725c768dae9fa7cb76bcc6f4fd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bAKCbByXeZ9UyFKIR04ry4fCQX3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Segue um par de irmãos que se amam, mas desconfiam um do outro, enquanto embarcam em uma viagem de rafting com um pequeno grupo. Um de seus amigos de infância acaba sendo mais perigoso do que parece.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DEVIL'S PEAK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2fa01257b07302b31b45d2102276cb87ed46b880</link>

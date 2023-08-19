@@ -6,7 +6,7 @@
 
 <item>
 <title>[COLOR silver][B] BESOURO AZUL ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39a11be4d3ccba746bcdd8a86cf10fdbfb5dce1a$nome=BESOURO AZUL SERVIDOR 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39a11be4d3ccba746bcdd8a86cf10fdbfb5dce1a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AhmVkXerBVsuI6PejPeqaaW2wwT.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.</info>

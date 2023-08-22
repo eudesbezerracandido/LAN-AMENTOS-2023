@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] 500 COBERTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e7886b8dc7035efad33b8e853a6346da5590aea</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gTFyCihik0dZWbREhSTyyxg3cOQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>ma mulher decidida, cujo marido tem um colapso mental e desaparece, parte em busca dele pelas ruas junto com seu filho pequeno, desencadeando um movimento para ajudar pessoas desabrigadas em necessidade e inspirando uma cidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LEGO DISNEY: PRINCESA AVENTURA NO CASTELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8330c3161c2a278ee883bc417862cb7edf13a4cb</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tbPkvDVY06gdQlxgowQebOHQGGK.jpg</thumbnail>

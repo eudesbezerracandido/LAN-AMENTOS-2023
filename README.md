@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LEGO DISNEY: PRINCESA AVENTURA NO CASTELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8330c3161c2a278ee883bc417862cb7edf13a4cb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tbPkvDVY06gdQlxgowQebOHQGGK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tiana, Moana, Branca de Neve, Rapunzel e Ariel acabam entrando em uma aventura ao serem inesperadamente transportadas para um castelo misterioso, mas, assim que chegam no castelo, elas descobrem que Gaston bolou um plano maligno para dominar todos os reinos. Portanto, as princesas precisarão trabalhar em conjunto para resolver os desafios escondidos pelo castelo e salvar os reinos das mãos do Gaston. Será que a coragem, o raciocínio rápido e o trabalho em equipe serão o suficiente para completarem os desafios?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BESOURO AZUL ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:921CFD8A5A1450EBB603AA74BC5D1F5C46199276</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AhmVkXerBVsuI6PejPeqaaW2wwT.jpg</thumbnail>

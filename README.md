@@ -3,6 +3,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] O REI MACACO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93348c353791b74a6245e3ad7136458edda6b72e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bmwK5QCznqUT8bcDR7qROrxqgov.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Rei Macaco é uma comédia de ação para toda a família sobre um Macaco cheio de carisma e seu Bastão mágico que embarcam em uma aventura épica contra cem demônios, um excêntrico Rei Dragão e o maior inimigo do Macaco: seu próprio ego! No caminho, uma jovem desafia o egocentrismo dele e mostra que até a menor pedrinha de todas pode ter um grande efeito no mundo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BESOURO AZUL ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

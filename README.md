@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SNOOP APRESENTA - A INIGUALÁVEL MARCI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6b1aa498f114c391d5b8435ce34dbeba8c982ad</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/grzZxk9s9EruSc0zMbcif4FUCmz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Marcie, quietinha, gentil e introvertida, pensa em ideias geniais para ajudar os amigos a atingir seus objetivos e resolver seus problemas. Mas quando o mundo todo para pra olhar e ela vira o centro das atenções, compartilhar essas ideias se torna um desafio.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] 500 COBERTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e7886b8dc7035efad33b8e853a6346da5590aea</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gTFyCihik0dZWbREhSTyyxg3cOQ.jpg</thumbnail>

@@ -3,6 +3,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] AMOR AO QUADRADO PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae685fbe06cf85e230a40af8f672fc71c869b3e0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cD67jLjJcPKFyIRlyLmECyENrz6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Neste terceiro filme da franquia Amor², o romance conturbado de Monika e Enzo está prometendo um final de conto de fadas. Só que uma revelação bombástica vai mudar tudo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ENTRE MULHERES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9822a4aecd9edf6f24b01f9291c95b8f8362a8be</link>

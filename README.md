@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A LISTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce8e764913c99cd93602783fcf6b948e8d7f1d8b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8vfyhKkTwvxbV5UuuIMBP0BLILv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois que seu noivo, Matt, dorme com uma celebridade da sua lista de passe livre, Abby vê sua vida perfeita em queda livre e a única maneira de superar essa traição é dormir com uma celebridade da sua própria lista. Com a ajuda de sua melhor amiga Chloe e nada mais que cinco nomes e uma fantasia compartilhada por milhões, Abby voa através do país até o lugar perfeito para conhecer o protagonista dos seus sonhos… Hollywood! Mas quando Abby conhece Jake , um garçom dali com grandes sonhos, ela começa a reconsiderar o que ela está buscando. Está na hora de reescrever a lista?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMOR AO QUADRADO PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae685fbe06cf85e230a40af8f672fc71c869b3e0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cD67jLjJcPKFyIRlyLmECyENrz6.jpg</thumbnail>

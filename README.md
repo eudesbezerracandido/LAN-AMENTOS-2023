@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ENTRE MULHERES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9822a4aecd9edf6f24b01f9291c95b8f8362a8be</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lH5qPokImvjzg18DxURFS3Clmyw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Um grupo de mulheres em uma isolada colônia religiosa contam uma com a outra para se reconciliar com sua fé após uma série de abusos sexuais cometidos pelos homens da comunidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O REI MACACO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93348c353791b74a6245e3ad7136458edda6b72e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bmwK5QCznqUT8bcDR7qROrxqgov.jpg</thumbnail>

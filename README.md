@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] AMOR,SEXO E 30 VELHINHAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46d1e6cbcc8da82056fed7580207e983aeafdc07</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gqUYMRFi5CZLJdM0OXzwetqFRux.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No ano em que completam 30 anos, quatro amigas lidam com relacionamentos amorosos, perdas, decepções e uma situação chocante que pode abalar a amizade do grupo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] AMOR AO QUADRADO PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

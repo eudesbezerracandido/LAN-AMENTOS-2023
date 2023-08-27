@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] VOCÊ NÃO TÁ CONVIDADO PRO MEU BAT MITZVÁ![/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cff801360c9c502bdcaa6a0a6c6ec2ac3b06e0c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fQmlvC4AQrH6tZIrnaK4n6EidGW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A jovem Stacey Friedman se prepara para seu bat mitzvah, mas seus planos logo começam a se desfazer e ameaçam arruinar o evento.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O CLUBE DE LEITORES ASSASSINOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

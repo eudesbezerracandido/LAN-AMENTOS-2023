@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O ESTRANHO CASO DO FANTASMA GLÁUSTROFÓBICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09b6f71e4adf52fc643a83c993a66197efca3642</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mxl2XF0Qnmig21w4btbQjxxcIq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os irmãos Nikolaj (12) e Emil (8) descobrem o fantasma de um menino que habita o quarto de sua nova casa. Com a ajuda da amiga Ximena (12), eles vão tentar ajudar o fantasma a resolver sua pendência: entregar uma carta de amor a uma garota que ele deixou de ver há mais de 30 anos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AMOR,SEXO E 30 VELHINHAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46d1e6cbcc8da82056fed7580207e983aeafdc07</link>

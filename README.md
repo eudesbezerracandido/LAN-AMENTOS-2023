@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] FÉRIAIS EM TAIPEI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63a4310f15ed6eeee8b9c93f18d909eb085b88a5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o6TMfQn6RsWmJVtCoCKk04sQcID.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O programa de imersão cultural de uma jovem em Taiwan acaba sendo um libertador alvoroço conhecido como Loveboat, onde um romance inesperado a leva a questionar seu futuro. Baseado no livro best-seller Loveboat, Taipei de Abigail Hing Wen.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] VOCÊ NÃO TÁ CONVIDADO PRO MEU BAT MITZVÁ![/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cff801360c9c502bdcaa6a0a6c6ec2ac3b06e0c</link>

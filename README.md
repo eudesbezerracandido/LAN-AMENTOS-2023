@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DRÁCULA - A ÚLTIMA VIAGEM DE DEMÉTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1DA005A35FD71A7CF28053BC9A9A4F6FE747D70F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A tripulação do navio mercante Demeter tenta sobreviver à viagem oceânica de Carpathia a Londres enquanto são perseguidos todas as noites por uma presença impiedosa a bordo do navio.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FÉRIAIS EM TAIPEI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63a4310f15ed6eeee8b9c93f18d909eb085b88a5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/o6TMfQn6RsWmJVtCoCKk04sQcID.jpg</thumbnail>

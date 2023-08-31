@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] O FALSIFICADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d5f16775827aa0f661c7538c730911fdb4ccea0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2Es52cS0Cu44UxpeICzN1GxFmnF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1942, em Berlim, o jovem artista gráfico judeu Cioma Schönhaus adota a identidade de um oficial da marinha alemã. Ele se junta a uma rede de salvadores clandestinos e se torna famoso por suas identidades falsas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O MELHOR LUGAR DA TERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

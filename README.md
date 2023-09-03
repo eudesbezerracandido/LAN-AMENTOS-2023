@@ -401,7 +401,8 @@
 
 <item>
 <title>[COLOR silver][B] BARBIE 2023 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:810F71566221F0E2894C60BC4B76D8C3BE5C9947</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:810F71566221F0E2894C60BC4B76D8C3BE5C9947$nome=SERVIDOR1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86C448E420B5027D8DA737D6C85F4914E1E783F5$nome=SERVIDOR2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vJ4r8imQ9piseO9ufCwsopBBWnZ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No fabuloso live-action da boneca mais famosa do mundo, acompanhamos o dia a dia em Barbieland – o mundo mágico das Barbies, onde todas as versões da boneca vivem em completa harmonia e suas únicas preocupações são encontrar as melhores roupas para passear com as amigas e curtir intermináveis festas. Porém, uma das bonecas (interpretada por Margot Robbie) começa a perceber que talvez sua vida não seja tão perfeita assim, questionando-se sobre o sentido de sua existência e alarmando suas companheiras. Logo, sua vida no mundo cor-de-rosa começa a mudar e, eventualmente, ela sai de Barbieland. Forçada a viver no mundo real, Barbie precisa lutar com as dificuldades de não ser mais apenas uma boneca – pelo menos ela está acompanhada de seu fiel e amado Ken (Ryan Gosling), que parece cada vez mais fascinado pela vida no novo mundo. Enquanto isso, Barbie tem dificuldades para se ajustar, e precisa enfrentar vários momentos nada coloridos até descobrir que a verdadeira beleza está no interior de cada um.</info>

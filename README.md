@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A PEQUENA DIXIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D042E8EAF341781DEB9594BB4029843912CADD91</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O ex-militar Doc é responsável pela trégua entre o governo local e o cartel de drogas. Quando a paz acaba entre eles, Doc deve proteger seu maior bem: sua filha Dixie.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O FALSIFICADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d5f16775827aa0f661c7538c730911fdb4ccea0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2Es52cS0Cu44UxpeICzN1GxFmnF.jpg</thumbnail>

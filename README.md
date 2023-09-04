@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] UM DIA É MEIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e761b12357165148e948408e9d7a4899dc4baa88</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iOX6FMhdrVpCj0jbkj2KEftCPlU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Desesperado para rever a filha, um homem armado invade um centro médico e sequestra a ex-mulher que trabalha lá.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UM CLIMAX ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c18967c3c4acc84b4c12f7c21015029febe6bdb9</link>

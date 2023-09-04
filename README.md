@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] O TUTOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7JDNJEQ3VHI6MHS5QQV2FWVHODL53I4L</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4gbSI23sXhVzOYOT1YqQEGUhJ0W.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> um professor explicador para a aelite endinheirada da Costa Lesta, Ethan (Garrett Hedlund) consegue um trabalho muito bem pago parainstruir o filho de um bilionário, Jackson, (Hoag Schapp), em uma remota propiedade à beira-mar de Nova York. Quase imediatamente, Ethan percebe que o interesse de seu aluno em sua vida beira a obsessão. À medida que a tensão aumenta, as acusações de Jackson ameaçam expor os segredos obscuros de Ethan para sua namorada (Victoria Justice) e as autoridades. À medida que o sentimento se volta contra Ethan, cabe a ele, e somente a ele, desenterrar as acusações de Jackson e provar sua inocência.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A PEQUENA DIXIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D042E8EAF341781DEB9594BB4029843912CADD91</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg</thumbnail>

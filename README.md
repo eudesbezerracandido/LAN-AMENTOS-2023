@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] BELAS E RECATADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99f9c49ed4159dea2554ff11070d984cd9ec7e1f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fS42ZbZ50jKYmWW2vTeyZqh4kXZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ria Khan acredita que deve salvar sua irmã mais velha, Lena, de seu iminente casamento. Com a ajuda de suas amigas, ela tenta realizar o mais ambicioso de todos os roubos de casamento, em nome da independência e da irmandade.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A JUSTICEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5899e922cf6db65a7397fff6b97ab0a7ae346352</link>

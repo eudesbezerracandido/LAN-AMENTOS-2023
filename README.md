@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] A JUSTICEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5899e922cf6db65a7397fff6b97ab0a7ae346352</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2FexbKMBnFgdeik5d3tF9hYtxtR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Neste thriller noir cheio de estilo, a talentosa e irreverente dançarina Mouse investiga o desaparecimento de suas amigas da boate e não vai descansar enquanto não encontrar justiça.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] UM DIA É MEIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

@@ -774,8 +774,8 @@
 </item> 
 
 <item>
-<title>[COLOR silver][B] A PEQUENA SEREIA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E7A732CCE12BAC29E5C61CBB2837A69195BF00C1</link>
+<title>[COLOR silver][B] A PEQUENA SEREIA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2MDYPNGWWHMAEDTS7742CU4WCPEWKWYM</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/85u2q8iUBDq2gj5iJrdD4lzckRq.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Filme A Pequena Sereia Dublado – Legendado – Ariel é uma curiosa sereia que deseja experimentar a vida em terra firme e, contra a vontade de seu pai, visita a superfície. Ariel se vê em uma inesperada jornada de autodescoberta ao encontrar um príncipe, uma bruxa do mar e um novo mundo incrível.</info>

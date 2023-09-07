@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MISSÃO CLANDESTINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b63b2227eedde4cb39a53c43389153b28004871</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4SD3g1emJlCGpAJ6yaVQHAh37To.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um assassino de operações especiais e um agente de combate ao narcotráfico se cruzam em missões para deter uma organização terrorista cibernética. Eles unirão forças para impedir um ataque à rede elétrica e uma catástrofe mudial.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FEITIÇARIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df51ec2ff240975223140393e408a9dd0df82d49</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oGNJSxvLqvbHEYfKnR2Mmx3pY7E.jpg</thumbnail>

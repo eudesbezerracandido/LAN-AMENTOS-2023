@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FEITIÇARIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df51ec2ff240975223140393e408a9dd0df82d49</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oGNJSxvLqvbHEYfKnR2Mmx3pY7E.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Chiloé, 1880. Rosa é uma garota huilliche que, depois do assassinato de seu pai, chega em busca de justiça junto a Mateo Coñuecar, que é líder de uma organização de bruxos e rapidamente se torna seu avô adotivo. Quando Mateo é preso, acusado de ser uma autoridade paralela na República do Chile, Rosa assumirá o desafio de libertá-lo, mesmo que isso a inicie nos caminhos da bruxaria.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM CLIMAX ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c18967c3c4acc84b4c12f7c21015029febe6bdb9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uWqExsoTbKijAV85lsFyARTGGiW.jpg</thumbnail>

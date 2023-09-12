@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O PROTETOR - CAPITULO FINAL ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCC1F0C760D355FCD467047E7E64A5A36172A528</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p4Qn2hhKoz8My9ysN1RK223iVM5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sentindo-se em casa no sul da Itália, o ex-agente Robert McCall logo descobre que seus novos amigos estão sob o controle dos chefes do crime local. À medida que os acontecimentos se tornam mortais, McCall sabe o que tem de fazer: tornar-se o protetor dos seus amigos, enfrentando a máfia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] INQUIETAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ee339e8a4524971d9445ba9d3ac764e921d063c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/j8FuUkC5doaNfmFq21HIhp0u3eJ.jpg</thumbnail>

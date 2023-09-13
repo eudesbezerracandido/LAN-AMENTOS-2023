@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O CONVENTO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:989cc1682fe368edb9357fa6bf25c0fbe985e004</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sGNVrW2TWMz4pWHayrRinZyCZ01.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após o suposto suicídio de seu irmão padre, Grace viaja para o remoto convento escocês onde ele morreu. Desconfiando do relato da Igreja, ela descobre assassinato, sacrilégio e uma verdade perturbadora sobre si mesma.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FREESTYLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4HY4BA6JCMU3SVZ22K3FIIJVBJ23ICZ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/x6HrGmmpVUX8XBI9Vg4hbSsdBCX.jp</thumbnail>

@@ -413,9 +413,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] ELEMENTOS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1C544144FEE92151BF2AC7FE941A5F81FCDA58A0$nome=SERVIDOR 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53E805CC951965E3B58F120210DCE41D3C623D6A$nome=SERVIDOR 2</link>
+<title>[COLOR silver][B] ELEMENTOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AXAFR6A5SGT2JFFNXBNAZPL5JKQSJP3V</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/88OGFOcFI04CL4uucb6I7ZzUqD6.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Elementos Torrent – Elementos é um filme de animação que se passa em uma sociedade extraordinária chamada Cidade Elemento, na qual os quatro elementos da natureza – ar, terra, fogo e ar – vivem em completa harmonia. Na história, somos apresentados à Faísca (fogo, dublada por Leah Lewis), uma mulher espirituosa na faixa dos vinte anos, com um grande senso de humor e apaixonada pela família, mas que tem um temperamento um pouco quente; Gota (água, dublado por Mamoudou Athie) é um jovem empático, observador e extrovertido, que não tem medo de demonstrar suas emoções – na verdade, é até um pouco difícil controlá-las; Turrão (terra, dublado por Mason Wertheimer) é um garoto muito inteligente da terra que mora na Vila do Fogo, e está sempre perto de Faísca; e Névoa (ar, dublada por Wendi McLendon-Covey), que tem uma personalidade fofa e rosa, está sempre atenta às tendências da moda e é fã dos Windbreakers, um time de Air Ball.</info>

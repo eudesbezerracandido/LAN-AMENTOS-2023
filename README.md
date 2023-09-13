@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FREESTYLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4HY4BA6JCMU3SVZ22K3FIIJVBJ23ICZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x6HrGmmpVUX8XBI9Vg4hbSsdBCX.jp</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Precisando de grana para pagar o estúdio de gravação, um rapper com um passado criminoso se mete com o tráfico de drogas. Agora, ele pode perder tudo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O PROTETOR - CAPITULO FINAL ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCC1F0C760D355FCD467047E7E64A5A36172A528</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p4Qn2hhKoz8My9ysN1RK223iVM5.jpg</thumbnail>

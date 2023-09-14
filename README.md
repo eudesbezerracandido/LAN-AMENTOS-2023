@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  A NINFA DO LADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:213a6ce3ee45de235903d9af8eca75f7a8a44c64</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eZwkqc75XDMy35keKJkk2rh3Jhf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Contratado para ensinar os truques da sedução ao tímido filho da Grã-Duquesa, um especialista em amor se envolve em um romance inesperado... e em um escândalo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MISSÃO DE SOBREVIVENCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dd1dda9286749e605d39ffc6fd51eb153f862b4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ArDXxgsELJanwYDXd60MLTZDiSj.jpg</thumbnail>

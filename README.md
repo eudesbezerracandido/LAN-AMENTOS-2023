@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MISSÃO DE SOBREVIVENCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dd1dda9286749e605d39ffc6fd51eb153f862b4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ArDXxgsELJanwYDXd60MLTZDiSj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um agente disfarçado da CIA chamado Tom Harris, que está designado para o Oriente Médio. Um vazamento de inteligência expõe perigosamente sua missão secreta e revela sua identidade secreta. Preso no coração de um território hostil, Harris e seu tradutor devem lutar para sair do deserto e chegar a um ponto de extração em Kandahar, no Afeganistão, enquanto escapam das forças especiais de elite que os caçam.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O CONVENTO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:989cc1682fe368edb9357fa6bf25c0fbe985e004</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sGNVrW2TWMz4pWHayrRinZyCZ01.jpg</thumbnail>

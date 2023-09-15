@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MILHÕES DE QUILOMETROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LDZ2BQ4X436DRYE3SHGMKUZQINP6ZB5X</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pP6RZPQjTHoqvDLizTVipFJ6GNm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inspirado na história real do engenheiro da Nasa, José Hernández, este filme acompanha sua família de fazendeiros migrantes em sua jornada desde uma vila rural em Michoacán, no México, para mais de 300 quilômetros acima da Terra na Estação Espacial Internacional. Com o apoio da família, o foco e a determinação de José culminam na oportunidade de alcançar esse objetivo impossível.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  A NINFA DO LADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:213a6ce3ee45de235903d9af8eca75f7a8a44c64</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eZwkqc75XDMy35keKJkk2rh3Jhf.jpg</thumbnail>

@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O CONDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d18f5c8e92a0c1d2578c42db58d674ef2587531</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2j8QZBSw22JRCfVgZrteu7BaYsE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Conde combina terror e humor ácido em um universo paralelo inspirado na história recente do Chile. O filme retrata Augusto Pinochet, um símbolo do fascismo mundial, como um vampiro recluso em uma mansão em ruínas no gelado extremo sul do continente. Ele se alimenta do mal para sobreviver, mas aos 250 anos decide parar de beber sangue e renunciar ao privilégio da vida eterna. Pinochet não aguenta mais ser lembrado como um ladrão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MILHÕES DE QUILOMETROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LDZ2BQ4X436DRYE3SHGMKUZQINP6ZB5X</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pP6RZPQjTHoqvDLizTVipFJ6GNm.jpg</thumbnail>

@@ -20,6 +20,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NOITE DAS BRUXAS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4BE8028CADB548B9CA80B2DA9E6BBFB0A35D4DD9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7dLQmoNjMBmLUIrn4ymLe4nQId8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O célebre detetive Hercule Poirot, agora aposentado e vivendo em exílio auto imposto em Veneza, relutantemente participa de uma sessão de Halloween em um palazzo decadente e mal-assombrado. Quando um dos convidados é assassinado, o detetive é lançado em um mundo sinistro de sombras e segredos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MILHÕES DE QUILOMETROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LDZ2BQ4X436DRYE3SHGMKUZQINP6ZB5X</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pP6RZPQjTHoqvDLizTVipFJ6GNm.jpg</thumbnail>

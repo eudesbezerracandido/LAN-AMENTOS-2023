@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NOSSO AMIGO EXTRAORDINÁRIO ( BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wM2mraYh30CGBikQcmhgcl1uTds.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Milton vive uma vida tranquila e rotineira em uma pequena cidade no oeste da Pensilvânia, mas tem seu dia virado de cabeça para baixo quando um OVNI e seu passageiro extraterrestre fazem um pouso forçado em seu quintal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O CONDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d18f5c8e92a0c1d2578c42db58d674ef2587531</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2j8QZBSw22JRCfVgZrteu7BaYsE.jpg</thumbnail>

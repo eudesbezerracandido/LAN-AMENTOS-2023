@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] NOITE SANGRENTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00c91b8c36df11eb064aa89ad1018d8aa301e5d6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kgND5yAax4aT4UXEXrEsZavlHDx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Oito mulheres participam de uma festa em uma fazenda remota nas colinas da Califórnia. Eles são interrompidos pela chegada de invasores mascarados que cercam o local e começam a atirar flechas na casa e nos convidados.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A FREIRA 2 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c83b61587d51d952ff6d0a3b3af886481793a7</link>

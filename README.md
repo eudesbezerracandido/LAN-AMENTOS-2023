@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] SUSPEITO X [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G4KOLUTEXD3S5O7C4AKTDS2ANGBOQVLV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sJqObd9wfW5EhCvnpzJuOar5fR1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um talentoso professor de matemática tenta ajudar uma mãe solo envolvida em um crime. Mas um policial insistente pode atrapalhar.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CARMEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

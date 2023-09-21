@@ -2,6 +2,20 @@
 
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] COLEÇÃO- O PROTETOR - COM ( DENZEL WASHINGTON ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>$nome=BREVE</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0549DA92DC3AF0352F4701AEC449B959A655D4FF$nome=O EQUALIZADOR</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20E51C217FEDB01ED54F7E9DE2CA17CDF1BF72CB$nome=O EQUALIZADOR 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mXhoN5CIbtTJxVuVWtsHD0qMgqh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sentindo-se em casa no sul da Itália, o ex-agente Robert McCall logo descobre que seus novos amigos estão sob o controle dos chefes do crime local. À medida que os acontecimentos se tornam mortais, McCall sabe o que tem de fazer: tornar-se o protetor dos seus amigos, enfrentando a máfia.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CASSANDRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:R5REV2T2YJB6JXVL3G4QVDCPJ2COSF2R</link>

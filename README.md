@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] CARMEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9687aee44c95b0c9022c2f5cc0b03e56ce9adb5a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oc07MMSumgytiBT1fVTuEMDjUQA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O longa apresenta uma releitura moderna de uma das histórias de amor e óperas mais famosas da história, "Carmen".</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] NOITE SANGRENTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

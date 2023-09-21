@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] GUIADO PELO LUAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ace79d349d6ee943ae260db356983b9b5f33d051</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6FDQWH4n3CbdXy6okehSVVenX02.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que a esposa do cantor country Will Brown falece, sua dor o afasta tanto de sua carreira quanto de sua filha. Sua vida tem uma reviravolta quando um talentoso treinador de cavalos mostra a ele força, perdão e graça.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NOITE SANGRENTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00c91b8c36df11eb064aa89ad1018d8aa301e5d6</link>

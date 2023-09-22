@@ -8,7 +8,7 @@
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO- O PROTETOR - COM ( DENZEL WASHINGTON ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>$nome=BREVE</link>
+<link>https://archive.org/download/o-protetor-capitulo-final/O%20PROTETOR-CAPITULO%20FINAL.mp4$nome=O PROTETOR CAPITULO FINAL</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0549DA92DC3AF0352F4701AEC449B959A655D4FF$nome=O EQUALIZADOR</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20E51C217FEDB01ED54F7E9DE2CA17CDF1BF72CB$nome=O EQUALIZADOR 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mXhoN5CIbtTJxVuVWtsHD0qMgqh.jpg</thumbnail>

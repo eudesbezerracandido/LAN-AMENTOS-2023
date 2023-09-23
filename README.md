@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] OS PEQUENOS ESPIÕES - APOCALIPSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NFNWOWT76XWKAJYJ4UKHLZPY4R7XWWVI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cwCKYjIPXapuBtO51S81GNhoGxV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando os filhos dos maiores agentes secretos do mundo, involuntariamente, ajudam um poderoso desenvolvedor de jogos a liberar um vírus de computador que lhe dá o controle de toda a tecnologia, eles próprios devem se tornar espiões para salvar seus pais e o mundo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] QUADRILOGIA - OS MERCENÁRIOS 4 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

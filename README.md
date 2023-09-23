@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] COMO SUPERAR UM CORAÇÃO EM PEDAÇOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a8735ad4d2d3f690be1442386e2418aaeb875c0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1fI9VlE7pK0xZ7KtpG65vTG5c0p.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>María está falida, sem inspiração e com um prazo apertado para escrever um novo livro.Sequência do filme peruano "Soltera Codiciada".</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A LISTA DA VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

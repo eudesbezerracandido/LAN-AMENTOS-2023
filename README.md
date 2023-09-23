@@ -2,6 +2,18 @@
 
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] BREAKING POINT-PAIXÃO A DANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a125f16c078a17e08ce02d8349779dae6e00c673</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k7ijpc3yvoynohvUGzI9MOmFoOA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dois irmãos dançarinos desafiam o luto e suas diferenças para competir nas seletivas nacionais de breakdance da Grã-Bretanha e conseguir uma vaga na equipe que representará o país no Campeonato Mundial de Londres.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] COMO SUPERAR UM CORAÇÃO EM PEDAÇOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a8735ad4d2d3f690be1442386e2418aaeb875c0</link>

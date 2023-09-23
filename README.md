@@ -4,7 +4,16 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] QUADRILOGIA - OS MERCENÁRIOS 4 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8a9b3a456a42801de0178b31b6297f345921243$nome=1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13cdb76ebf4cb3e65eba12bbe6d2c466e72bfb22$nome=2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EAABD441C212FBE532FDCAD8B940B491E2A58626$nome=3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E228EC4EEC674159930FF3994738A7D55622580$nome=4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dQxlUkhKGILgq9jbVEe3WPaiW2q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os Mercenários enfrentam um traficante de armas que comanda o poder de um enorme exército privado.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO- O PROTETOR - COM ( DENZEL WASHINGTON ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

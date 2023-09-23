@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] A LISTA DA VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6464b724c5b19c09d9500734194e31708ec5fbf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r8vVQ0blfRsRth1rCjNt45pY293.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para salvar o filho acusado injustamente de sequestro, um homem decide fazer justiça com as próprias mãos e enfrenta uma gangue de policiais corruptos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] OS PEQUENOS ESPIÕES - APOCALIPSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NFNWOWT76XWKAJYJ4UKHLZPY4R7XWWVI</link>

@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BELO DESASTRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7BFGBM2POUPCSK2IG74ZICDVJQTAHV7O</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uNIadSJbxQ0p0DtJLUPfVW6TAEu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Intrigado com a resistência de um calouro da faculdade, um boxeador oferece uma simples aposta: se ele perder sua próxima luta, ele deve permanecer sem sexo por um mês.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O ACUSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2a4746ca8538c2ae914670014e331620a3a47da</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9lcVaSYlHAwsDqU3UFtUo4xvCZ.jpg</thumbnail>

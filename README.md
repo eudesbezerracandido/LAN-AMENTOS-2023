@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O ATIRADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48f35311eafb66683116a53d82286f7dfacb3ea8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v7mXgXpNZYYPVBo6sqdxjIhQIsb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um culto terrorista internacional ameaça a estabilidade política global e sequestra um colega agente, Ace Sniper Brandon Beckett e a recém-formada Equipe de Resposta e Inteligência Global – ou GRIT – liderada pelo Coronel Stone devem viajar pelo mundo até Malta, infiltrar-se no culto e elimine seu líder para libertar Lady Death e deter a ameaça global.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] À ESPREITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50e466729245094094d0cab9add7f3aaef403997</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qfglisVh5Nmo1nGYCoMzqyZUWcz.jpg</thumbnail>

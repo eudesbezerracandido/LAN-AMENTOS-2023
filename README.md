@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] À ESPREITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50e466729245094094d0cab9add7f3aaef403997</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qfglisVh5Nmo1nGYCoMzqyZUWcz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante a Guerra do Vietnã, um posto avançado de soldados norte-americanos é alvo de uma emboscada. Para sua sobrevivência, um grupo de elite vai atrás de informações que podem mudar o curso da guerra.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BREAKING POINT-PAIXÃO A DANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

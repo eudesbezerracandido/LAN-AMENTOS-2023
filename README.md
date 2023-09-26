@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] SEM RASTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LAF5I5ONYDGBAI3GSP5WYRBJ44H2QT77</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m3ZNSvplELOkVZKPXElMwdapIr4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando a irmã mais nova de Lisa desaparece repentinamente sem deixar vestígios, ela retorna à sua aldeia natal para procurar a garota desaparecida sozinha. Mas antes que ela possa seguir uma pista real, uma garota morta é encontrada no rio.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SUBSTITUTOS-SUMULANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ELTVENHCR57R3PAXQYMIJUATZCTL6WY</link>

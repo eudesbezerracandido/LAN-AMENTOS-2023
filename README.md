@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TIN & TINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VDLNPCAWNHERLYMAH4W4XH5TPUZWPQ3L</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal que sofreu um aborto traumático decide adotar dois gêmeos que viviam em um convento. Só que a obsessão das crianças pela religião começa a incomodar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BELO DESASTRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7BFGBM2POUPCSK2IG74ZICDVJQTAHV7O</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uNIadSJbxQ0p0DtJLUPfVW6TAEu.jpg</thumbnail>

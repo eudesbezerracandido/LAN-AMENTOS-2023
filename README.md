@@ -14,6 +14,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SEM RESPOSTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5RI26DO4VFI5RJVWP6U6YZ52L5FPMIVD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O corretíssimo Cole se apaixona pela enigmática Sadie, mas logo enfrenta a chocante descoberta de que ela é uma agente secreta. Antes que eles possam decidir se terão ou não um segundo encontro, Cole e Sadie são arrastados para uma aventura internacional para salvar o mundo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ENCURRALADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XTDMG45QBCOE3TTQ5R5TBS2XEAAHMFYR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vWpGbc5yP8nCWC2Wiwzq2WvrHsg.jpg</thumbnail>

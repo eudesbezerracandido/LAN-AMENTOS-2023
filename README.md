@@ -14,6 +14,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ENCURRALADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XTDMG45QBCOE3TTQ5R5TBS2XEAAHMFYR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vWpGbc5yP8nCWC2Wiwzq2WvrHsg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para escapar de um escândalo, um casal de Istambul tenta recomeçar a vida em uma nova cidade, mas logo descobre que os moradores vão fazer de tudo para se livrar deles.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SUBSTITUTOS-SUMULANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ELTVENHCR57R3PAXQYMIJUATZCTL6WY</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a1QnXoqnZEIeJPK6HPh8qGdSrk4.jpg</thumbnail>

@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O ACUSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2a4746ca8538c2ae914670014e331620a3a47da</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9lcVaSYlHAwsDqU3UFtUo4xvCZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem é acusado injustamente de ter cometido um crime terrível. Quando justiceiros violentos invadem sua casa, ele se vê forçado a lutar para sobreviver.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] À ESPREITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

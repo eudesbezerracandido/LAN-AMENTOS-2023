@@ -1,6 +1,13 @@
 # LAN-AMENTOS-2023
 
 
+<item>
+<title>[COLOR silver][B] SUBSTITUTOS-SUMULANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ELTVENHCR57R3PAXQYMIJUATZCTL6WY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a1QnXoqnZEIeJPK6HPh8qGdSrk4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte de seu marido, Evan, Faye decide transferir sua consciência para um androide, mas percebe que a inteligência artificial não é capaz de substituir seu verdadeiro amor e acaba entrando em uma inesperada trama de perseguição.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O ACUSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

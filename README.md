@@ -1,7 +1,13 @@
 # LAN-AMENTOS-2023
 
 
-
+<item>
+<title>[COLOR silver][B] AMOR ESQUECIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0056958820bf7a7738bd7a2df27557ef2a49425</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jYzBx0ii5k2IxdEFcjZRErbqQQc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Amor Esquecido é uma história universal sobre Rafal Wilczur, um conceituado cirurgião e professor. Abandonado pela esposa, ele é assaltado e acaba perdendo a memória. Amor Esquecido é baseado no lendário romance polonês Znachor [The Quack], de Tadeusz Dołęga-Mostowicz.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A INCRIVÉL HISTÓRIA DE HENRY SUGAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

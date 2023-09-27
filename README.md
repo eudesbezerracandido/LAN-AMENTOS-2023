@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A INCRIVÉL HISTÓRIA DE HENRY SUGAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f0ae95ff6c2388955bd5b06cb02050dc897bdc4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/azRL9bmByicPRzP0ljDNzFCwyUX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Narra uma variedade de histórias, mas a principal segue Henry Sugar, que é capaz de ver através de objetos e prever o futuro com a ajuda de um livro que roubou.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SEM RASTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

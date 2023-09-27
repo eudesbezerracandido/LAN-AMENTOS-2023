@@ -10,6 +10,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SOUND OF FREEDOM ( HDCAM ) LEGENDA FIXA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/sound-of-freedom_20230727/Sound%20of%20Freedom.mp4$nome=SOM DA LIBERDADE</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:673FA4E8F7E90F6F4FD55BF3584556C78A0838B0$nome=DUBLADO NÃO OFICIAL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1laG6ntAYpTOxx2H5Gh0Ku0HZON.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Som da Liberdade é um filme de drama e ação baseado na história real de Tim Ballard, ex-agente do governo americano responsável por uma missão de resgate de centenas de crianças vítimas do tráfico sexual na Colômbia. Na trama, depois de resgatar um garotinho, Ballard (interpretado por Jim Caviezel) descobre que a irmã do menino também está sendo mantida como refém. Ele decide, então, dar início a uma perigosa – porém nobre – missão para salvá-la. Disposto a dar tudo de si, Tim se demite de seu antigo emprego e viaja para as profundezas da selva colombiana.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A INCRIVÉL HISTÓRIA DE HENRY SUGAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f0ae95ff6c2388955bd5b06cb02050dc897bdc4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/azRL9bmByicPRzP0ljDNzFCwyUX.jpg</thumbnail>

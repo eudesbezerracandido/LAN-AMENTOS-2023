@@ -360,14 +360,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] SOM DA LIBERDADE ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:673FA4E8F7E90F6F4FD55BF3584556C78A0838B0</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>A história de Tim Ballard, um ex-agente do governo dos EUA, que largou seu emprego para dedicar sua vida a resgatar crianças de traficantes sexuais globais.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] DRÁCULA - A ÚLTIMA VIAGEM DE DEMÉTER ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1DA005A35FD71A7CF28053BC9A9A4F6FE747D70F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail>
@@ -472,8 +464,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] BESOURO AZUL ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:921CFD8A5A1450EBB603AA74BC5D1F5C46199276</link>
+<title>[COLOR silver][B] BESOURO AZUL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QG5AFXKOTNEXDLUL4AB3UVSDSMWI3DDT</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AhmVkXerBVsuI6PejPeqaaW2wwT.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.</info>

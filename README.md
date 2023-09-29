@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DISCURSO OCULTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97b1ef10a08db70f16225b970063df3f8021b1b5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a3mMwp42qXaA4DLNcXvNO0u01Pi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nesta comédia romântica politicamente incorreta, um assessor político usa seu poder de persuasão para ajudar seu candidato a vencer as eleições mas perde o coração no processo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOUND OF FREEDOM ( HDCAM ) LEGENDA FIXA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/sound-of-freedom_20230727/Sound%20of%20Freedom.mp4$nome=SOM DA LIBERDADE</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:673FA4E8F7E90F6F4FD55BF3584556C78A0838B0$nome=DUBLADO NÃO OFICIAL</link>

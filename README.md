@@ -1,6 +1,17 @@
 # LAN-AMENTOS-2023
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] JOGOS MORTAIS 10 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31C553DE040D194ECF084C33EBF67BB7175BB246</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Entre os eventos de “Jogos Mortais” e “Jogos Mortais II”, um doente e desesperado John Kramer viaja para o México para um arriscado e experimental procedimento médico na esperança de uma cura milagrosa para seu câncer — apenas para descobrir que toda a operação é uma farsa para fraudar os mais vulneráveis. Armado com um propósito recém-descoberto, o infame assassino em série retorna ao seu trabalho, virando a mesa contra os vigaristas em sua maneira visceral característica por meio de armadilhas tortuosas, perturbadas e engenhosas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AMOR ESQUECIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0056958820bf7a7738bd7a2df27557ef2a49425</link>

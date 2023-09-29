@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CAMALEÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86dbdc1121505a1b8a7e6f03ccfaad18f73b2a23</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2FKm87VF8VKkIFJtRoPsWiux4sr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um detetive da Nova Inglaterra trabalha para solucionar o assassinato de um corretor de imóveis e, como resultado do caso, passa por uma reflexão sobre si mesmo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DESTINOS Á DERIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f211dbd8e03146f42c1793856f6bbc8ec695a157</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hiNqwEkmW1oMlbQnNKlucIzvqjn.jpg</thumbnail>

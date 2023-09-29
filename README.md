@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MOVIMENTO DE JESUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:638a33219a82f52a64b0e8fbe6582950978e0bd3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m96gOrdyL5jC3u3Znaqq4AG1V8T.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A verdadeira história de um despertar espiritual nacional no início dos anos 1970 e suas origens dentro de uma comunidade de adolescentes hippies no sul da Califórnia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NÃO PERTURBE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6236c4a3dfc02092428ab8e807788bf8f02aec1c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AdcXd3zgbtoo2EDn3ymp35gdZoH.jpg</thumbnail>

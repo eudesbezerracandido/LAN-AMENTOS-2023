@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SINDICALISTA - LEGENDA FIXA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f39b01415e2d80bd214ad6c61441d93093c2057</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uKCwP1JqrCnAq2zXTxCPYKhhW5s.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>La syndicaliste Torrent – La syndicaliste é a história real de Maureen Kearney, a principal representante sindical de uma multinacional francesa de potência nuclear. Ela se tornou uma delatora, denunciando acordos ultrassecretos que abalaram o setor nuclear francês. Sozinha contra o mundo, ela lutou com unhas e dentes com ministros do governo e líderes da indústria para trazer o escândalo à tona e defender mais de 50.000 empregos. Sua vida virou de cabeça para baixo quando ela foi violentamente agredida em sua própria casa… a investigação é feita sob pressão: o assunto é delicado. De repente, novos elementos criam dúvidas nas mentes dos investigadores. A princípio uma vítima, Maureen se torna uma suspeita.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DISCURSO OCULTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97b1ef10a08db70f16225b970063df3f8021b1b5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a3mMwp42qXaA4DLNcXvNO0u01Pi.jpg</thumbnail>

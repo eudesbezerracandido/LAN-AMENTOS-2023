@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CAÇADOR DE RATOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7996f0f437522675a097cc002a055f9c31cf5159</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5fHwVtgJLeOiaKENJ2s8BPY6Rvv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Numa aldeia inglesa, um repórter e um mecânico ouvem um caçador de ratos explicar o seu plano inteligente para enganar a sua presa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CAMALEÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86dbdc1121505a1b8a7e6f03ccfaad18f73b2a23</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2FKm87VF8VKkIFJtRoPsWiux4sr.jpg</thumbnail>

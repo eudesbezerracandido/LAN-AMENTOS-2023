@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FLORA & FILHO: MÚSICA EM FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:URIRLAQEWUOCYDZP2YBQPSQVFXPOZOFU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/irewLLkM8WaOP1gps6YWkPqLy4m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Flora, mãe solteira, não sabe o que fazer com Max, o filho adolescente rebelde. Quando a polícia sugere a Flora encontrar um hobby para Max, ela entrega a ele um violão surrado. Com a ajuda de um músico fracassado de LA, Flora e Max descobrem o poder de transformação da música.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DESTINOS Á DERIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f211dbd8e03146f42c1793856f6bbc8ec695a157</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hiNqwEkmW1oMlbQnNKlucIzvqjn.jpg</thumbnail>

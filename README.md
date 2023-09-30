@@ -821,7 +821,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] MISSÃO: IMPOSSÍVEL - ACERTO DE CONTAS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] MISSÃO: IMPOSSÍVEL - ACERTO DE CONTAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:262DF2E7AD0E175DE3CD8D1D64AE618F5345F0D0$nome=MISSÃO:IMPOSSÍVEL ACERTO DE CONTAS</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:182301e9ef59e96a84a32ad67fee3394870543b6$nome=QUADRILOGIA DA MISSÃO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7TsfjhvzgiIaf9POEmfkYOPJF15.jpg</thumbnail>

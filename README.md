@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CORAÇÃO DE NEON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:262DF2E7AD0E175DE3CD8D1D64AE618F5345F0D0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ucT1MBlwoA0cLvZvjLrZsMaWmBq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem trabalha com o pai em um típico carro de telegrama cantante brasileiro chamado Coração de Neon. A bordo de um carro personalizado, eles são contratados para entregar mensagens românticas dadas como presentes para pessoas de toda a cidade. Após uma performance que terminou tragicamente, sua vida muda completamente e ele inicia uma jornada alucinante em busca de seus sonhos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MOVIMENTO DE JESUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:638a33219a82f52a64b0e8fbe6582950978e0bd3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/m96gOrdyL5jC3u3Znaqq4AG1V8T.jpg</thumbnail>

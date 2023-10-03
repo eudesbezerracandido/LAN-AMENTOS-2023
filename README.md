@@ -441,8 +441,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DRÁCULA - A ÚLTIMA VIAGEM DE DEMÉTER ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1DA005A35FD71A7CF28053BC9A9A4F6FE747D70F</link>
+<title>[COLOR silver][B] DRÁCULA - A ÚLTIMA VIAGEM DE DEMÉTER  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb9680316e37c25041e168a74deb98f431d3c77e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A tripulação do navio mercante Demeter tenta sobreviver à viagem oceânica de Carpathia a Londres enquanto são perseguidos todas as noites por uma presença impiedosa a bordo do navio.</info>

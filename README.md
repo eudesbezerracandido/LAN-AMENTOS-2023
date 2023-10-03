@@ -2,6 +2,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] O MOSTRO QUE VIVE EM MIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eed3d72e9c52c3ff02f2bea0596f4e857c411edc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fDBAZRH4YiqtOrcTwmwbjz4KsXe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após atingir seu limite, os pensamentos obscuros de Hannah se materializam como uma criatura monstruosa que ameaça destruir sua vida.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] RESISTÊNCIA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9E209AD3AA4684D7E7CE3C55B3F78E6FDDD3914</link>

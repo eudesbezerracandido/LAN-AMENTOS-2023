@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LOUCAS EM APUROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe5fb8ff1e0ba7fdf6f4c4e9634699cf6fbe8f42</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/156UQ8cVp0rgsT7oTHDZye1Yj4d.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em uma viagem de negócios na Ásia, Audrey descobre que, para fechar um grande negócio, ela precisa rastrear sua mãe biológica. Para isso, ela vai contar com a ajuda de sua melhor amiga de infância e a prima excêntrica dela, além de sua amiga de faculdade que virou uma estrela de novelas na China, em uma jornada de união, amizade e pertencimento.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CIRCULO DE ESPIÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc97d10ee276a131a566372a05ea02226a7ef009</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jGUcSkXhBpgqIjSW5f5QKAmi2SQ.jpg</thumbnail>

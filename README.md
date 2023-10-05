@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FALE COMIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24bcce4cf3d6c0fd3199cff3eb1c2853ca2ce5d4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eqTYmtZKv4RGJiIQy6P6KyMNJ3h.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um grupo de amigos descobre como conjurar espíritos usando uma antiga mão embalsamada, eles ficam viciados na nova emoção. Até que um deles vai longe demais e abre a porta para o mundo espiritual.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DESTINOS A DERIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f211dbd8e03146f42c1793856f6bbc8ec695a157</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hiNqwEkmW1oMlbQnNKlucIzvqjn.jpg</thumbnail>

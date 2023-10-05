@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RABIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74df1962ea46d9672f605e9feafc4cefdbd62801</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1xIvYJ6HcmD5lcXlaOhChPxLLcY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Alan e seu pai fogem da dolorosa perda de sua mãe. Enquanto se escondem em um alojamento isolado, Alan descobre mensagens escondidas de seu tio que o levam a acreditar que seu pai é um lobisomem. Sua vida e as vidas de seus vizinhos estão em perigo. Alan decide fazer algo de uma vez por todas. Destruir a besta não parece um plano exagerado na realidade violenta em que ele vive todos os dias.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LOUCAS EM APUROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe5fb8ff1e0ba7fdf6f4c4e9634699cf6fbe8f42</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/156UQ8cVp0rgsT7oTHDZye1Yj4d.jpg</thumbnail>

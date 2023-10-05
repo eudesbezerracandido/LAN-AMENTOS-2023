@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CIRCULO DE ESPIÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc97d10ee276a131a566372a05ea02226a7ef009</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jGUcSkXhBpgqIjSW5f5QKAmi2SQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando uma traição na unidade de inteligência tem consequências fatais, uma agente implacável sai em busca de vingança.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MOSTRO QUE VIVE EM MIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eed3d72e9c52c3ff02f2bea0596f4e857c411edc</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fDBAZRH4YiqtOrcTwmwbjz4KsXe.jpg</thumbnail>

@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MANSÃO MAL-ESSOMBRADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HSZZ3UMTGFIDT5PCKXFBLZXHBDNMBTSO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3puybXuYPlZPRplIVSrExZnWibb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lar é onde as assombrações estão.Uma mãe solteira chamada Gabbie contrata um guia turístico, um médium, um padre e um historiador para ajudar a exorcizar sua mansão recém-comprada; depois de descobrir que é habitado por fantasmas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FALE COMIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24bcce4cf3d6c0fd3199cff3eb1c2853ca2ce5d4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eqTYmtZKv4RGJiIQy6P6KyMNJ3h.jpg</thumbnail>

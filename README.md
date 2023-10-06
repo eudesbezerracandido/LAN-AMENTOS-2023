@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DEZESSEIS FACADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6NZWSN5QZHH62WEFHFVEZN5EHD36YP6Y</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Trinta e cinco anos após o chocante assassinato de três adolescentes, o infame "Sweet Sixteen Killer" retorna na noite de Halloween para fazer uma quarta vítima. Jamie, de dezessete anos, ignora o aviso de sua mãe superprotetora e fica cara a cara com o maníaco mascarado e, fugindo para salvar sua vida, acidentalmente viaja no tempo de volta para 1987, o ano do assassinatos originais. Forçada a navegar na cultura desconhecida e ultrajante dos anos 1980, Jamie se une a sua mãe adolescente para derrubar o assassino de uma vez por todas, antes que ela fique presa no passado para sempre.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MANSÃO MAL-ESSOMBRADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HSZZ3UMTGFIDT5PCKXFBLZXHBDNMBTSO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3puybXuYPlZPRplIVSrExZnWibb.jpg</thumbnail>

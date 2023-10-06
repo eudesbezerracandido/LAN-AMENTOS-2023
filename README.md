@@ -12,7 +12,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] O EXORCISTA-O DEVOTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] O EXORCISTA-O DEVOTO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92BC013A714ACD0B2F5C32593FA75B94AD89FD8F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/l6nMIFfpkL5cQz4ulSV0llwOWoh.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>

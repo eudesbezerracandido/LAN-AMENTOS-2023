@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA BELA MANHÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88be845ae39a7276163dd19b2c7ad034acb7bbe6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f0zZGfxM6GOuOuZY61m0JcfGi4S.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sandra é uma jovem mãe viúva que equilibra as tarefas de criar sua filha enquanto cuida de seu pai doente, que está batalhando contra uma condição neurológica degenerativa. O velho amigo Clément entra em sua vida, e em uma época de estresse familiar, ela começa um caso ardente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MATE-ME, SE PUDER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdc92745bca6df90f68bdcf5d46568e9bcbaf557</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/e2ghk75hCIu7N2Xk7baIJtvwMPP.jpg</thumbnail>

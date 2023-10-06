@@ -13,6 +13,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O REI DOS ASSASSINOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7bbcddccbf05de254e3a9586161de1c6466374f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tHA2wltMBWuaTzOzSf7P2bzhmIy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os maiores assassinos do mundo são contratados simultaneamente para matar Jorge Drakos, auto-declarado como Rei dos Assassinos, porém eles descobrem estão presos em uma competição para ver quem é o verdadeiro Rei dos Assassinos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O ENGENHEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6688205d97cb2410c36b1f827f544067593332d7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/daEvqdnGCrbk5yMkYkxoDpNuCkP.jpg</thumbnail>

@@ -3,6 +3,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] SEU MEDO É REAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OFBIPFM6256QNTRLHJ4IFY7YNRD7MDDP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qf4l5Ph8WOSxSxYBm8zeOuaXOk3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma jovem de 16 anos e sua irmã mais nova ainda em luto pela morte da mãe, são alvo de uma criatura sobrenatural depois que o pai de ambas atende um paciente desesperado em casa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CEMITÉRIO MALDITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

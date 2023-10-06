@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A ARTE DA SOBREVIVENCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bfbcf615dd244a07b2ef3306f8262b57951b64e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AkBQQicJtMdWFOFaIVkH02c5McZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante a Segunda Guerra Mundial, Antonio é um clarinetista italiano, que se apaixona por Martina, uma violinista tcheca.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A BAILARINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8bf007faef12f47f7a44a4fb7a1e0cdc956b3b3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/x2uOy9N8ZqlFNitrolq6RBKPiNT.jpg</thumbnail>

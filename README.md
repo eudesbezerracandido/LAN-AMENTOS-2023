@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A BAILARINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8bf007faef12f47f7a44a4fb7a1e0cdc956b3b3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x2uOy9N8ZqlFNitrolq6RBKPiNT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sofrendo com a morte da melhor amiga após não conseguir protegê-la, uma antiga guarda-costas vai fazer de tudo para realizar seu último pedido: vingança.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O EXORCISTA-O DEVOTO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92BC013A714ACD0B2F5C32593FA75B94AD89FD8F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/l6nMIFfpkL5cQz4ulSV0llwOWoh.jpg</thumbnail>

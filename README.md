@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O EXORCISTA-O DEVOTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92BC013A714ACD0B2F5C32593FA75B94AD89FD8F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l6nMIFfpkL5cQz4ulSV0llwOWoh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando sua filha e sua melhor amiga são possuídas por um espírito demoníaco, um pai desesperado procura a ajuda de Chris MacNeil (Ellen Burstyn), cuja filha Regan sobreviveu a uma possessão semelhante na década de 1970.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CEMITÉRIO MALDITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10a0da3d49afce7febfeb4f0085ef14dc4eecd3e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg</thumbnail>

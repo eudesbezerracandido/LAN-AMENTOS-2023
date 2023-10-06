@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MATE-ME, SE PUDER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdc92745bca6df90f68bdcf5d46568e9bcbaf557</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2ghk75hCIu7N2Xk7baIJtvwMPP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A excêntrica milionária Olivia envia à meia-irmã Agatha e a um grupo de velhos conhecidos um misterioso convite para um fim de semana em seu iate, onde descobrirão o verdadeiro motivo da comemoração: um... assassinato? Pega de surpresa por uma morte inesperada, e com ajuda da polícia, Agatha tentará descobrir se foi apenas um acidente ou um elaborado plano de vingança.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOGO JUSTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3563c8fd7587ba1f0c88907030154b92984d0bca</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg</thumbnail>

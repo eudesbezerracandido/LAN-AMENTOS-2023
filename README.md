@@ -3,6 +3,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] CEMITÉRIO MALDITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10a0da3d49afce7febfeb4f0085ef14dc4eecd3e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1969, o jovem Jud Crandall sonha em deixar para trás sua cidade natal, Ludlow, mas logo descobre segredos sinistros no local. Ele é forçado a enfrentar a sombria história de sua família, que o manterá para sempre conectado à cidadezinha.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O ENGENHEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6688205d97cb2410c36b1f827f544067593332d7</link>

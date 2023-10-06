@@ -20,6 +20,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VIRANDO O JOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b3674c57f0440018fed90ef746ad44052f5a58a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ybWVBbq9W2MCzjL2UMBmqrc8eEc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de sofrer uma derrota esmagadora, todos pensavam que o Abilene Eagles, um time de futebol americano do Ensino Médio, não teria a menor chance de competir pelo título na temporada seguinte. No entanto, a liderança de Chad Mitchell e a figura paterna de Harold Christian incentivarão os jogadores a enfrentar desafios dentro e fora de campo e transformarão a história do clube e do esporte americano para sempre.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A BAILARINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8bf007faef12f47f7a44a4fb7a1e0cdc956b3b3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/x2uOy9N8ZqlFNitrolq6RBKPiNT.jpg</thumbnail>

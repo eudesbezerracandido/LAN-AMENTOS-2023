@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JOGO JUSTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3563c8fd7587ba1f0c88907030154b92984d0bca</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma promoção inesperada em um fundo de hedge implacável leva o relacionamento de um jovem casal ao limite, ameaçando desvendar muito mais do que seu recente noivado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A ARTE DA SOBREVIVENCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bfbcf615dd244a07b2ef3306f8262b57951b64e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AkBQQicJtMdWFOFaIVkH02c5McZ.jpg</thumbnail>

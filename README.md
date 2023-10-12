@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A REALIDADE É UMA ILUSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48d974ba25e1498bf0352345b2d3b2475cbbb2dc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/msgWkL23ZslTVZJRYJIng83mYny.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um adolescente e seu pai vivem à margem da sociedade de forma peculiar: eles aplicam golpes usando os poderes do adolescente. Mas as coisas acabam saindo do controle quando Ian é exposto em público, o que dá início a uma guerra em que os dois lados querem obter benefícios com seu dom!</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FILHA DO PRISSIONEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:013db03c9e0a5e312d44581e622a8429d5246442</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2NYd7jKFnilcIOUfDI8o2TOuCmu.jpg</thumbnail>

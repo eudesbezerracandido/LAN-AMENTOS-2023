@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] CRIME E PODER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbce6fe2b119ead7f3c2e4b893b8cd68cce1f7d5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z2fgGa0B5Bk8Ak3ScaTEEnO7qCZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um detetive à beira da aposentadoria se une a um professor de Estudos Africanos para rastrear um serial killer que está realizando a antiga prática de magia negra de Muti.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FILHA DO PRISSIONEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

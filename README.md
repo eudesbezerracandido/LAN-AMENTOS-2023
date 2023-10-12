@@ -802,8 +802,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DUOLOGIA- MEGATUBARÃO 2 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CEEEDE10C930AABE67865AC84DA9E09815A02E7A$nome=MEGATUBARÃO II</link>
+<title>[COLOR silver][B] DUOLOGIA- MEGATUBARÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03960ae1c026ab5af778176ea9a58b1e13bfc12d$nome=MEGATUBARÃO II</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D554579F58BF23B34EE1CEBE92EF3F55125AD17C$nome=MEGATUBARÃO I</link>
 <thumbnail>https://ia902702.us.archive.org/35/items/mega_20230809_202308/MEGA.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>

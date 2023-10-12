@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] ERA UMA VEZ UMA ESTRELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb814d34d01a0670cb48376a7c468ca7da9c035c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9CELDhMAq2rbQsSqJYotWGCkeRO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ambientado durante a era Mitr-Petchara do cinema tailandês, uma trupe - cheia de sonhos - viaja por todo o país vendendo drogas e dublando filmes ao vivo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CRIME E PODER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbce6fe2b119ead7f3c2e4b893b8cd68cce1f7d5</link>

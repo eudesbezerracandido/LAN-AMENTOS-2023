@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] FILHA DO PRISSIONEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:013db03c9e0a5e312d44581e622a8429d5246442</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2NYd7jKFnilcIOUfDI8o2TOuCmu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Prisoners Daughter é um drama poderoso e corajoso que acompanha Max (Brian Cox), que recebe liberdade compassiva após cumprir 12 anos de prisão com a condição de morar com sua filha distante, Maxine (Kate Beckinsale) e o neto que nunca conheceu. Quando o ex-marido abusivo e viciado em drogas de sua filha reaparece, o passado sombrio e violento de Max volta para assombrar a todos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SEU MEDO É REAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OFBIPFM6256QNTRLHJ4IFY7YNRD7MDDP</link>

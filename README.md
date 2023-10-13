@@ -254,14 +254,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DESTINOS Á DERIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f211dbd8e03146f42c1793856f6bbc8ec695a157</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hiNqwEkmW1oMlbQnNKlucIzvqjn.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Mia (Anna Castillo) é uma mulher grávida que se esconde em um contêiner para fugir de um país totalitário com o marido. Separada dele à força, ela precisa lutar pela sobrevivência quando uma violenta tempestade a atira ao mar. Sozinha e à deriva no meio do oceano, Mia fará o impossível para salvar a vida da filha e reencontrar o companheiro.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] JOGOS MORTAIS 10 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31C553DE040D194ECF084C33EBF67BB7175BB246</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg</thumbnail>
@@ -1513,14 +1505,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/unS7q9USDwdX9mqmuxcjHJsczA2.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Presa na fazenda isolada de sua família, Pearl deve cuidar de seu pai doente sob o olhar amargo e autoritário de sua mãe devota. Desejando uma vida glamourosa como ela viu nos filmes, as ambições, tentações e repressões de Pearl colidem, na impressionante história de origem inspirada em technicolor da icônica vilã de X.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] A ROLETA DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cf36f6e547ec100c00bff93a2a8d053079454b9</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/yDziA0OTfZq19IBlQ6EUemraSfY.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Sete pessoas acordam sequestradas em uma mansão para fazerem parte de um jogo mortal. À medida que o relógio avança, para sobreviver, os sete competidores devem escolher um morrerá e o escolhido terá que concordar. Em 60 minutos, os maiores segredos virão à tona e eles descobrirão que estão todos unidos por um passado sombrio.</info>
 </item>
 
 <item>

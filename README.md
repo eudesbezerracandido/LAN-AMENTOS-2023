@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JOGANDO A LINHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:127f254a7f3907099952f4919eddc39b3f53075c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xZSshnuAArcYfqua8boiUP1Kzb5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um fuzileiro naval ferido no Afeganistão é enviado para uma instalação de VA em Montana, onde conhece um veterinário do Vietnã que o ensina a pescar como forma de lidar com seu trauma emocional e físico.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ERA UMA VEZ UMA ESTRELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb814d34d01a0670cb48376a7c468ca7da9c035c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9CELDhMAq2rbQsSqJYotWGCkeRO.jpg</thumbnail>

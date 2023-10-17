@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CONFERÊNCIA MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a77e074eb15cea57b59ec12aaeb48c0ce04a9c57</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nGaXnZmSpEKlg16e6PNxWga3UJL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma conferência de formação de equipas para funcionários municipais transforma-se num pesadelo quando acusações de corrupção começam a circular e a atormentar o ambiente de trabalho. Ao mesmo tempo, uma figura misteriosa começa a assassinar os participantes.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TUDO POR UM EX: NAMORADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53eca3b409609e82822b6efa0b401de13dd9b629</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wd7Y9KCVDUzEIj1j1o3EZSxaKcU.jpg</thumbnail>

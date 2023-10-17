@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COLHEITA SOMBRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04b581500ae3678534f06517483a06e76c0eabb2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eeePA5kvAt5swaBAi3YLJjLDHHz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em uma cidadezinha rural, um ritual mortal acontece todos os anos quando um pesadelo chamado Jack Dentes de Serra se ergue do milharal e desafia os jovens locais a luta sangrenta por sobrevivência.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CONFERÊNCIA MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a77e074eb15cea57b59ec12aaeb48c0ce04a9c57</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nGaXnZmSpEKlg16e6PNxWga3UJL.jpg</thumbnail>

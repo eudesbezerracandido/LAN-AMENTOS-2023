@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A CHAMADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60a5508bec6c8fc40e094343695c0b83572e3ef9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yd0iEtqAXseXQgKf9RjmMaPjUPG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um executivo bancário se prepara para levar os filhos na escola. Ao ligar o carro, ele recebe uma ligação anônima informando que há uma bomba embaixo do seu assento. Para o carro não explodir, ele precisa em algumas horas juntar uma grande quantia de dinheiro.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ERA UMA VEZ UMA ESTRELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

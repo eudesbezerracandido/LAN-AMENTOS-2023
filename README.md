@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O PRÓPRIO ENTERRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IPQHWWI4LOATFTBP6EZG2PO5QUAMFNDN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4Fxb4goCtkHluDwymYvHW1xoC6P.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inspirado em eventos reais, quando um acordo dá errado, o dono da funerária Jeremiah O’Keefe (vencedor do Oscar® Tommy Lee Jones) contrata o advogado Willie E. Gary (vencedor do Oscar® Jamie Foxx) para salvar o negócio de sua família. Os ânimos explodem e o riso surge quando o vínculo dos dois expõe a corrupção corporativa e a injustiça racial nessa história inspiradora e triunfante.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] URSINHO POOH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e3e53d5672a9f894dc4498dca7cf9d174555ac2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ewF3IlGscc7FjgGEPcQvZsAsgAW.jpg</thumbnail>

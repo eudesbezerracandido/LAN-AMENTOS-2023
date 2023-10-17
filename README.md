@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] URSINHO POOH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e3e53d5672a9f894dc4498dca7cf9d174555ac2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ewF3IlGscc7FjgGEPcQvZsAsgAW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de serem abandonados por Christopher Robin, que foi para a faculdade, Pooh e Leitão matam qualquer um que se atreva a se aventurar na Floresta dos Sonhos Azuis.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLHEITA SOMBRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04b581500ae3678534f06517483a06e76c0eabb2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eeePA5kvAt5swaBAi3YLJjLDHHz.jpg</thumbnail>

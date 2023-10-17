@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TUDO POR UM EX: NAMORADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53eca3b409609e82822b6efa0b401de13dd9b629</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wd7Y9KCVDUzEIj1j1o3EZSxaKcU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Frida é uma terapeuta que utiliza recursos artísticos para tratar seus pacientes e, justo quando o seu namorado resolve voltar com a ex, ela descobre estar grávida. Sem conseguir aceitar o fim do relacionamento, Frida decide utilizar métodos alternativos para reconquistá-lo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOGANDO A LINHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:127f254a7f3907099952f4919eddc39b3f53075c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xZSshnuAArcYfqua8boiUP1Kzb5.jpg</thumbnail>

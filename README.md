@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SCARYGIRL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d3d77c2d845df761ef4664c984e4c175f878a7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1tcLXVaXFG9OObnCN3a5KrymrQG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Como seu mundo está envolto na escuridão, uma jovem deve superar seus medos e viajar para uma misteriosa cidade de luz, salvar seu pai de um cientista perigoso e impedir a destruição de seu planeta.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O PRÓPRIO ENTERRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IPQHWWI4LOATFTBP6EZG2PO5QUAMFNDN</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4Fxb4goCtkHluDwymYvHW1xoC6P.jpg</thumbnail>

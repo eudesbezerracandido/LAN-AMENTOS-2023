@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O DIABO NO TRIBUNAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:R5BHESEOMJI2AJIS2A3JC33RXGM4QKDE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hXFUid5UH3T3lPXm6z7KO3ZnPQW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Documentário que relata o caso de Arne Cheyenne Johnson, um dos episódios reais investigados pelo casal de demonologistas Ed e Lorraine Warren e que deu origem ao filme Invocação do Mal 3: A Ordem do Demônio.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MASSA CINZENTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76eb6ded1724f2d144dfdcf682f3bb2cb3d228a4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4EuZtw5Z6dVn5IOe7whR9Qy8UET.jpg</thumbnail>

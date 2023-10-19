@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CAMINHOS TORTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7eeb09551f41f63baca7b72a8d300289ab0bfa1d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qgFLue2nYRyGuxjRHfpU0yyNZ3z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um trio de jovens da Bay Area - Ben Tanaka, Miko Hayashi e Alice Kim - navegam em uma série de relacionamentos interpessoais, atravessando o país em busca da conexão ideal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CRYPTO BOY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7ad4af48adfb3fe9cedc8159541b47e82074c35</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ejL0MUET2LJRdEgL6JO0erxmDcZ.jpg</thumbnail>

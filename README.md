@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MASSA CINZENTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76eb6ded1724f2d144dfdcf682f3bb2cb3d228a4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4EuZtw5Z6dVn5IOe7whR9Qy8UET.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Durante toda a sua vida, Aurora foi ensinada por sua mãe que as habilidades sobre-humanas que eles possuem, as habilidades que os tornam únicos, também os tornam perigosos. Agora, em uma noite fatídica e mortal, Aurora descobrirá se sua mãe estava dizendo a verdade e quais consequências o uso de seus poderes pode ter.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SCARYGIRL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d3d77c2d845df761ef4664c984e4c175f878a7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1tcLXVaXFG9OObnCN3a5KrymrQG.jpg</thumbnail>

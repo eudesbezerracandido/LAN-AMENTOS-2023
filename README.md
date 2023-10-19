@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DIAMENTE DO CÃOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df61f57109ef9a9e6bc22090e499fc0133099fda</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4Mnt3UCI685du0wn8IJdmSc24GX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quatro adolescentes de uma vila rural no sudoeste da Nigéria encontram por acaso uma bolsa de diamantes brutos, mas logo outros vêm em busca da recompensa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CAMINHOS TORTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7eeb09551f41f63baca7b72a8d300289ab0bfa1d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qgFLue2nYRyGuxjRHfpU0yyNZ3z.jpg</thumbnail>

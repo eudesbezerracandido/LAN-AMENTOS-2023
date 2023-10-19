@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CRYPTO BOY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7ad4af48adfb3fe9cedc8159541b47e82074c35</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ejL0MUET2LJRdEgL6JO0erxmDcZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após um conflito com o pai, um jovem se ilude com as promessas audaciosas de liberdade financeira feitas por um empresário do mundo das criptomoedas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O DIABO NO TRIBUNAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:R5BHESEOMJI2AJIS2A3JC33RXGM4QKDE</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hXFUid5UH3T3lPXm6z7KO3ZnPQW.jpg</thumbnail>

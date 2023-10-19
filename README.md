@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A RESSURREIÇÃO DA MÚMIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e86516d48cf24e4eaaefa9851381474600770a85</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qIrJYG0ffdbkR0f0a6slVLXOnjQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um sarcófago amaldiçoado cai nas mãos de Everett Randolph, um inescrupuloso vendedor ambulante, tornando-o obcecado pela ideia de ressuscitar a princesa mumificada dentro dele.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DIAMENTE DO CÃOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df61f57109ef9a9e6bc22090e499fc0133099fda</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4Mnt3UCI685du0wn8IJdmSc24GX.jpg</thumbnail>

@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VIDA DIANTE DOS SEUS OLHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:715cf1f01b155a5a98c6c6f6abe4262af979a438</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/djREwz46Ssm5LlMD9yN2ckvzVWU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando sua casa é invadida, uma instrutora de yoga vê a vida passar diante dos olhos e embarca em uma viagem ao passado para tentar salvar o homem que ama.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DISCO INFERNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b2c5cbca052416df6dd3b6ea171004a75361f55</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mqlHnsj2l7NkXbmu7ZXcVvP8uda.jpg</thumbnail>

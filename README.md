@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TIOZÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c88b7196836f7cea8af1bfe6c99cb447e8fabad6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/54Ffgwhf9wie3hiR80DKsY4bGZL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um pai ranzinza de meia-idade e seus dois melhores amigos se sentem ultrapassados ​​em um mundo repleto de CEOs bem mais jovens e diretoras de escola poderosas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VIDA DIANTE DOS SEUS OLHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:715cf1f01b155a5a98c6c6f6abe4262af979a438</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/djREwz46Ssm5LlMD9yN2ckvzVWU.jpg</thumbnail>

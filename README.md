@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] KANDASAMY - O BEBÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7344420fe38fd953193395590a37d82908a4e975</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zCt9qw4hPjNYT09el8eeoKzQhXk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Segue duas famílias indianas que precisam aprender a se dar bem, apesar de alguns erros divertidos e turbulências ao longo do caminho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TIOZÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c88b7196836f7cea8af1bfe6c99cb447e8fabad6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/54Ffgwhf9wie3hiR80DKsY4bGZL.jpg</thumbnail>

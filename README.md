@@ -14,6 +14,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CERCADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a72341e7d5c34b64f22410e4760ec2b5acff09e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/53zYYgWqxxmTaMlsIfiCWCLRwJf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O filme se passa cinco anos após a Guerra Civil, quando Moses Mo Washington viaja para o oeste para reivindicar uma mina de ouro deixada por seu pai, falecido proprietário de escravos. É um mundo cruel e perigoso para uma mulher negra desacompanhada, então Mo viaja disfarçada de homem. Depois que sua diligência é emboscada, ela é encarregada de manter um perigoso fora da lei prisioneiro e deve sobreviver ao dia em que a gangue do bandido tenta libertá-lo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A CHAMADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60a5508bec6c8fc40e094343695c0b83572e3ef9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/yd0iEtqAXseXQgKf9RjmMaPjUPG.jpg</thumbnail>

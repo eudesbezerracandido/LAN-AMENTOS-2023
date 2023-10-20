@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DISCO INFERNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b2c5cbca052416df6dd3b6ea171004a75361f55</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mqlHnsj2l7NkXbmu7ZXcVvP8uda.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um jovem casal se prepara para incendiar a pista na discoteca mais quente de Los Angeles e acaba conjurando uma presença sombria que anseia por seu futuro bebê.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A RESSURREIÇÃO DA MÚMIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e86516d48cf24e4eaaefa9851381474600770a85</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qIrJYG0ffdbkR0f0a6slVLXOnjQ.jpg</thumbnail>

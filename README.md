@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] SNAG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69bb0f6dc059f44534b647d3724bf07a6efc1f07</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nhj4Q39qMSk6X5Ly9j9Yqyjrg5A.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A existência silenciosa de um lobo solitário australiano é destruída quando ele descobre que a mulher que amou e pensou estar morta está viva e é mantida em cativeiro por gângsteres implacáveis. Agora, para enfrentar esta perigosa organização criminosa, ele deve procurar aliados e invadir um mundo de violência para resgatar o amor de sua vida neste violento conto de fadas moderno e realista.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ASSASSINOS DE LUA DAS FLORES ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

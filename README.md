@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] RESGATE EM 12 HORAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40d922e0c3af76d9bbaa90f00268796673b3abf8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m19SDzdaCwcO6p7S5q0YP335x1Z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Durante uma viagem em família, a filha de uma agente do FBI é sequestrada por uma organização criminosa especializada em traficar órgãos de crianças. Agora ela precisará se juntar a um criminoso e correr contra o tempo para salvar a garota.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SNAG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

@@ -2,6 +2,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] O PREÇO DO PODER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fb51ee3999b79c77be9c9831f591692f7f847fc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dtDfNAUoCPJVKexcRx2JlT2JAxI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Renzo Petrucci é um obstinado diretor de uma empresa multinacional de petróleo, que é obrigado a deixar o cargo após acusações de corrupção. Convencido de que foi traído pela mulher que assumiu o seu cargo, ele decide se vingar matando-a e reconquistando o seu lugar na empresa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] RESGATE EM 12 HORAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40d922e0c3af76d9bbaa90f00268796673b3abf8</link>

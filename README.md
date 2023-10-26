@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O LADO BOM DE SER TRAIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D49158476E2E554C9123FEA30D9B124EF00780D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/boPkFKrDSUeRxc9ltZRsuVSdRkz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma traição vira a vida de Babi de cabeça para baixo. Agora, ela está envolvida numa trama cheia de sexo, amor, perigo e uma paixão avassaladora. Será que ela descobrirá o lado bom de ser traída?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O PREÇO DO PODER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

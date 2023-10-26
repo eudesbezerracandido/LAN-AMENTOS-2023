@@ -4,6 +4,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] OS PELUDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f40f1440ae81a05b6fc6ac3e53ce25c91883b07d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/q0poNkSayOtlwRzY6MKHTQcBauq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Poucas pessoas sabem que todas as casas são habitadas por finlandeses. São criaturas peludas que aparecem no mundo humano para cuidar de uma casa e manter a lareira. Finnick é um jovem finlandês, que não parece se importar com sua responsabilidade de fazer da casa um lar. Ele está apenas fazendo brincadeiras com «seu povo» e é por isso que nenhuma das famílias quis ficar muito tempo em sua casa. Tudo muda quando uma nova família chega à sua casa, onde os truques de Finnick não funcionam, e ele conhece Christine, de 13 anos, e eventos inexplicáveis ​​começam a acontecer na cidade. Finnick e Christine, que são tão diferentes, terão que se unir e trabalhar juntos para resolver o mistério dos eventos e salvar a cidade.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MOSTER HIGH  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5d7dbeb63a7b9c250e1ac53b4681f5b7e6a2827$nome=MOSTER HIGH 2</link>

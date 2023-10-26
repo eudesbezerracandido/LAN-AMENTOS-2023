@@ -5,8 +5,9 @@
 
 
 <item>
-<title>[COLOR silver][B] MOSTER HIGH 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5d7dbeb63a7b9c250e1ac53b4681f5b7e6a2827</link>
+<title>[COLOR silver][B] MOSTER HIGH  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5d7dbeb63a7b9c250e1ac53b4681f5b7e6a2827$nome=MOSTER HIGH 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c46171a490df4d2b84fc3a89ec99944dcce0dae6$nome=MOSTER HIGH O FILME</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mClrCMfGpOqTSiuCTSK67WZ92x5.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O filme segue Clawdeen Wolf (Miia Harris), Draculaura (Naya Damasen) e Frankie Stein (Ceci Balagot) em seu segundo ano em Monster High. O poder das três amigas é posto à prova enquanto elas enfrentam desafios em um novo ano: novos alunos, novos poderes, amizades em evolução e uma ameaça ainda maior que pode não apenas romper a amizade, mas mudar o mundo para sempre. O filme também apresentará a nova personagem Toralei (Salena Qureshi), uma mulher-gato mal-humorada, que retorna após um ano no exterior em Scaris, França.</info>

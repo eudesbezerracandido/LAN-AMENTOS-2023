@@ -3,6 +3,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] APACHES: GANG OF PARIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c307127fa09547c6e3cec3c5d840dcd8885874c8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7BnKMBD5WRY3lpVDOHDDuMTIhMs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O filme de passa em 1900. De Montmartre a Belleville, Paris está nas mãos de gangues ultraviolentas que reinam o terror na capital: os Apaches. Pronta para fazer qualquer coisa para vingar a morte de seu irmão, uma jovem se junta a uma gangue. Mas quanto mais ela se aproxima do homem que deseja eliminar, mais fascinada ela fica por ele.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O LADO BOM DE SER TRAIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D49158476E2E554C9123FEA30D9B124EF00780D</link>

@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] IRMÃ MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e623cf253f96933c807826eb8739b6c34bb8afc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jZXjucSt0SLxZjKa74lvxPsyKeg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após uma infância milagrosa, Narcisa se torna freira e começa a ensinar meninas em um antigo convento assombrado por uma presença perturbadora.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ORGAN TRAIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

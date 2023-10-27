@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] ORGAN TRAIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59209aad81e1e816d0ca967f989d723e1760700a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma jovem sozinha no inverno de Montana durante a década de 1870, luta por sua sobrevivência e para recuperar seu único bem terreno: um cavalo da família, que está em posse de uma gangue de bandidos sedentos por sangue.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] OS PELUDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

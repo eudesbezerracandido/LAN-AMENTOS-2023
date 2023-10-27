@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] TERRA DAS OPORTUNIDADES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fa25587460e29380a697cb2ef0f1487b1fa2db3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fpAbETuB9OtmIMCeYGFrIWItIKS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Kiran, um motorista de caminhão e futuro pai de família, encontra Elena, uma mexicana-americana de 10 anos de idade, escondida em seu caminhão e descobre o que significa ser pai enquanto tenta levá-la até sua família em Boston.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MÁFIA DA DOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

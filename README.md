@@ -3,6 +3,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] LEGO MARVEL VINGADORES - CÓDIGO VERMELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wISokkuEnE0uYNn6zJnC8O8brFT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>LEGO Marvel Vingadores: Código Vermelho Torrent – Os Vingadores se reúnem para comemorar sua última vitória, mas a comemoração é rapidamente interrompida pelo misterioso desaparecimento do pai da Viúva Negra, o Guardião Vermelho. À medida que os Vingadores investigam, eles descobrem que o Guardião Vermelho não é o único desaparecido quando encontram um novo inimigo perigoso, muito diferente de tudo que já encontraram antes.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] IRMÃ MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e623cf253f96933c807826eb8739b6c34bb8afc</link>

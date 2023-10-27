@@ -4,12 +4,15 @@
 
 
 
+
+
+
 <item>
-<title>[COLOR silver][B] TRAUMAS DA GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d48a699683a74d534882fe946028e63535b87cbb</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jLSiWNnWYqIelgKRakUKruwEKi9.jpg</thumbnail>
+<title>[COLOR silver][B] MÁFIA DA DOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38ecbb783ab0c443459b9916dcba86d41fd8f528</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m3JAB0LIofPUaka941lyZb7yZlo.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Jason Pate é um sargento do exército americano que retorna para casa depois do seu terceiro período servindo no Afeganistão. Acostumado aos efeitos da guerra, ele enfrenta dificuldade em se adaptar a sua nova vida, junto de sua esposa e de sua filha de quatro anos, até o dia em que ele decide buscar ajuda em um grupo de veteranos de guerra que sofrem de estresse pós-traumático e enfrentam os mesmos problemas que ele.</info>
+<info>Uma mãe solo falida, mas ambiciosa, encontra uma oportunidade de ganhar dinheiro vendendo um analgésico potente. Mas até onde ela vai para ficar rica?</info>
 </item>
 
 <item>

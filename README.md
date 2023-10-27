@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] UM DIA DOS MORTOS - NADA TRADICIONAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fbc5205679827c4b83748f4a08538acacbb7388</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xM1yX980L50kjyGuvhykkz4utry.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma morte repentina reúne as famílias García e San Román. Lidia e Manuel tentam manter vivo o romance, mas Francisco foi morar com eles. Lidia é promovida no emprego, mas isso requer uma mudança para Monterrey. Rosa lida com a memória do marido e tenta encontrar um lugar para Jaime em sua vida. As famílias celebram a memória dos mortos e se preparam para uma vida que nunca mais será a mesma.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TERRA DAS OPORTUNIDADES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fa25587460e29380a697cb2ef0f1487b1fa2db3</link>

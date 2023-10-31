@@ -13,6 +13,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PRESOS NA FLORESTA: FUJA SE FOR CAPAZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:973f5887bee4b64eb0398bd70f44a452ccc9ed29</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kVPyzvwW2qvdZa0uAKhb8IlB0tF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal à beira do divórcio fica preso na areia movediça enquanto caminhava por uma floresta tropical colombiana. É uma luta pela sobrevivência enquanto eles lutam contra os elementos da selva e devem trabalhar juntos para escapar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM DIA DOS MORTOS - NADA TRADICIONAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fbc5205679827c4b83748f4a08538acacbb7388</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xM1yX980L50kjyGuvhykkz4utry.jpg</thumbnail>

@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] PATRULHA CANINA - UM FILME SUPERPODEROSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f93c5bb751684336cf129e5ca847321da2493d28</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uzqjYjnnA3fpXFvd4JfMEc1fBhj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um meteoro mágico cai em Adventure City, dá superpoderes aos filhotes da Patrulha Canina e os transforma em Os Super Filhotes. Quando o arquirrival da Patrulha Canina, Humdinger, foge da prisão e se junta a um cientista maluco para roubar os poderes para si, Os Super Filhotes devem salvar Adventure City e deter os supervilões antes que seja tarde demais.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A NOITE DAS BRUXAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CJ7GUEHQQOKGBQZOKIVHXAJKKP7W5ZHC</link>

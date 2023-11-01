@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] RESSURREIÇÃO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2dd7166963a1a5af1ef3b441528c4ee99a6547</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iCPm0mfcOdpLgtfFFkWoq62ko0i.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em um futuro distópico, o Vaticano possui o conhecimento de ressuscitar pessoas. No entanto, um padre descobre uma teia de conspiração e assassinatos ligada a estes aparentes milagres.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PATRULHA CANINA - UM FILME SUPERPODEROSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

@@ -13,6 +13,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SKINAMARINK: CANÇÃO DE NINAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:294e1aaf6878d206f3033757c2e8cc960451d797</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yYI9HBPxVzPZosQBJOXV2QGdcZK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Duas crianças acordam no meio da noite e descobrem que seu pai sumiu e todas as janelas e portas de sua casa desapareceram.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PATRULHA CANINA - UM FILME SUPERPODEROSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f93c5bb751684336cf129e5ca847321da2493d28</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uzqjYjnnA3fpXFvd4JfMEc1fBhj.jpg</thumbnail>

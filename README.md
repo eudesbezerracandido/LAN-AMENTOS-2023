@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] AS LADRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae0960c1cf18885a81a4426ba61a659ecbb9d826</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wnLJ7nVObgbAD7cgF87XW1t9JT2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> As Ladras Torrent – Em As Ladras, cansadas de viver se escondendo, uma ladra profissional e sua parceira no crime decidem se aposentar. Mas só depois de um último roubo. As duas ladras experientes recrutam a determinada Sam para ajudá-las neste último trabalho, como a nova motorista para a fuga.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] RESSURREIÇÃO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2dd7166963a1a5af1ef3b441528c4ee99a6547</link>

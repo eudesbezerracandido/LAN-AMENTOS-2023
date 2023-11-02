@@ -8,6 +8,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] PARALISIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5aa2746628aa77aea9f9276b46645a3e75632ac</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cjEpz3rZNOae9SghNhoUqxpEjlY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Paralisia Torrent – Enquanto cuida da paciente em coma Katherine (Famke Janssen), uma enfermeira gentil (Anna Friel) tenta descobrir o que realmente aconteceu com essa mulher para deixá-la nesse estado deplorável. Enquanto isso, do outro lado da história, a jovem Lina (Rose Williams), recém casada com o filho de Katherine, é totalmente contra a soga fria e calculista, revelando uma situação que envolve rivalidade, traição e até mesmo assassinato.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TEMPORADA DE FURACÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a9442c73daf000a330386d0767d174a7660fcec</link>

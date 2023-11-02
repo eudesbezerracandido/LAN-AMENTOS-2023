@@ -6,6 +6,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] TEMPORADA DE FURACÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a9442c73daf000a330386d0767d174a7660fcec</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bbfcDxGCvCuhMphluVOMkuPy6hF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Temporada de Furacões Torrent – Quando um grupo de adolescentes encontra um corpo flutuando em um canal, a dura realidade por trás de um crime perverso revela os segredos ocultos de uma cidade. Baseado no aclamado romance de Fernanda Melchor e dirigido por Elisa Miller, vencedora da Palma de Ouro em Cannes.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AS LADRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae0960c1cf18885a81a4426ba61a659ecbb9d826</link>

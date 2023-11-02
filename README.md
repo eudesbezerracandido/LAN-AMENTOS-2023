@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A FADA DO DENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EWTNKSR46KBFYBHNJAR34HW6LXEKBCGF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7Biyu5aP0o86GjxnffsHThYN4h1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> ioletta é uma fadinha atrevida que se perde no mundo humano. Para voltar ao mundo das fadas ela contará com a ajuda de Maxie, uma garota de 12 anos. Durante a jornada, ela descobre seu verdadeiro destino.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] NUOVO LIMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

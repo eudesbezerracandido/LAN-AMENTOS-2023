@@ -8,7 +8,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] NUOVO LIMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13db2dcd3984f160bc4199b944fd16a9a1b0ca8c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3nx8pSvAARYOLlZ2MNBlH7vW9jv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois homens de 25 anos que se conhecem por acaso, se apaixonam loucamente e são separados devido a um evento inesperado. Nos trinta anos seguintes, eles perseguem a esperança de se encontrarem novamente.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PARALISIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

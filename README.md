@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O SEQUESTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5f38f31f1351d61fac9f6e1efe3ac189a4b42d9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gTr0EbbrYpM2eKUoIR8US83GCXX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Julio Levy retorna do exílio político para assumir um cargo nos grandes negócios da família quando seu irmão mais velho, como outros argentinos, é sequestrado. Encarregado de organizar o resgate e com todo o peso da família sobre os ombros, Julio descobre as forças que ainda operam por trás da recém-recuperada democracia argentina. Ele então inicia uma luta desfavorecida contra o sistema vigente. Após a derrubada da cruel ditadura que suplantou a democracia de longa data do país, Julio retorna à Argentina com sua família. Depois que seu irmão é sequestrado, ele assume a liderança nas negociações com os perpetradores.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A FADA DO DENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

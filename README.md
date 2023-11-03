@@ -15,6 +15,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f71a94b4863b0734c42ab533c26054e5b83adf52</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jxb7NBx8jjqxiz3MIE3KMyqp45d.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> After - Para Sempre, a saga teen se desprende dos livros para focar no personagem de Hero Fiennes Tiffin, revelando apenas agora, no fim dessa linda história de amor tóxico, o que está por trás de toda a jornada do nosso protagonista. Na semana de estreia de After - Depois da Promessa, quarto filme inspirado na saga escrita por Anna Todd, o protagonista Hero Fiennes Tiffin (Safe) anunciou através das redes sociais do filme que After 5 já foi gravado. Além disso, o intérprete de Hardin Scott revelou que a continuação da história de Hessa será chamada After Everything.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NA PONTA DOS DEDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89b4684287af9c7156077a8ac621a32c6e732890</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/t1CrJNPsoofVWFiNb3JpXmZgu9W.jpg</thumbnail>

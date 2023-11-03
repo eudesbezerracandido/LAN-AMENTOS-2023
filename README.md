@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] TERROR NAS PROFUNDEZAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:420a4954c83ae27fa603e5a53c1d5209856fe51d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9LaUR5873menyfDmE0i0UTFpdMx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Foi lançado o Terror nas Profundezas, Deep Fear, novo filme de um tubarão assassino. Naomi embarca em uma viagem solo para encontrar seu namorado, Jackson, em Grenada. No entanto, sua tranquila viagem de três dias a bordo do iate sofre uma reviravolta sombria quando uma tempestade a joga para fora do curso traçado. Madalina Ghenea (Casa Gucci) e Ed Westwick (Gossip Girl) estrelam a produção. O elenco ainda conta com Macarena Gómez, Stany Coppet, Ibrahima Gueye, David Legeusse, Marianna Garradas, Marco Canadea, John-Paul Pace, Tenika Mahoney, Shane Rowe e Natasha Tikasz.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O SEQUESTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5f38f31f1351d61fac9f6e1efe3ac189a4b42d9</link>

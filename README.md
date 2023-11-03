@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - SILVESTRE STALONE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079ee4bf3dd33119a71bbcb1669ada84f93c94e3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/flnrKe85SfgcRCW2KgUhz2Bn9yE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O amor pelo cinema foi o passaporte de saída da infância traumática. De jovem sem futuro a lenda de Hollywood, Sylvester Stallone conta sua história neste documentário. Com personagens icônicos e franquias de sucesso mundial, como Rocky, Rambo e Os Mercenários, Sylvester Stallone marca presença nas telas há cerca de 50 anos. Este documentário faz uma retrospectiva da vida do ator, roteirista, diretor e produtor indicado ao Oscar, traçando um paralelo entre sua história inspiradora e seus personagens inesquecíveis. Sly tem direção de Thom Zimny (Springsteen on Broadway) e produção de Sean Stuart (Uma Linda Vida).</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NA PONTA DOS DEDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89b4684287af9c7156077a8ac621a32c6e732890</link>

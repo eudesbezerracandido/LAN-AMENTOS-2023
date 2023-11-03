@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] NYAD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MIYRL2LE27GHEDYE2IZNOBKFBX56M7BA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eh1IjDZfDRjgv5NzMBkjN1GzKgy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Filme sobre a história de Diana Nyad, a mulher que nadou de Cuba a Miami aos 60 anos. Aos 60 anos, a atleta Diana Nyad se prepara para realizar o sonho da sua vida: nadar de Cuba até a Flórida, uma travessia em águas abertas de mais de 160 km. Inspirado na verdadeira história da nadadora americana Diana Nyad, o filme narra um momento importante da carreira da atleta que aos 60 anos, desafiou as probabilidades de se tornar a primeira pessoa a completar uma viagem de 161 km em 53 horas, de Cuba à Flórida em pleno alto mar. Auxiliada por Bonnie Stoll (Jodie Foster) sua melhor amiga e uma equipe de 35 apoiadores dedicados, Nyad (Annette Bening) pretende nadar através de águas-vivas venenosas e águas infestadas de tubarões para completar sua missão, ultrapassando todos os limites e mostrando sua capacidade para os que duvidaram dela.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TERROR NAS PROFUNDEZAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

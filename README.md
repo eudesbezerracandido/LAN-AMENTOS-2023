@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] QUIZ LADY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G22UE7RUYVYRHBW23VSJDND4TLVRYINX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2kkz5jZwKkwYxV8sw6EGMyHjSzO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Anne (Awkwafina) e sua irmã Jenny (Sandra Oh) estão cobertas de dívidas graças as apostas feitas por sua mãe. Quando o cachorro de Anne é sequestrado, a situação escalona para muito pior e elas ficam dispostas a tudo para conseguir o dinheiro para tudo que precisam. Anne, que também é obcecada por jogos, está determinada a resolver essa situação de uma vez por todas. Uma mulher obcecada por gameshow e sua irmã trabalham juntas para ajudar a cobrir as dívidas de jogo de sua mãe.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - SILVESTRE STALONE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079ee4bf3dd33119a71bbcb1669ada84f93c94e3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/flnrKe85SfgcRCW2KgUhz2Bn9yE.jpg</thumbnail>

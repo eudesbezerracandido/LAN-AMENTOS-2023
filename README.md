@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TETRIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2ddd7b9d5ac5ef0864bab49071d9e89137dc09b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Antes de Tetris se tornar um dos jogos de computador mais famosos do mundo, ele passou por uma jornada extraordinária: quando o desenvolvedor de jogos de computador nascido na Holanda, Henk Rogers (Taron Egerton), descobriu o jogo do programador russo Alexey Pajitno (Nikita Efrenov) no final da década de 1980, a Cortina de Ferro da URSS está prestes a cair. Com o objetivo de comercializá-lo mundialmente em consoles de videogame, Rogers adquire a licença do Tetris e se envolve em um turbilhão de mentiras e corrupção, de modo que precisa negociar até com o serviço secreto russo KGB. Enquanto várias partes fazem reivindicações legais sobre o jogo, Rogers logo se vê envolvido em uma enorme batalha legal…</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] QUIZ LADY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G22UE7RUYVYRHBW23VSJDND4TLVRYINX</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2kkz5jZwKkwYxV8sw6EGMyHjSzO.jpg</thumbnail>

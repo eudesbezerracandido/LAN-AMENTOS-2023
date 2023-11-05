@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] NÃO ABRA! [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1917F3D5D6C76006257191C8E6EA17EC8E108ED2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mZRiaWpstOKsoYm8yg2JDo5lsBM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Não Abra! Torrent – Sam (Megan Suri), uma adolescente que lida com os conflitos entre sua origem indiana e a vida nos EUA, acidentalmente liberta uma antiga entidade demoníaca de um jarro que jamais deveria ter sido aberto. À medida que o mal se alimenta dos seus piores medos, Sam precisará desvendar segredos ancestrais para tentar salvar sua vida e a de todos ao seu redor.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SOUND OF FREEDOM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

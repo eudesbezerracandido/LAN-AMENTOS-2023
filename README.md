@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] FÚRIA DE BECKY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2602bc2aff8d271ddf5fc23a64edcc3e36ffbc0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l3fBun1ZXnSU8NVNEr5CQRNSegR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A Fúria de Becky Torrent – Dois anos após escapar de um ataque à sua família, Becky está tentando reconstruir sua vida. Mas quando sua casa é invadida por um grupo chamado os Homens Nobres e eles levam seu querido cachorro Diego, ela volta aos velhos hábitos para se proteger.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] NÃO ABRA! [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] RUIM PRA CACHORRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6SK4PN4MQ6BDNRTOKKJIMWU6C5W6XRTV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hfSkDDJiCf6cJpd4R9O9lM1T6hz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um cachorro abandonado chamado Reggie se um a outros vira-latas para se vingar de seu antigo dono. Ruim pra Cachorro é um filme norte-americano de comédia dirigido por Josh Greenbaum que acompanha a história de Reggie (Will Ferrell), um inocente e adorável cachorro abandonado nas ruas por Doug (Will Forte), seu antigo dono. Em sua nova e triste vida, os caminhos do animal e de uma gangue de vira-latas liderada por um Boston Terrier acabam se cruzando, e o grupo começa uma improvável amizade. Na verdade, ainda vão mais além: os cães se unem para levar Reggie de volta pra casa para fazer Doug pagar pelo que fez. Com Sofía Vergara, Jamie Foxx, Isla Fisher e Josh Gad.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] VIDA DUPLA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:199251340473a97a721a903989200e8a899aec37</link>

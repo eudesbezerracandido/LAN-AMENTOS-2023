@@ -16,6 +16,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FESTA DO PIJAMA MUITO LOUCA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f9a3ee0fe8e99b5a202e3c11a52612c4650aae1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1i7dglSbXeDUJrGd4rKGhLKzqGJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando uma brincadeira numa festa do pijama dá errado, um grupo de amigas acorda sem lembrança nenhuma da noite anterior e precisa refazer seus passos para encontrar a aniversariante que desapareceu. Acompanhe as consequências hilárias de um hipnotismo de festa de aniversário do pijama que deu errado quando Megan, Page e Veronica acordam sem lembranças da noite anterior.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VERDADES DOLOROSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:904b43ab0beea7a4434e30e6afb0aea704c05539</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/h0nB00M7n1jjKc0PHXF3cSZPbb8.jpg</thumbnail>

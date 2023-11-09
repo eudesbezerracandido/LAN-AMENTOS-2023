@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O PEDREIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4fe012ed8c54eec27c64c1c281dde401e1459cd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ocUrOchwIIageWWrHKiiVgUc06L.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um padeiro idoso precisa fazer de tudo para sua proteção na rede dos mafiosos. Um padeiro silencioso e estoico com um passado conturbado é forçado a sair do exílio auto imposto quando seu filho desaparece ao tentar fazer um negócio duvidoso. Obrigado a voltar à vida que pensava ter deixado para sempre, o padeiro fará o possível e o impossível para encontrar seu filho e proteger a neta que ele nunca soube que existia dos assassinos da máfia enviados para encontrá-la. O padeiro parece inofensivo e prefere continuar assim, mas quando as circunstâncias o forçam a tomar medidas violentas, rapidamente fica claro que ele é algo mais do que aparenta ser. Estrelando Ron Perlman, Elias Koteas, Joel David Moore, Samantha Kaine, Paolo Mancini, Emma Ho e Harvey Keitel. Um filme de Jonathan Sobol.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] RUIM PRA CACHORRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>

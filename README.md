@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TOC TOC TOC ECOS DO ALÉM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2d201d16c2c9d4049773e35213e250e0858c4d5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lI1sqGtJM3PRGVuXvCUPbqeKJGQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um menino que ouve vozes em sua cabeça decide usá-las contra seus pais abusivos. Peter, de oito anos, é atormentado por um barulho que vem da parede de seu quarto, que seus pais insistem estar só em sua imaginação. Conforme o medo de Peter se intensifica, ele acredita que seus pais podem estar escondendo um segredo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FÉRIAS DE VERÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a46c641fd5b540ab98e461646f575479c5595f6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mcMj1XhDPyxa0xuZ9aNrbPVs1CJ.jpg</thumbnail>

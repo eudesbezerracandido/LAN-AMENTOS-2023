@@ -16,6 +16,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VERDADES DOLOROSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:904b43ab0beea7a4434e30e6afb0aea704c05539</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h0nB00M7n1jjKc0PHXF3cSZPbb8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Da aclamada cineasta Nicole Holofcener, chega uma comédia que observa bem uma escritora (Julia Louis-Dreyfus) cujo casamento de longa data é repentinamente destruído quando ela ouve seu marido (Tobias Menzies) dar sua opinião honesta sobre seu último livro. Um filme sobre confiança, mentiras e coisas que dizemos às pessoas que mais amamos. O casamento de longa data de uma romancista é repentinamente abalado quando ela ouve o marido dando sua opinião sincera sobre o livro mais recente escrito por ela.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NA PONTA DOS DEDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89b4684287af9c7156077a8ac621a32c6e732890</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/t1CrJNPsoofVWFiNb3JpXmZgu9W.jpg</thumbnail>

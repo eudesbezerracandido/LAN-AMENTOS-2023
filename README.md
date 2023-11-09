@@ -7,12 +7,23 @@
 
 
 
+
+
+
 <item>
 <title>[COLOR silver][B] AS MARVEL DUBLADO ( BREVE ) HDCAM INGLÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FF4382716AA55EA2E55358F083FE7F1B660D0899</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a1mPj5EpY5mENWc1IioPWBW5mhc.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>As Marvels é um filme norte-americano que serve como sequência para Capitã Marvel, lançado em 2019 e protagonizado por Brie Larson (O Quarto de Jack, Lessons in Chemistry). No novo longa, a Capitã – também conhecida como Carol Danvers (Larson) – está de volta para mais uma missão: agora, ela precisa lidar com consequências não intencionais que a levam a carregar o fardo de um universo desestabilizado. Porém, enquanto tenta resolver o problema, Denvers vai parar acidentalmente em um buraco de minhoca anômalo, que faz com que seus poderes acabem entrelaçados aos de outras duas heroínas. Envolvidas em um misterioso fenômeno que faz com que elas troquem de lugar sem entender a causa para tal, nascem As Marvels: a superfã Kamala Khan (Iman Vellani), também conhecida como Ms. Marvel, e a sobrinha afastada de Carol, capitã Monica Rambeau (Teyonah Parris), que agora trabalha como astronauta do programa S.A.B.E.R..</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ACAMPAMENTO DE TEATRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ae54384588df4c3b165be34a6598d95c81fcc86</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j0vEroDi8SepB3lXQGrrWQVRTSm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ben Platt e Molly Gordon estrelam a nova comédia da Searchlight Pictures sobre um acampamento para alunos de teatro que passa a ser comandado pelo filho sem noção da sua fundadora. Theater Camp, cujo título no Brasil, de acordo com o TMDB (The Movie Database), ficou como Acampamento de Teatro, é apresentado em formato de mockumentário e foi aclamado pela crítica no Sundance Film Festival e no SXSW Film Festival, foi escrito por Noah Galvin, Nick Lieberman, Gordon, e Platt, e baseado em seu curta-metragem de mesmo nome. Depois que a indomável e amada fundadora de um acampamento de teatro desconexo no norte do estado de Nova York entra em coma, a excêntrica equipe deve se unir a seu filho cripto-irmão sem noção para manter o paraíso teatral à tona.</info>
 </item>
 
 <item>

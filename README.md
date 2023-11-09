@@ -14,6 +14,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FAMILIA NOEL 3  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82f8e34a484ebe332f8c90ce9b09395976c4f5d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fhARqtq7lAdahwGgTPMVWmpd5LG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: A entrega dos presentes se transforma em um desastre e o Papai Noel está em apuros. Será que seus netos, Jules e Noor, conseguirão se unir para salvar o dia? Em A Família Noel 3, para a tristeza do Vovô e de Jules, a matriarca Suzanne organiza uma viagem de Natal nas montanhas para aproveitar um tempo em família como nos velhos tempos. Por isso, a dupla dinâmica se tranca no quarto de hotel para comandar sua operação natalina secreta, estragando o programa familiar. E essa história não só chateia a mamãe, como também Noor. Com saudades do irmão, ela faz o que qualquer irmãzinha faria: segue Jules para todos os lugares… até que o inevitável acontece e a menina descobre o mundo do Natal, causando uma grande confusão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RUIM PRA CACHORRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6SK4PN4MQ6BDNRTOKKJIMWU6C5W6XRTV</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hfSkDDJiCf6cJpd4R9O9lM1T6hz.jpg</thumbnail>

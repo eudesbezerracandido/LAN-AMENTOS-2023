@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FÉRIAS DE VERÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a46c641fd5b540ab98e461646f575479c5595f6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mcMj1XhDPyxa0xuZ9aNrbPVs1CJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ao perderem os empregos, dois amigos fazem bico como animadores infantis em um hotel de luxo e levam os filhos escondidos para aproveitar as férias de verão. Dois amigos precisam cuidar de seus filhos por um mês, ao mesmo tempo que tentam conciliar isso com seus empregos temporários em um hotel de luxo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ACAMPAMENTO DE TEATRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ae54384588df4c3b165be34a6598d95c81fcc86</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/j0vEroDi8SepB3lXQGrrWQVRTSm.jpg</thumbnail>

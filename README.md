@@ -16,6 +16,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NA PONTA DOS DEDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89b4684287af9c7156077a8ac621a32c6e732890</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t1CrJNPsoofVWFiNb3JpXmZgu9W.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em Na Ponta dos Dedos, Anna (Jessie Buckley) e Ryan (Jeremy Allen White) encontraram o amor verdadeiro, comprovado por uma tecnologia controversa e inovadora. Só há um problema: Anna não está totalmente convencida. É então que ela consegue um emprego em um instituto para testar o amor e conhece Amir (Riz Ahmed). Anna suspeita cada vez mais que seu relacionamento com seu parceiro de longa data pode não ser realmente real. Em uma tentativa de melhorar as coisas, ela secretamente embarca em uma nova missão trabalhando em um misterioso instituto projetado para incitar e testar a presença do amor romântico em casais cada vez mais desesperados.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O PEDREIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4fe012ed8c54eec27c64c1c281dde401e1459cd</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ocUrOchwIIageWWrHKiiVgUc06L.jpg</thumbnail>

@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AZMRUFNS46NVRDZ7M3BC5644B5OTAACS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mkEQgdQcvmxSYvY4bMhabxLjjXY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um assassino começa a colapsar psicologicamente enquanto começa a desenvolver uma consciência, mesmo enquanto seus clientes continuam a solicitar seus serviços. O Assassino é um filme neo-noir de suspense e ação dirigido por David Fincher e baseado na série de HQs francesa escrita por Alexis Nolent (sob o pseudônimo Matz) e ilustrada por Luc Jacamon. Na trama, acompanhamos um assassino solitário, calculista e impiedoso (interpretado por Michael Fassbender) que é forçado a lidar com as consequências de um erro catastrófico cometido por ele durante um de seus serviços. Ele sempre conseguiu se manter livre de arrependimentos e com uma postura totalmente fria e metódica, mas agora que o incidente o colocou exatamente no centro de uma caçada internacional por sua cabeça, o assassino começa a desconfiar de todos aqueles que estão ao seu redor incluindo até mesmo os que o procuram para contratá-lo. Pouco a pouco, o homem começa a perder cada vez mais o controle sobre seus próprios pensamentos. O elenco ainda conta com Tilda Swinton e a brasileira Sophie Charlotte.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TOC TOC TOC ECOS DO ALÉM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2d201d16c2c9d4049773e35213e250e0858c4d5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lI1sqGtJM3PRGVuXvCUPbqeKJGQ.jpg</thumbnail>

@@ -9,10 +9,10 @@
 
 
 
-
 <item>
 <title>[COLOR silver][B] AS MARVEL DUBLADO  HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B02B851ECBDF8C7E5A380BFE843F6AC70493EF02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B02B851ECBDF8C7E5A380BFE843F6AC70493EF02$nome=TORRENT</link>
+<link>https://be4235.rcr32.ams02.cdn112.com/hls2/01/04937/i6ghrald5tz8_o/index-v1-a1.m3u8?t=ObTyFxw-ttDmRWzoyau2Ps6IrX2fEQuOlu8vw01U__0&s=1699643262&e=43200&f=24688723&srv=20&asn=52702&sp=2000$nome=LINK DIRETO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a1mPj5EpY5mENWc1IioPWBW5mhc.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>As Marvels é um filme norte-americano que serve como sequência para Capitã Marvel, lançado em 2019 e protagonizado por Brie Larson (O Quarto de Jack, Lessons in Chemistry). No novo longa, a Capitã – também conhecida como Carol Danvers (Larson) – está de volta para mais uma missão: agora, ela precisa lidar com consequências não intencionais que a levam a carregar o fardo de um universo desestabilizado. Porém, enquanto tenta resolver o problema, Denvers vai parar acidentalmente em um buraco de minhoca anômalo, que faz com que seus poderes acabem entrelaçados aos de outras duas heroínas. Envolvidas em um misterioso fenômeno que faz com que elas troquem de lugar sem entender a causa para tal, nascem As Marvels: a superfã Kamala Khan (Iman Vellani), também conhecida como Ms. Marvel, e a sobrinha afastada de Carol, capitã Monica Rambeau (Teyonah Parris), que agora trabalha como astronauta do programa S.A.B.E.R..</info>

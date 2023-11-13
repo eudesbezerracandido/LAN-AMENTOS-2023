@@ -15,6 +15,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RESISTÊNCIA  HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9E209AD3AA4684D7E7CE3C55B3F78E6FDDD3914</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nU3Ivtwbo30W66WTSqOuCeyJaln.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em meio a uma futura guerra entre a raça humana e as forças da inteligência artificial, Joshua, um endurecido ex-agente das forças especiais que lamenta o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o indescritível arquiteto da IA avançada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a própria humanidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOS DIVÓRCIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GDQZGZ6JHYXZ7YYGCZODUEBT3Y3CFSVF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tFShacQN5wVtmLTP4TSpEUSnFMj.jpg</thumbnail>
@@ -742,14 +750,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/f4448n6w3nxORg5LQstZpwFVao1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Milton vive uma vida tranquila e rotineira em uma pequena cidade no oeste da Pensilvânia, mas tem seu dia virado de cabeça para baixo quando um OVNI e seu passageiro extraterrestre fazem um pouso forçado em seu quintal.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] RESISTÊNCIA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9E209AD3AA4684D7E7CE3C55B3F78E6FDDD3914</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/nU3Ivtwbo30W66WTSqOuCeyJaln.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Em meio a uma futura guerra entre a raça humana e as forças da inteligência artificial, Joshua, um endurecido ex-agente das forças especiais que lamenta o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o indescritível arquiteto da IA avançada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a própria humanidade.</info>
 </item>
 
 <item>

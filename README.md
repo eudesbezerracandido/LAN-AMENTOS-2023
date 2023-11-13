@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CRESCENDO JUNTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26424c2518815cc6ae8bb5df0748148ec62e82e8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7dmr6Pl9XWDzQNWTjtq118Gkfd9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma estudante da sexta série se muda da cidade para os subúrbios. Margaret ora a Deus para cuidar dela e ajudá-la através de suas ansiedades, incluindo a puberdade e suas mudanças no corpo e nas emoções.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MERCY - GOLPE DE MISERICÓRDIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4e50b99e23cdce2527dc85cce8ce9f01c45ffd7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dXqeLm3Eq0HYKLfp9AeVdtd3eId.jpg</thumbnail>

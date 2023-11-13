@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MERCY - GOLPE DE MISERICÓRDIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dXqeLm3Eq0HYKLfp9AeVdtd3eId.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma ex-médica militar se vê em uma batalha mortal pela sobrevivência quando a máfia irlandesa assume o controle do hospital em que ela trabalha. Quando seu filho é feito refém, ela é forçada a confiar em seu passado endurecido pela batalha e habilidades letais depois de perceber que não há mais ninguém para salvar o dia além dela.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOS DIVÓRCIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GDQZGZ6JHYXZ7YYGCZODUEBT3Y3CFSVF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tFShacQN5wVtmLTP4TSpEUSnFMj.jpg</thumbnail>

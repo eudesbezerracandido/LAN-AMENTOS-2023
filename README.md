@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BIHTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SNLV7VR7POVZHC4VTTOSLKZFS2BKYPFL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jfn5p0uC7cuxQSLvBNSWWQ7Iz6j.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Bihter, que está desesperada por amor, vê Adnan, um homem mais velho, rico e respeitado, como uma saída para o estereótipo que a sociedade e sua mãe materialista lhe deram. Mas ela logo descobre que não está satisfeita com a atenção dele e tem outras necessidades.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMOR ESQUECIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0056958820bf7a7738bd7a2df27557ef2a49425</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jTv09AE0h6YL0Jav6N04knTqQN2.jpg</thumbnail>

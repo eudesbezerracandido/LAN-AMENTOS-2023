@@ -10,7 +10,7 @@
 <title>[COLOR silver][B] AS MARVEL DUBLADO  HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B02B851ECBDF8C7E5A380BFE843F6AC70493EF02</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a1mPj5EpY5mENWc1IioPWBW5mhc.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>As Marvels é um filme norte-americano que serve como sequência para Capitã Marvel, lançado em 2019 e protagonizado por Brie Larson (O Quarto de Jack, Lessons in Chemistry). No novo longa, a Capitã – também conhecida como Carol Danvers (Larson) – está de volta para mais uma missão: agora, ela precisa lidar com consequências não intencionais que a levam a carregar o fardo de um universo desestabilizado. Porém, enquanto tenta resolver o problema, Denvers vai parar acidentalmente em um buraco de minhoca anômalo, que faz com que seus poderes acabem entrelaçados aos de outras duas heroínas. Envolvidas em um misterioso fenômeno que faz com que elas troquem de lugar sem entender a causa para tal, nascem As Marvels: a superfã Kamala Khan (Iman Vellani), também conhecida como Ms. Marvel, e a sobrinha afastada de Carol, capitã Monica Rambeau (Teyonah Parris), que agora trabalha como astronauta do programa S.A.B.E.R..</info>
 </item>
 
@@ -18,7 +18,7 @@
 <title>[COLOR silver][B] RESISTÊNCIA  HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9E209AD3AA4684D7E7CE3C55B3F78E6FDDD3914</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nU3Ivtwbo30W66WTSqOuCeyJaln.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Em meio a uma futura guerra entre a raça humana e as forças da inteligência artificial, Joshua, um endurecido ex-agente das forças especiais que lamenta o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o indescritível arquiteto da IA avançada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a própria humanidade.</info>
 </item>
 
@@ -34,7 +34,7 @@
 <title>[COLOR silver][B] AMOR ESQUECIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0056958820bf7a7738bd7a2df27557ef2a49425</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jTv09AE0h6YL0Jav6N04knTqQN2.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Amor Esquecido Torrent – é uma história universal sobre Rafal Wilczur, um conceituado cirurgião e professor. Abandonado pela esposa, ele é assaltado e acaba perdendo a memória. Amor Esquecido é baseado no lendário romance polonês “Znachor” [The Quack], de Tadeusz Dołęga-Mostowicz.</info>
 </item>
 
@@ -42,7 +42,7 @@
 <title>[COLOR silver][B] CHEVALIER: A HISTÓRIA NUNCA CONTADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a3cc0a5bd4ca5ade9ee74226a0b156873d697ed</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iLhp2fqA0VDIhnC20QHDnw5Yrcf.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Chevalier: A Verdadeira História Nunca Contada Torrent – Inspirado na incrível história do compositor Joseph Bologne, Chevalier de Saint-Georges. Filho de uma escrava africana e de um fazendeiro francês, Bologne alcança uma posição impensável ​​na sociedade como célebre violinista, compositor e esgrimista, além de viver um caso de amor malfadado e de se desentender com Maria Antonieta e sua corte.</info>
 </item>
 

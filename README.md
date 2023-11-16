@@ -16,7 +16,7 @@
 
 <item>
 <title>[COLOR silver][B] RESISTÊNCIA  HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9E209AD3AA4684D7E7CE3C55B3F78E6FDDD3914</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:476346F6B69594A24C01FDE17456DF84C84C1B97</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nU3Ivtwbo30W66WTSqOuCeyJaln.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Em meio a uma futura guerra entre a raça humana e as forças da inteligência artificial, Joshua, um endurecido ex-agente das forças especiais que lamenta o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o indescritível arquiteto da IA avançada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a própria humanidade.</info>

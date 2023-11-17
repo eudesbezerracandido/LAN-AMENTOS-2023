@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NOVOS RISOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a35c0fc4ed1ad26a0688f5edd6a3d81431b7b172</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jfEuk5VdwaDN4UAGBPqUwZWAteg.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um vigarista sem dinheiro e uma mulher com uma fortuna em criptomoedas se dão bem imediatamente. Ela será a solução para todos os problemas dele ou ele será o vigarista que será enganado?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NÓS VEMOS EM VÊNUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b73dd96898f14c365d420bf849f5f2f35df04dd0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nAhxlttDRAoJlP0IL1li460cMt3.jpg</thumbnail>

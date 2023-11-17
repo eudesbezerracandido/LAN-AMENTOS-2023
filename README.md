@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM CHAMADO NATALINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f95fc10bd47d2226d458ed2687ca44c36a764e2d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6GcUUnvQogQnOuOLQXKMRaiWLq5.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Eddie Garrick é um homem de bom coração que deu as costas ao Natal devido a uma experiência traumática na infância. A pedido de sua esposa Allison Garrick, de quem está afastado, Eddie leva sua filha Charlotte de 8 anos com ele na véspera de Natal, onde conhecem um misterioso homem vestido de terno vermelho chamado Nick. Eddie, que é assistente social, acha que o homem está delirando e precisa de ajuda profissional, mas quando evoca a ira de um político local, ele e sua filha são levados a uma aventura mágica que pode restaurar sua fé em Natal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NOVOS RISOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a35c0fc4ed1ad26a0688f5edd6a3d81431b7b172</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jfEuk5VdwaDN4UAGBPqUwZWAteg.jpg</thumbnail>

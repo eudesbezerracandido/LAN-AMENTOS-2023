@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NÓS VEMOS EM VÊNUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b73dd96898f14c365d420bf849f5f2f35df04dd0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nAhxlttDRAoJlP0IL1li460cMt3.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma menina órfã de 18 anos quer viajar para a Europa para rastrear sua mãe biológica, então, quando ela conhece um jovem de bom coração, sofrendo com a culpa de um acidente fatal, ela o convence a acompanhá-la na viagem.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BIHTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SNLV7VR7POVZHC4VTTOSLKZFS2BKYPFL</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jfn5p0uC7cuxQSLvBNSWWQ7Iz6j.jpg</thumbnail>

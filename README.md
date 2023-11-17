@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BELIEVE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01768c885f165edff8130f698175eea374b639fb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O detetive Won Ho procura a pessoa desaparecida Rak e também persegue o professor Lee, que é o chefe de uma rede de drogas. Brian e Keunkal aparecem na frente do detetive Won Ho. Keunkal é o único que conhece a verdadeira identidade do Professor Lee.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NOVOS RISOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a35c0fc4ed1ad26a0688f5edd6a3d81431b7b172</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jfEuk5VdwaDN4UAGBPqUwZWAteg.jpg</thumbnail>

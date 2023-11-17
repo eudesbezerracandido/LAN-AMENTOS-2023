@@ -47,6 +47,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TEM ALGO ERRADO COM AS CRIANÇAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2db86f1dac75f97649b4011159ed5df1fce4fdeb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ZFb1xE1D3HZl41dlpCfRZrXNdU.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Margaret e Ben viajam em um fim de semana com dois amigos de longa data e seus dois filhos pequenos. Ben logo suspeita que algo sinistro está acontecendo quando as crianças começam a se comportar de maneira estranha após desaparecerem na floresta durante a noite.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NÓS VEMOS EM VÊNUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b73dd96898f14c365d420bf849f5f2f35df04dd0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nAhxlttDRAoJlP0IL1li460cMt3.jpg</thumbnail>

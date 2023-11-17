@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RUSTIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88d1c4e61379b34781281eda4bb119b0341b28dd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>A história de Bayard Rustin, ativista gay dos direitos civis que organizou a Marcha de 1963 em Washington. Arquiteto da Marcha sobre Washington de 1963, Bayard Rustin foi um dos maiores ativistas que o mundo já conheceu. Ele desafiou as autoridades e nunca se desculpou por sua identidade, por seus ideais ou por quem desejava. E também não recuou. Rustin fez história, mas acabou esquecido.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NÓS VEMOS EM VÊNUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b73dd96898f14c365d420bf849f5f2f35df04dd0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nAhxlttDRAoJlP0IL1li460cMt3.jpg</thumbnail>

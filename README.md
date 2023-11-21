@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NOSSO SONHO - CLAUDINHO & BUCHECHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40a2a3dca36b2bbf6b2ee08f8aa9399a1057f46d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oB4KWKaMwYL9B606oP2R2tukzCB.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Filme que conta a história da dupla de funk Claudinho e Buchecha. A história de uma amizade que se transforma em força de superação e conquista. Um filme que mostra como o ritmo e a poesia da periferia conquistaram o Brasil. Uma história real repleta de fantasia. Um musical, emocionante e divertido, feito de drama e tragédias, mas também de humor, surpresas e redenção.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RUSTIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88d1c4e61379b34781281eda4bb119b0341b28dd</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg</thumbnail>

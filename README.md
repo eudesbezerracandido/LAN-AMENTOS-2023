@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O COELHO DE VELUDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DNA3FGQ3WMQW35ZP7ER36WW5UJIJFAQS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aMOIiDPPAE6oHDQ3taaBtLQ21QF.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Baseado no precioso livro clássico. Quando o menino de sete anos, William, ganha um novo brinquedo favorito de Natal, ele descobre um amigo para toda a vida e encontra um mundo de magia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOGOS VORAZES ( HDCAM)-A CANTIGA DOS PASSAROS E DAS SERPENTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F7A350C68EFCE1C83341CCF13ADF18EA51E85AE1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nNNxK2NwqHmAjuStya7SwOQeMwq.jpg</thumbnail>

@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DE VOLTA A ATIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0fab8692da0f986c8e89f63f1e0ea160deaee901</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ssav9soOaIzXGbqrpt3jIbe1eI1.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um jovem mágico que luta e de coração partido muda-se para Las Vegas para se tornar famoso, mas por causa de seu talento dado por Deus, ele acaba se tornando o homem de frente para o renascimento de uma famosa, mas combativa trupe de stripers negros, The Chocolate Chips.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LEO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5AHLNAVNTBJHMFYBW4KRL7UKCHLRG6R</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg</thumbnail>

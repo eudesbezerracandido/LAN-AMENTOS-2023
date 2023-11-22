@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS REIS QUEENSTOWN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e4d45718886b8d930fd7d41d840e1b42f6fc010</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3TuRHUEecBSZgPx40JZWOemzAwx.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Depois da morte do pai, um jogador de futebol desacreditado retorna à pacata Queenstown e tenta se reconectar com o filho, um jovem cheio de talento e grandes sonhos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DE VOLTA A ATIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0fab8692da0f986c8e89f63f1e0ea160deaee901</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ssav9soOaIzXGbqrpt3jIbe1eI1.jpg</thumbnail>

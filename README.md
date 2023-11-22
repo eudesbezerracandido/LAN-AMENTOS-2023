@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LEO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5AHLNAVNTBJHMFYBW4KRL7UKCHLRG6R</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O cansado lagarto Leo, de 74 anos, ficou preso na mesma sala de aula da Flórida por décadas. Quando ele descobre que tem apenas mais um ano de vida, planeja fugir para experimentar a vida do lado de fora, mas, em vez disso, se envolve com os problemas de jovens estudantes ansiosos incluindo um professor substituto terrivelmente mau. Leo (Adam Sandler) é um velho lagarto que está há anos preso com uma tartaruga (Bill Burr) em um terrário na sala de aula de uma escola. Então, ao descobrir que tem apenas mais um ano de vida, Leo planeja fugir das quatro paredes de vidro para viver o restante de seu tempo no mundo fora. Porém, nada vai como planejado, já que ele se envolve com os problemas da turma. No final, seus últimos desejos não são nada como imaginava – ou planejava – mas o resultado o surpreende.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NINGUÉM PRECISA ACRÉDITAR EM MIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7O7WS4D3CB5Z45CXBVEHHTYI7V6GT4HH</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jS8YfaaGFiqimhph4VCrsRaF42l.jpg</thumbnail>

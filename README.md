@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NINGUÉM PRECISA ACRÉDITAR EM MIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7O7WS4D3CB5Z45CXBVEHHTYI7V6GT4HH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jS8YfaaGFiqimhph4VCrsRaF42l.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Juan Pablo Villalobos viaja com sua namorada Valentina para fazer doutorado em Literatura em Barcelona. Mas antes de deixar o México, ele se envolve em uma rede criminosa, que o inspira a escrever o romance dos seus sonhos, enquanto sua vida dá voltas absurdas e sinistras.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOGOS VORAZES ( HDCAM)-A CANTIGA DOS PASSAROS E DAS SERPENTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F7A350C68EFCE1C83341CCF13ADF18EA51E85AE1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nNNxK2NwqHmAjuStya7SwOQeMwq.jpg</thumbnail>

@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GARRAS VORAZES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3726dc972aaf9447360782a4636224b8a473e550</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gPbPjAreXTrbM8HZCG6NmvXqA5R.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> No filme bizarro Garras Vorazes, título em português para Slotherhouse, um longa slasher que mostra um bicho-preguiça matando todos aqueles que cruzam o seu caminho. Emily Young, uma veterana, quer ser eleita presidente de sua irmandade. Ela adota uma preguiça fofa, pensando que ela pode se tornar o novo mascote e ajudá-la a vencer, até que uma série de mortes tem a preguiça como a principal suspeita dos assassinatos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - ELIS & TOM-SÓ TINHA DE SER COM VOCÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D57MKVGAWF6ZLDLW6LL23RGRXGCQ4LY2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uhrT7TXMOERTP20o7j1LvVStN73.jpg</thumbnail>

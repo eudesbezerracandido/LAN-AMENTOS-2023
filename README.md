@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FÉ NAS ALTURAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FTHA7N7V445VAXPARFVQBC4HXUNZYAF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r6S1YciOhggxTgYQJlZHf4U5KWo.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O passageiro Doug White segue uma verdadeira história de fé e sobrevivência, numa jornada angustiante para pousar um avião com segurança e salvar a vida de toda sua família, após o piloto da aeronave morrer de forma inesperada durante o voo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O COELHO DE VELUDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DNA3FGQ3WMQW35ZP7ER36WW5UJIJFAQS</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aMOIiDPPAE6oHDQ3taaBtLQ21QF.jpg</thumbnail>

@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SANTUÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f17fe75c1174d34225615c11a024e3efe0fe60ef</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mpVGR5tPhTmTiqSu8kvrSsNCQLl.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Confinado em quarto de hotel claustrofóbico, o herdeiro de um império hoteleiro, Hal (Christopher Abbott), e sua dominatrix (Margaret Qualley), que o preparou para o sucesso, ficam presos em uma batalha de inteligência e vontade, enquanto ele tenta terminar seu relacionamento com ela.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BOM GAROTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca2dbaee1c02c2c739e75578cf94312a41b8e031</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9DPG1gxLwV2oyFdHq3SnISsWbse.jpg</thumbnail>

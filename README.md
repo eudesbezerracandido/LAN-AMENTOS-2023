@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A MARAVILHOSA HISTÓRIA DE HENRY SUGAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BGUMQVIT4IECG4EVT2PBCPG4W27H4NV2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/azRL9bmByicPRzP0ljDNzFCwyUX.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A Maravilhosa História de Henry Sugar é um filme original Netflix. Narra uma variedade de histórias, mas a principal segue Henry Sugar, que é capaz de ver através de objetos e prever o futuro com a ajuda de um livro que roubou.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BOM GAROTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca2dbaee1c02c2c739e75578cf94312a41b8e031</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9DPG1gxLwV2oyFdHq3SnISsWbse.jpg</thumbnail>

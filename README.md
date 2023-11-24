@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BOM GAROTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca2dbaee1c02c2c739e75578cf94312a41b8e031</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9DPG1gxLwV2oyFdHq3SnISsWbse.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Sigrid acha que encontrou seu par perfeito com o charmoso e bonito Christian, mas há um problema ele vive com um homem que age como seu cachorro de estimação. Tentando ter a mente aberta, Sigrid continua o relacionamento, mas logo percebe um tom macabro em Christian. Talvez, a ‘brincadeira de cachorrinho’ não seja tão inocente quanto parece.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GARRAS VORAZES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3726dc972aaf9447360782a4636224b8a473e550</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gPbPjAreXTrbM8HZCG6NmvXqA5R.jpg</thumbnail>

@@ -21,6 +21,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MEU NOME É GAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd51114f854fa416d738efdf071bc9fc07f4988f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zWKWDxF2oCYvl7PoShG253oIp27.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Retrata a trajetória de Maria da Graça Costa Penna Burgos, Gracinha, como era chamada pela mãe Mariah. Com 20 anos, Gal viaja para o Rio de Janeiro, onde se junta aos companheiros de vida Caetano Veloso, Maria Bethânia, Gilberto Gil e Dedé Gadelha.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SEM AR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OSJHPDK5ZDKAQIZDVY3J7EC72VDDQBTJ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/45D60emniKszNuC7xqopxfS3bPY.jpg</thumbnail>

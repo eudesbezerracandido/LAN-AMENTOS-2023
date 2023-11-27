@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ÚLTIMA CHAMADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b271cf5988416cb8d19f499bfee6a7d9513635e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2SUs5rHpId4bxiO0r8fXFZlDvUq.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Após um encontro casual no aeroporto, duas pessoas casadas vivenciam uma noite inesquecível, emocionante e cheia de desejo em Nova York. Mehmet (Kivanç Tatlitug) é um homem de 30 e poucos anos que está viajando. No aeroporto JFK, de Nova York, sua bagagem acaba sendo trocada pela mala de outra pessoa. A dona da outra bagagem é Serin (Beren Saat). Após se conhecerem na busca pelas malas perdidas, eles embarcam em uma aventura inesquecível e emocionante na cidade Nova York. O grande problema é que ambos são casados.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOI BOY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b271cf5988416cb8d19f499bfee6a7d9513635e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/79Fpqtpw1bpnzAkqz2vcxplzI84.jpg</thumbnail>

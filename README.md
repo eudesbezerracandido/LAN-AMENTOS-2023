@@ -21,6 +21,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EULÁLIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a845064725b1ea704aabfca8611146713295ac4f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vk09bOU0CM0FIzQZhnjURlQmcxs.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma mulher simples se vê presa a um casamento tóxico, vivendo uma jornada diária de submissão e infelicidade. Com poucos vínculos sociais e nenhuma perspectiva de futuro, ela busca um emprego para se tornar independente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEU NOME É GAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd51114f854fa416d738efdf071bc9fc07f4988f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zWKWDxF2oCYvl7PoShG253oIp27.jpg</thumbnail>

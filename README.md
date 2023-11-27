@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JORNADA PARA O INFERNO COM (NIKOLAS CAGE) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee1e1d936d8a3087dc9fa5f6ab3b27cb3ea68a0c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yRJUdzPrqh1QcVBWEU54qQzB8sR.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Based on the seminal novel by John Edward Williams, Butcher’s Crossing is a frontier epic that follows a young Harvard drop-out into the Colorado wilderness as he joins a team of buffalo hunters in search of a mythic herd of buffalo. Little does he know, the journey will put his life and sanity at risk. The adventure is both sublime and horrific, where a confrontation with dark truth leads to a descent into madness. Detailing a gripping and largely untold chapter in American history, Butchers Crossing is a riveting commentary on human nature, masculinity, and man’s relationship to his natural environment</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEU NOME É GAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd51114f854fa416d738efdf071bc9fc07f4988f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zWKWDxF2oCYvl7PoShG253oIp27.jpg</thumbnail>

@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOI BOY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b271cf5988416cb8d19f499bfee6a7d9513635e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/79Fpqtpw1bpnzAkqz2vcxplzI84.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um jovem da etnia Shan muda-se do Estado Shan, devastado pela guerra, que protege a Tailândia e Mianmar, para Chiang Mai, na Tailândia. Recusando-se a regressar a casa para lutar pelos militares, mas sem documentos como refugiado no novo país, ele sobrevive através do trabalho sexual. Para escapar desta dura realidade, ele se projeta na vida colorida de seus clientes.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEU NOME É GAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd51114f854fa416d738efdf071bc9fc07f4988f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zWKWDxF2oCYvl7PoShG253oIp27.jpg</thumbnail>

@@ -21,6 +21,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SEM AR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OSJHPDK5ZDKAQIZDVY3J7EC72VDDQBTJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/45D60emniKszNuC7xqopxfS3bPY.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Duas irmãs vão mergulhar em um local lindo e remoto. Uma das irmãs é atingida por uma pedra, deixando-a presa 28 metros abaixo. Com níveis perigosamente baixos de oxigênio e temperaturas frias, cabe a sua irmã lutar por sua vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RESISTÊNCIA  HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:476346F6B69594A24C01FDE17456DF84C84C1B97</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nU3Ivtwbo30W66WTSqOuCeyJaln.jpg</thumbnail>

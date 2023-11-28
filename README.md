@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TRAVESSURAS DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MPRVMGBLYCVBUVPEYP3AAEIAEBHFRVFS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l3qGXGEE6GgcLBdlsmhR2NuZZIy.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>No dia de Natal, Andy, um garoto arteiro da quinta série, descobre que não recebeu um presente sequer do Papai Noel. Sentindo-se injustamente julgado ao se dar conta que deve ter entrado na lista de crianças desobedientes do Bom Velhinho, Andy convoca mais oito crianças da lista para ajudá-lo a colocar um plano elaborado em prática, para invadir a Vila do Papai Noel no Polo Norte e roubar os presentes que eles acham que merecem.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JORNADA PARA O INFERNO COM (NIKOLAS CAGE) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee1e1d936d8a3087dc9fa5f6ab3b27cb3ea68a0c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/yRJUdzPrqh1QcVBWEU54qQzB8sR.jpg</thumbnail>

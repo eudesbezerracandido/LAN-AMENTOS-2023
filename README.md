@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O COLETIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89ae53e2e6f6f0894827eccf8dbe839f8b2957e9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/araUzE6drxWABCMSKvnKHV11vr1.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um jovem é recrutado para uma misteriosa agência de assassinos implacáveis. Com a ajuda de colegas, ele comete um ato de rebeldia e justiça ao rastrear uma rede de tráfico de pessoas que é apoiada por bilionários poderosos e intocáveis. Sua missão é destruir essas pessoas que causam tanto mal à vida inocentes ao redor do mundo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PAISAGEM COM MÃOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1c7e6bab23ad66048de0454a83c74093d1e9670</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/woSLmiZ1znce3dk3Uojhii8aDct.jpg</thumbnail>

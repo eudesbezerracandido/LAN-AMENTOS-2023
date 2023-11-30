@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS CARAS MALVADOS - UM NATAL DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6942d35a1bc934ef59d5722356ffde49649970a5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tHTEgWMPg7AdeotObEUqdOo98Zx.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Para manter o tradicional Natal da Malandragem, Sr. Lobo e seu bando precisam recuperar o espírito natalino na cidade. E tem que ser rápido!</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O COLETIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89ae53e2e6f6f0894827eccf8dbe839f8b2957e9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/araUzE6drxWABCMSKvnKHV11vr1.jpg</thumbnail>

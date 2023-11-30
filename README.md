@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TROCADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3aeff467514afdd26b39a36d59cac71e373be887</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1a8mmHq2Xc4zglbv3BhXaUh17FO.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Com os filhos crescendo e ficando mais independentes, Jess e Bill Walker tentam de tudo para manter a família unida. Mas, quando um encontro inesperado faz com que os Walker troquem de corpo no dia mais importante de suas vidas, eles vão precisar trabalhar em equipe para conseguir o que querem.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DIAS DIFICEÍS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b57964dffdd6b8492abbe18148ccbdd9d679d58</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4UpMPxy0K1XFdH6OgcnWZgCbqg3.jpg</thumbnail>

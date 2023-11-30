@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PAISAGEM COM MÃOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1c7e6bab23ad66048de0454a83c74093d1e9670</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/woSLmiZ1znce3dk3Uojhii8aDct.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma espécie alienígena conhecida como Vuvv assumiu o controle da Terra. Depois que a tecnologia de trabalho do Vuvv causa o colapso do mercado de trabalho da Terra e da economia global, um adolescente e sua namorada inventam uma maneira de ganhar o dinheiro tão necessário, transmitindo sua vida amorosa para os alienígenas fascinados. Infelizmente, as coisas vão mal quando, com o tempo, os dois adolescentes começam a se odiar e não conseguem se separar sem levar suas famílias à falência.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O EXOCISTA- O DEVOTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75c193e0780d7ed754b0e7e778594d53e64057af</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sJtfth9oaDWx1PwzT0vGKNXwjKz.jpg</thumbnail>

@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DIAS DIFICEÍS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b57964dffdd6b8492abbe18148ccbdd9d679d58</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4UpMPxy0K1XFdH6OgcnWZgCbqg3.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Na noite de 29 de dezembro, o detetive Yuji Kudo dirige seu carro para ver sua mãe, que está hospitalizada com um grave problema de saúde. Ele recebe um telefonema do chefe de polícia da delegacia perguntando sobre seu envolvimento na criação de um caixa dois. Ele também descobre que sua mãe faleceu. Yuji Kudo então acidentalmente atinge um homem com seu carro e esse homem morre. No hospital, Yuji Kudo tenta encobrir a morte do homem que atropelou colocando seu cadáver no caixão de sua mãe. Naquela época, ele recebe uma mensagem de texto do policial Yazaki. A mensagem de texto avisa Você matou uma pessoa. Eu sei disso.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PAISAGEM COM MÃOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1c7e6bab23ad66048de0454a83c74093d1e9670</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/woSLmiZ1znce3dk3Uojhii8aDct.jpg</thumbnail>

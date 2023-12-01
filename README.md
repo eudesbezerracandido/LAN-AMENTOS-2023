@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GEORGE FOREMAN-SUA HISTÓRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1ff81a162d8b0ebbe50505eb65dea74b9822af8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/65k7FeAQfYCUXml5vT1vvHAYJoD.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Acompanhe a vida e os tempos notáveis ​​de Foreman, de medalhista de ouro olímpico a campeão mundial dos pesos pesados. Desde a luta Rumble in the Jungle com Muhammad Ali no Zaire até encontrar sua fé, se aposentar e se tornar um ministro. Quando sua família e a igreja enfrentam problemas financeiros, ele volta ao ringue e recupera o campeonato aos 45 anos. Isso o torna o campeão dos pesos pesados ​​mais velho da história do boxe.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TROCADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3aeff467514afdd26b39a36d59cac71e373be887</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1a8mmHq2Xc4zglbv3BhXaUh17FO.jpg</thumbnail>

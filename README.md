@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ASSASSINO DA LUA DAS FLORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DB3TB4O6TEHFYGIETGBDDUIP6VFL6T3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Estados Unidos, década de 20. Depois da descoberta de petróleo sob o solo de suas reservas, membros da tribo Osage começam a ser assassinados. Quando o número de vítimas ultrapassa a segunda dezena, o recém-fundado FBI assume o caso com uma equipe secreta liderada por um antigo Ranger texano chamado Tom White (Jesse Plemons). A missão é se infiltrar na região lutando para adotar as mais recentes técnicas de investigação e começando a expor uma das conspirações mais frias da história dos Estados Unidos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EULÁLIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a845064725b1ea704aabfca8611146713295ac4f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vk09bOU0CM0FIzQZhnjURlQmcxs.jpg</thumbnail>

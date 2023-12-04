@@ -21,6 +21,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TEMPOS DE BARBÁRIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dee8bbdded763dee7f7015589a8ee352b39c7be2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fB4SsQK4OW1CZYGySRfJmMs2hhx.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Durante uma tentativa de assalto, a filha da advogada Carla (interpretada por Cláudia Abreu) é baleada e fica em estado grave. Sem respostas, Carla tenta seguir a vida buscando ajuda em grupos de apoio. Sem conseguir aceitar o destino da filha e a falta de soluções por parte da polícia, transforma a busca por justiça em uma procura por vingança e testa o seu próprio limite para ver até onde poderia ir.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EULÁLIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a845064725b1ea704aabfca8611146713295ac4f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vk09bOU0CM0FIzQZhnjURlQmcxs.jpg</thumbnail>

@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O LIVRO DOS SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d68086b8d6093a4bbe5b9345e6f8dbdf01f46c9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vhTJqpZbr3AmuqTRjLpux62JgRI.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Depois que o filho entra em coma após um atropelamento, sua mãe encontra seu diário, que contém uma lista de dez coisas que ele queria fazer antes do fim do mundo. Com a intenção de cumprir os desejos do filho, ela começa a seguir a lista.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ASSASSINO DA LUA DAS FLORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DB3TB4O6TEHFYGIETGBDDUIP6VFL6T3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg</thumbnail>

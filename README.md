@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BLACKBERRY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee71cb1ed88b6d87c16cb9537a2c40c4e1d3e3ce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/neV35lK7em4rIY9QIoH1cruErPA.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Blackberry detalha a ascensão e queda do celular BlackBerry e a empresa canadense Research in Motion.  Com sede em Waterloo, Ontário, Canadá, a Research in Motion Inc. tornou-se conhecida mundialmente por seus smartphones BlackBerry, o primeiro dispositivo desse tipo a se firmar no mercado. Os co-CEOs Mike Lazaridis e Jim Balsillie, foram dois dos empresários mais famosos do Canadá, e a região de Waterloo tornou-se o equivalente canadense ao Vale do Silício. Com os distintos botões pretos que lhes deram o nome, os telefones BlackBerry foram, por um tempo, onipresentes nos primeiros anos do século 21, populares entre empresários e funcionários do governo; até o então presidente Barack Obama era fã do dispositivo. A introdução do iPhone da Apple em 2007 acabou sendo a sentença de morte para o BlackBerry. Graças a uma vantagem inicial de vários anos, o BlackBerry se manteve contra o iPhone por vários anos, mas logo foi superado pelo dispositivo da Apple e outros concorrentes, pois a empresa se envolveu em várias disputas legais. A Research in Motion, agora renomeada como BlackBerry, não fabrica mais nenhum hardware, incluindo seu smartphone exclusivo; agora produz software de cibersegurança.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OLHAR ALHEIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6L36IDSOCLRD3IV62GDQAHKTOP2GYI2C</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tg03Fi59XjsvYRjkC0FApZIbiP3.jpg</thumbnail>

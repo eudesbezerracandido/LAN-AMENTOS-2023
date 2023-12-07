@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MAVKA - AVENTURA NA FLORESTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2ecb66213db1e346a4ba51708009ea982e194cb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/adyriBXnBuhdRgAllYAurnDQtQb.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Desde os primórdios, as vastas florestas ucranianas abrigam inúmeros segredos e mistérios insondáveis. Eles são o lar de criaturas míticas maravilhosas que habitam entre árvores antigas, guardando fielmente seu reino sagrado. Mavka é uma Alma da Floresta e foi escolhida como a nova Guardiã do reino, sendo sua principal missão é proteger a Floresta e seu sacrossanto Coração - a própria Fonte da Vida - contra qualquer agressão ou intrusão, inclusive por parte dos humanos. Quando Mavka se apaixona pelo jovem mortal Lucas, a avarenta Kylina vê a chance que precisava para assumir o controle da floresta e roubar o Coração. Mavka e Lucas conseguirão viver este grande amor e ainda assim evitar que o mal vença?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TROLLS 3-JUNTOS NOVAMENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f44b6e084df09a35a11a99a4ceec22f268775dbf</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7mC4iunNnWrHIBamKqiHkpFI32X.jpg</thumbnail>

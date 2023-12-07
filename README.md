@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MISSÃO CONDOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85e2fbc94a1b437cb87fffc99d5fb16dad342b75</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dX4zUmTl86s1ao92aKJG1pbrjhO.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O veterano de guerra americano Will Spalding rastreou o sádico coronel nazista que executou sua tripulação de bombardeiros durante a Segunda Guerra Mundial em um local remoto na América do Sul. Mas ele terá mais do que esperava quando descobre um quartel-general nazista secreto conhecido como Ninho do Condor.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ASSASSINO DA LUA DAS FLORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DB3TB4O6TEHFYGIETGBDDUIP6VFL6T3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg</thumbnail>

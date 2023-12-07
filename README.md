@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PERDIDA NO DESERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc2b71223d121ccd87457f34fd7f6f63c1de1d43</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3kkXGyrpA1OzDXl9ubNn8R89YoM.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Presa nas dunas do deserto de Riad, Sarah, uma garota saudita local, escapa das dores de cabeça e da vingança de um vigoroso camelo depois de escapar discretamente da casa de seus pais para um encontro romântico que a desencaixou.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MISSÃO CONDOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85e2fbc94a1b437cb87fffc99d5fb16dad342b75</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dX4zUmTl86s1ao92aKJG1pbrjhO.jpg</thumbnail>

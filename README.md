@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OLHAR ALHEIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6L36IDSOCLRD3IV62GDQAHKTOP2GYI2C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tg03Fi59XjsvYRjkC0FApZIbiP3.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Sam, funcionária de um posto de gasolina, recebe uma ligação errada de Emily, que está na floresta fugindo do ex-namorado assassino. Durante a fuga, Emily perde os óculos e precisa confiar nos olhos de Sam para sobreviver, usando a chamada de vídeo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MISSÃO CONDOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85e2fbc94a1b437cb87fffc99d5fb16dad342b75</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dX4zUmTl86s1ao92aKJG1pbrjhO.jpg</thumbnail>

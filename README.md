@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] THE ARCHIES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0cf75fa15af4ed954529c555803a23f45e92a38</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h2NIN5cuS3yRBnI7VDCtGiffX2r.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Ambientada na Índia dos anos 1960, a história faz uma releitura dos personagens da Archie Comics.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PERDIDA NO DESERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc2b71223d121ccd87457f34fd7f6f63c1de1d43</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3kkXGyrpA1OzDXl9ubNn8R89YoM.jpg</thumbnail>

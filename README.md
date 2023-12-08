@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NO SEU NATAL OU NO MEU 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RQ3DKR3MDOQOIL7QXXEI7D7H3A2AU5AO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uHGyCnATtIc2tLS84sXDgDuJaQX.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O pai de James convidou a família de Hayley para um Natal num resort de luxo nos Alpes Austríacos, para que conhecessem a nova namorada americana dele. No entanto, um engano no aeroporto leva as duas famílias a acomodações trocadas em diferentes lados do vale e pontos opostos da qualificação do Tripadvisor. Pode o relacionamento de Hayley e James sobreviver a mais um Natal em família turbulento?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM AMOR DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ba44d993081bd6c3bbff07edc78626ed10e60c8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wH4pwosOFLgFQn6Ahlk0jahKbjC.jpg</thumbnail>

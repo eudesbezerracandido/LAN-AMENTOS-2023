@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NAVIO DE SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09cf6bf4e2f3503a99c70ead1db1b7493e51241c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z40Iwyn9XpwUumPnA4BmGMpvDRF.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Reunidas por acaso, seis pessoas que fugiam de uma cidade devastada pela poluição por petróleo se esconderam em um navio misterioso sem perceber os perigos que o aguardam.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O LIVRO DOS SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d68086b8d6093a4bbe5b9345e6f8dbdf01f46c9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vhTJqpZbr3AmuqTRjLpux62JgRI.jpg</thumbnail>

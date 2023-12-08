@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MICHAEL JACKSON - THRILLER 40 ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5SYBBOMW6SXS4KPB7VWACLWED67BXJES</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/72Svj5snzYha443bxgnxyp7cvOu.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Documentário dedicado ao álbum mais vendido de todos os tempos, Triller, de Michael Jackson. Com imagens nunca antes vistas e entrevistas francas, o documentário retrata o momento da carreira de Jackson que o lançou para o mega estrelato.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM AMOR DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ba44d993081bd6c3bbff07edc78626ed10e60c8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wH4pwosOFLgFQn6Ahlk0jahKbjC.jpg</thumbnail>

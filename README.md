@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SILVER E O LIVRO DOS SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XD2NZOTLUEYQJTXLZRB7Z3O666LRB42D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mjCpMUo4VBFZhlLiqHUNXJwzuQ1.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Quando Liv se muda para Londres, ela conhece o misterioso Henry e seu grupo de amigos, que a levam para o fascinante mundo das viagens dos sonhos. Ela e seu novo grupo de sonhadores realizam um ritual para tornar seu maior sonho em realidade, mas isso exige um grande sacrifício. Baseado no best-seller de Kerstin Gier.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O LIVRO DOS SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d68086b8d6093a4bbe5b9345e6f8dbdf01f46c9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vhTJqpZbr3AmuqTRjLpux62JgRI.jpg</thumbnail>

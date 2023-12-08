@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O MUNDO DEPOIS DE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BMMLVC7MXWNP7JKIGZILR3ZD2UZ7YBU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qwHZInQ0MBa1DxHV66ExCCUzBf5.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Em busca de paz, um casal viaja com seus filhos adolescentes para uma remota casa em Long Island. Certa noite, os donos da casa retornam em pânico alegando que um misterioso apagão isolou a cidade. Sem sinal de celular ou internet, as duas famílias são forçadas numa tensa situação repleta de desconfiança.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SILVER E O LIVRO DOS SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XD2NZOTLUEYQJTXLZRB7Z3O666LRB42D</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mjCpMUo4VBFZhlLiqHUNXJwzuQ1.jpg</thumbnail>

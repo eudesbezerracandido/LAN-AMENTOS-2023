@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM AMOR DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ba44d993081bd6c3bbff07edc78626ed10e60c8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wH4pwosOFLgFQn6Ahlk0jahKbjC.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Lúcia é mãe solteira de uma garotinha que adora o Natal, Léo. Uma noite ela se apaixona em um encontro às cegas por Sergio, desesperada para saber como contar a novidade para a filha; a engana dizendo que seu novo namorado é na verdade o Papai Noel. Agora o namorado tem que provar seu valor e convencê-la e ele o faz, mas eventualmente ela descobre. A ilusão se quebra, mas a magia permanece, então ela visita Sergio em seu restaurante para lhe entregar sua carta, pedindo não brinquedos, mas uma família, e ambos realizaram seu desejo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NAVIO DE SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09cf6bf4e2f3503a99c70ead1db1b7493e51241c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/z40Iwyn9XpwUumPnA4BmGMpvDRF.jpg</thumbnail>

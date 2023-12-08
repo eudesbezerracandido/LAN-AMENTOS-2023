@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DIÁRIO DE UM BANANA NO NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99aa26af09f242098fedfa018f3fd1ff8c50d2bb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ilAT8ShwH9dMVCeKFaKn6GB81qe.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> As férias de inverno estão sendo especialmente estressantes para Greg Heffley este ano. Depois de danificar acidentalmente um limpa-neves enquanto fazia um boneco de neve com o melhor amigo Rowley Jefferson, Greg teme não conseguir o novo console de videogame que tanto deseja no Natal. Para piorar a situação, ele fica preso com sua família, incluindo seu mal-humorado irmão mais velho, Rodrick, e o irritante irmão mais novo, Manny</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MUNDO DEPOIS DE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BMMLVC7MXWNP7JKIGZILR3ZD2UZ7YBU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qwHZInQ0MBa1DxHV66ExCCUzBf5.jpg</thumbnail>

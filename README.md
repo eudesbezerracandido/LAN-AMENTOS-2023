@@ -21,6 +21,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NEFASTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54eed8d694b723050169b67a7e0673c38bc21a70</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xwjWUAajQJPj5aik1tounPguZbz.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>No dia marcado de sua execução, um assassino em série condenado recebe uma avaliação psiquiátrica durante a qual afirma ser um demônio, e que antes que seu tempo acabe, o psiquiatra cometerá três assassinatos de sua autoria.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TEMPOS DE BARBÁRIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dee8bbdded763dee7f7015589a8ee352b39c7be2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fB4SsQK4OW1CZYGySRfJmMs2hhx.jpg</thumbnail>

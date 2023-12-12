@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DENTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0af7910ecc1e0dee6944d9037a5e543b05614532</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yQjcYCFfBLRQvnvkHy5rbHMUewH.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Nemo, um ladrão de arte sofisticado, fica preso em uma cobertura em Nova York depois que seu roubo não sai como planejado. Trancado lá dentro com nada além de obras de arte de valor inestimável, ele deve usar toda a sua astúcia e invenção para sobreviver.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MUNDO DEPOIS DE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BMMLVC7MXWNP7JKIGZILR3ZD2UZ7YBU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qwHZInQ0MBa1DxHV66ExCCUzBf5.jpg</thumbnail>

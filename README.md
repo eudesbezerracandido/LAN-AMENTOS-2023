@@ -173,8 +173,10 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] TROLLS 3-JUNTOS NOVAMENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f44b6e084df09a35a11a99a4ceec22f268775dbf</link>
+<title>[COLOR silver][B] COLECTION TROLLS 3-JUNTOS NOVAMENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f44b6e084df09a35a11a99a4ceec22f268775dbf$nome=TROLLS 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c845bb90d0d86b3afcfc3f6104d3a7f5d1c22eb2$nome=TROLLS 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02b6e507162e18835e5b82f456878b0014bb1cad$nome=TROLLS 1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7mC4iunNnWrHIBamKqiHkpFI32X.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Em Trolls 3: Juntos Novamente, a troll Poppy à medida que se aproxima mais de Tronco, descobre que o amigo e seus quatro irmãos já fizeram parte do fenômeno BroZone, a boyband favorita dela. Todavia, quando um de seus irmãos, Floyd, é sequestrado por dois vilões nefastos, Tronco e Poppy embarcam em uma jornada angustiante e emocional para reunir os outros irmãos e resgatar Floyd de um destino ainda pior do que a obscuridade da cultura pop. Eles embarcam mais uma vez em uma aventura onde diversão, desafios e muitos novos e loucos amigos os acompanharão em uma incrível jornada.</info>

@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A INFORMANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5c26629f12e2558a7e7460e9fbe94b8311fc071</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bfziuazNnGF9ASMoaSLtwZHGp9T.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um jovem informador da polícia é enviado numa operação disfarçada. Um olhar sem limites sobre os soldados a pé na Guerra contra a droga e jovens criminosos pressionados a trabalhar para a polícia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DENTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0af7910ecc1e0dee6944d9037a5e543b05614532</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/yQjcYCFfBLRQvnvkHy5rbHMUewH.jpg</thumbnail>

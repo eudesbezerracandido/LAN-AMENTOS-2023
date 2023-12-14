@@ -21,6 +21,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PESADELO SEM FIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d39cc2486461991b1d77b4f50fba1ba631db96d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1yUbmAiw2cUSpyXNIaiST7JzCtG.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Mike Schmidt, um guarda de segurança na pior, decide arranjar emprego em uma pizzaria local. Porem, após fazer uma descoberta terrível sobre os animatrônicos do local, Mike é forçado a sobreviver e encarar o passado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NEFASTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54eed8d694b723050169b67a7e0673c38bc21a70</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xwjWUAajQJPj5aik1tounPguZbz.jpg</thumbnail>

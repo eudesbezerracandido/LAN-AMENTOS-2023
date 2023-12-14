@@ -4,6 +4,9 @@
 
 
 
+
+
+
 <item>
 <title>[COLOR silver][B] NAPOLEÃO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A57D1ED3131AC6DF9F818E57210F7C1255CC6CF3</link>
@@ -34,6 +37,14 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/xwjWUAajQJPj5aik1tounPguZbz.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>No dia marcado de sua execução, um assassino em série condenado recebe uma avaliação psiquiátrica durante a qual afirma ser um demônio, e que antes que seu tempo acabe, o psiquiatra cometerá três assassinatos de sua autoria.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THE LESSON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RR6AMCJCAIFON4PTYAXLVQRBPUSLZKSO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ktB7bt09HRQT701hVS8C23tkN6N.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Liam (Daryl McCormack), um jovem ambicioso aspirante a escritor, aceita ansiosamente uma posição de tutor na propriedade da família de seu ídolo, o renomado romancista, JM Sinclair, e sua esposa, Hélène (Richard E. Grant e Julie Delpy). Porém, Liam logo percebe que ele foi arrastado para uma teia de segredos familiares, ressentimentos e retaliação. Sinclair e sua família escondem um passado obscuro um que ameaça o futuro de Liam e o deles próprios. Classe, ambição e traição se tornam uma combinação perigosa neste emocionante thriller noir.</info>
 </item>
 
 <item>

@@ -24,6 +24,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FINESTKIND [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T5RGQLTFPVGFAS5BZSKVFGEVWLCAEFMB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w87pGcT0Hxwjxsr4frgyVj6IZik.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Dois irmãos fecham um perigoso acordo com uma organização criminosa que os atrai para o submundo de Boston. À medida que as pressões aumentam, os sacrifícios devem ser feitos e os vínculos - entre irmão e irmão, e entre pai e filho - são colocados à prova.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FUGA DAS GALINHAS - A AMEAÇA DOS NAGGETS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6JEIBCJJVNPKHC2HKOHUIDVMGPDJHHCE</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3ZpbQ571GHAYIZl1zqZ3Non75Y7.jpg</thumbnail>

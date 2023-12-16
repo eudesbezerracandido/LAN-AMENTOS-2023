@@ -32,6 +32,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3TIAZYB3H7PYBEXWOBCE4PNULZ2ETCAX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5LyiadeCXEsoqmph0fZZhoCBWJa.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Enquanto a família discute o futuro do seu idílico olival durante uma refeição, a complexidade de suas relações vem à tona entre risadas e confissões.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FUGA DAS GALINHAS - A AMEAÇA DOS NAGGETS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6JEIBCJJVNPKHC2HKOHUIDVMGPDJHHCE</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3ZpbQ571GHAYIZl1zqZ3Non75Y7.jpg</thumbnail>

@@ -40,6 +40,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PLANO EM FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FLXSSS74NKGPAUOG3PHJMIT2GYSUOY7P</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3CezGI4ORSgVKk5Ch3UUWtL7SET.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Plano em Família é um filme de ação e comédia dirigido por Simon Cellan Jones para a Apple TV+. Na trama, Dan Morgan (Mark Wahlberg) é um marido dedicado e pai de três filhos que adora sua tranquila vida suburbana e sua carreira como vendedor de carros. Mas por trás de toda essa persona pacata e comum, Dan esconde um passado chocante: ele já foi um assassino de elite para o governo dos Estados Unidos. Acreditando ter deixado tudo isso para trás, ele é surpreendido por antigos inimigos, que o encontram e ameaçam o bem estar de toda sua família. Para protegê-los, Dan reúne todos em sua minivan e inventa uma viagem inesperada para Las Vegas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FUGA DAS GALINHAS - A AMEAÇA DOS NAGGETS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6JEIBCJJVNPKHC2HKOHUIDVMGPDJHHCE</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3ZpbQ571GHAYIZl1zqZ3Non75Y7.jpg</thumbnail>

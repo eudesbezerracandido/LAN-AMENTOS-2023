@@ -57,7 +57,8 @@
 
 <item>
 <title>[COLOR silver][B] FUGA DAS GALINHAS - A AMEAÇA DOS NAGGETS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6JEIBCJJVNPKHC2HKOHUIDVMGPDJHHCE</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6JEIBCJJVNPKHC2HKOHUIDVMGPDJHHCE$nome=A FUGA DAS GALINHAS 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcfc62a889de5235c4dbc6b49eefdf6f1c4e845f$nome=A FUGA DAS GALINHAS 1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3ZpbQ571GHAYIZl1zqZ3Non75Y7.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> A Fuga das Galinhas: A Ameaça dos Nuggets é a sequência da animação A Fuga das Galinhas, de 2000, dirigida por Peter Lord e Nick Park, mesma dupla por trás de Wallace & Gromit: A Batalha dos Vegetais. O filme original acompanha um bando de galinhas que decidem escapar da fazenda em que vivem contra sua vontade, comandada por uma dupla de maus proprietários. No novo longa – que conta com direção de Sam Fell (Por Água Abaixo, ParaNorman) -, a adorável galinha Ginger (Thandiwe Newton), que conseguiu escapar da fazenda no primeiro longa, agora leva uma vida pacífica em uma bela ilha que serve de refúgio para todas as suas amigas galinhas. E seu final feliz parece ainda mais perfeito quando ela e seu companheiro, Rocky (Zachary Levi), chocam uma adorável avezinha chamada Molly (Bella Ramsay). Porém, uma nova – e ainda mais terrível – ameaça surge para abalar as vidas de Ginger e suas amigas.</info>

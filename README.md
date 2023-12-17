@@ -24,6 +24,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AMEAÇA INVISIVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ace43d01e18b668e435a5d7ea0647a7bcce19a1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qU5OoGW31ahW9ANZU5tIwmPydKC.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Um detetive se vê enrolado num mistério envolvendo sua filha desaparecida e um programa secreto do governo enquanto investiga uma série de assaltos ultra-elaborados que parecem impossíveis.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FINESTKIND [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T5RGQLTFPVGFAS5BZSKVFGEVWLCAEFMB</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w87pGcT0Hxwjxsr4frgyVj6IZik.jpg</thumbnail>

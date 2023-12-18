@@ -32,6 +32,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NÃO ABRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47NZOI5IHCHLOACH5OTKKO6CQFVUUALQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cbTCIcPUUSz0fyww8b9aY9MOHqt.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma adolescente em conflito com sua identidade cultural se desentende com sua ex-melhor amiga e, no processo, inconscientemente liberta uma entidade demoníaca que se torna cada vez mais forte ao se alimentar de sua solidão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A MORTE SORRIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AMQZ5WK6S4AKQS42OE3YJS2QCZPNQT2D</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xMvd6QBbXFsRG1LHoEVJafWj6Xj.jpg</thumbnail>

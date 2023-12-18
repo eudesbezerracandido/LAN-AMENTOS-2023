@@ -32,6 +32,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MUSSUM - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q5Z2J3CST4ULMEEZB3RLCDD2PZ45VWAI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/olETegpIsLwrApT1ldOKIwFE8lY.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Criado nos morros cariocas, o menino Antônio Carlos é apaixonado por samba e futebol, mas sua mãe tem outros planos: quer que ele estude e tenha uma vida regrada, em família. O talento e carisma falam mais alto e a vida longe dos holofotes não demora a chegar. Aos poucos, Carlinhos vai se transformando em Mussum e se realiza como sambista. Quando seu bom-humor e maneirismos chamam atenção de Renato Aragão, Mussum alcança fama nacional com Os Trapalhões. Baseado no livro Mussum Forévis, de Juliano Barreto,</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NÃO ABRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47NZOI5IHCHLOACH5OTKKO6CQFVUUALQ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cbTCIcPUUSz0fyww8b9aY9MOHqt.jpg</thumbnail>

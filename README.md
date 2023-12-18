@@ -32,6 +32,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A MORTE SORRIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AMQZ5WK6S4AKQS42OE3YJS2QCZPNQT2D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xMvd6QBbXFsRG1LHoEVJafWj6Xj.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um ser malévolo conhecido como The Jester aterroriza os habitantes de uma pequena cidade na noite de Halloween, incluindo duas irmãs que devem se unir para encontrar uma maneira de derrotar esta entidade maligna.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FINESTKIND [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T5RGQLTFPVGFAS5BZSKVFGEVWLCAEFMB</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w87pGcT0Hxwjxsr4frgyVj6IZik.jpg</thumbnail>

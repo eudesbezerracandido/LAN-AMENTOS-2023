@@ -32,6 +32,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A RESSURREIÇÃO DE CHARLES MANSON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47F2A339B25A6EAFDB9C88EC9F50C6DD2AA99378</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pB090ok6FEOAqPG2rVMdW7jxJe9.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um jovem casal viaja até o deserto para gravar um vídeo de audição para um filme sobre Charles Manson e acabam envolvidos em um sinistro plano do serial killer.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MUSSUM - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q5Z2J3CST4ULMEEZB3RLCDD2PZ45VWAI</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/olETegpIsLwrApT1ldOKIwFE8lY.jpg</thumbnail>

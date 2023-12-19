@@ -40,6 +40,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TEMPOS SUPER MODENOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29ddc2f25941bf0a1d30e40bea7bf79014a9591c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n2lmXVxfXcTk9lnlGbWUuS8JTNF.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Sem saber, Arturo cria um algoritmo para sua empresa que acaba tornando inútil o seu próprio trabalho. Após ser demitido e ainda perder os amigos e a namorada, ele começa a trabalhar em uma multinacional de tecnologia. Agora, sua única companhia para evitar a solidão é Stella, um holograma inteligente criado pela própria empresa. Mas, quando o período de teste grátis do serviço acaba, Arturo precisa encontrar uma maneira de custear a presença de Stella, enquanto repensa seus conceitos sobre amor e liberdade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MUSSUM - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q5Z2J3CST4ULMEEZB3RLCDD2PZ45VWAI</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/olETegpIsLwrApT1ldOKIwFE8lY.jpg</thumbnail>

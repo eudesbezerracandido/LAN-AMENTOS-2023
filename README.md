@@ -500,7 +500,7 @@
 
 <item>
 <title>[COLOR silver][B] JOGOS VORAZES ( HDCAM)-A CANTIGA DOS PASSAROS E DAS SERPENTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F7A350C68EFCE1C83341CCF13ADF18EA51E85AE1</link>
+<link>plugin://plugin.video.elementum/play?uri=xt=urn:btih:CEA5EC7DE84D8A942A5CA3EE15E0D25A13E646EA</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nNNxK2NwqHmAjuStya7SwOQeMwq.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes Torrent – Antes de Katniss Everdeen, sua revolução e o envolvimento do 13 distrito, houve o Presidente Snow, ou melhor, Coriolanus Snow. A Cantiga dos Pássaros e das Serpentes é a história do ditador de Panem antes de chegar ao poder. Anos antes, Coriolanus Snow vivia na capital, nascido na grande casa de Snow, que não anda muito bem em popularidade e financeiramente. Ele se prepara para sua oportunidade de glória como um mentor dos Jogos. O destino de sua Casa depende da pequena chance de Coriolanus ser capaz de encantar, enganar e manipular seus colegas para conseguir mentorar o tributo vencedor. Foi lhe dado a tarefa humilhante de mentorar a garota tributo do Distrito 12. Os destinos dos dois estão agora interligados – toda escolha que Coriolanus fizer terá consequências dentro e fora do Jogo. Na arena, a batalha será mortal e a garota terá que sobreviver a cada segundo. Fora da arena, Coriolanus começa a se apegar a garota, mas terá que ter que qualquer passo que der, fará com que a menina e ele mesmo sofram de alguma maneira.</info>

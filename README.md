@@ -48,6 +48,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM NATAL PARA CHUECO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41e0280bcb60580e6fdd5e4e107154b216f9beb8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1kkSj7KAWRR9fWmyPYfp4bLJKQr.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Chueco está muito feliz, finalmente chegou o Natal, sua época favorita do ano. Mas suas ilusões terminam quando Juan o informa que não se comemora o Natal naquela casa, até mesmo o Papai Noel sabe que não precisa ir lá. Amanda explica, para um Chueco desconcertado, que desde que Lorena morreu, o espírito natalino desapareceu dos corações dos Gustozzi. Chueco não consegue ficar de braços cruzados e decide preparar uma terapia de choque para trazer a esperança de volta: ele decora a casa com enfeites de Natal e pede ao próprio Papai Noel que traga presentes para a casa novamente, mas tudo em vão. O que Chueco não suspeita é que Amanda será sua melhor aliada para trazer de volta o espírito natalino.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MUSSUM - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q5Z2J3CST4ULMEEZB3RLCDD2PZ45VWAI</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/olETegpIsLwrApT1ldOKIwFE8lY.jpg</thumbnail>

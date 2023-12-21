@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A BRUXA DO GELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97b9bc6f47631b903877ad16b89a82f5747795ea</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nE8kvNUcEQ1HhILzT5gDPM5Lj25.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A mando de seu chefe Ronnie, a jornalista Ingrid Hoffman retorna à sua casa ancestral quando várias crianças são encontradas mortas em uma floresta próxima.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOUTH PARTK ( NÃO RECOMENDADO PARA MENORES ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7de29c4a82baa4c06aba773e624c03bf9ec00e75</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/opc6DIkByOp9vOt14jzfu8oVjbM.jpg</thumbnail>

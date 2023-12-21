@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SOUTH PARTK ( NÃO RECOMENDADO PARA MENORES ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7de29c4a82baa4c06aba773e624c03bf9ec00e75</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/opc6DIkByOp9vOt14jzfu8oVjbM.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Após descobrirem que uma professora da Escola de South Park possui uma página na rede social OnlyFans, Randy é levado a ver de perto o lado oculto do mundo dos influenciadores digitais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NAPOLEÃO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A57D1ED3131AC6DF9F818E57210F7C1255CC6CF3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4KOR3lRA8RG34ypP2KZtwOstDbr.jpg</thumbnail>

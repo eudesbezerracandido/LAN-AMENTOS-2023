@@ -15,6 +15,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A MEGERA DOMADA 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6640dc71cead3db2ab022bd54af969e41f79400d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k00QQRSHFbz1miYda8QxclXLAyk.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O romance de Kaska e Patryk é testado quando eles suspeitam de infidelidade. Para piorar a situação, os seus vizinhos continuam a interferir nos seus assuntos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NAPOLEÃO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A57D1ED3131AC6DF9F818E57210F7C1255CC6CF3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4KOR3lRA8RG34ypP2KZtwOstDbr.jpg</thumbnail>

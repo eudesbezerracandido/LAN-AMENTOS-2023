@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SALTBURN- FAN DUB [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB41CC19E09F23965979D8457BAF82874EDE5ABB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zGTfMwG112BC66mpaveVxoWPOaB.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Lutando para encontrar o seu lugar na Universidade de Oxford, o estudante Oliver Quick se vê atraído pelo mundo do charmoso e aristocrático Felix Catton, que o convida para Saltburn, a propriedade da sua excêntrica família, para um verão que nunca mais será esquecido.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOUTH PARTK ( NÃO RECOMENDADO PARA MENORES ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7de29c4a82baa4c06aba773e624c03bf9ec00e75</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/opc6DIkByOp9vOt14jzfu8oVjbM.jpg</thumbnail>

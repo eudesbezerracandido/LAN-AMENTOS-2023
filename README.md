@@ -16,6 +16,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RESISTÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QYWWSMFVPMU5OEA4CNW36O7G6RDVPCH4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nU3Ivtwbo30W66WTSqOuCeyJaln.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Em meio a uma futura guerra entre a raça humana e as forças da inteligência artificial, Joshua, um endurecido ex-agente das forças especiais que lamenta o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o indescritível arquiteto da IA avançada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a própria humanidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AS MARVEL DUBLADO  ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3694F5A74B6F9DE1C73C094EB0B2C5B922FC0A60</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a1mPj5EpY5mENWc1IioPWBW5mhc.jpg</thumbnail>
@@ -408,14 +416,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/45D60emniKszNuC7xqopxfS3bPY.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Duas irmãs vão mergulhar em um local lindo e remoto. Uma das irmãs é atingida por uma pedra, deixando-a presa 28 metros abaixo. Com níveis perigosamente baixos de oxigênio e temperaturas frias, cabe a sua irmã lutar por sua vida.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] RESISTÊNCIA  HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:476346F6B69594A24C01FDE17456DF84C84C1B97</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/nU3Ivtwbo30W66WTSqOuCeyJaln.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Em meio a uma futura guerra entre a raça humana e as forças da inteligência artificial, Joshua, um endurecido ex-agente das forças especiais que lamenta o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o indescritível arquiteto da IA avançada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a própria humanidade.</info>
 </item>
 
 <item>

@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MAESTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1ae349f38f9f612a8cdbaff2344dda541c0fcc5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O longa conta a história real da vida e carreira do compositor, músico e pianista Leonard Bernstein (interpretado por Cooper), responsável pela composição da trilha sonora de musicais aclamados da Broadway, como West Side Story, Peter Pan e Candice. Natural da cidade de Lawrence, Massachusetts, nos Estados Unidos, Bernstein ocupou o cargo de principal condutor da Orquestra Filarmônica de Nova York durante 18 anos, e se consagrou como um dos músicos mais importantes dos Estados Unidos. A produção também mostra sua complexa relação com a atriz de TV e teatro Felicia Montealegre, que se iniciou quando os dois se conheceram em uma festa, em 1946, passando pelo primeiro noivado do casal – que foi desmanchado – até chegar ao seu casamento de, ao todo, vinte e cinco anos de duração, que trouxe três filhos ao casal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NAPOLEÃO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A57D1ED3131AC6DF9F818E57210F7C1255CC6CF3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4KOR3lRA8RG34ypP2KZtwOstDbr.jpg</thumbnail>

@@ -15,6 +15,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PRANCER - UM CONTO DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ed67e8d96a05157cbbfee9e033792db733f888c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tJgCmwkf2ytEHYHv8vH3QtRGVPW.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A jovem Grace é forçada a passar o natal na casa de Bud, seu avô rabugento. A festa parece fadada ao fracasso até ela conhecer Prancer, uma rena mágica que é amiga de Bud. Mas um caçador impiedoso está caçando o animal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A MEGERA DOMADA 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6640dc71cead3db2ab022bd54af969e41f79400d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/k00QQRSHFbz1miYda8QxclXLAyk.jpg</thumbnail>

@@ -48,6 +48,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FBI CASOS REAIS 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:394A94C9BAAC39D66112FC78128141575EE5EEF3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2zIs1CseaVFBA45ZBcUKkNYcnmR.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Segue o mundo de agentes reais do FBI usando vídeos de vigilância, interrogatórios com sequestradores e terroristas e fotos das coleções dos agentes para contar suas histórias da vida real.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM NATAL COM TEDDY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b55ffa5f82b010a1c2e94bad23196dc4e7811a27</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jEf96axaZhZQEu9ORVtEujBTG9p.jpg</thumbnail>

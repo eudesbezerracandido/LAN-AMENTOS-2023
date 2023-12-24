@@ -40,8 +40,8 @@
 
 <item>
 <title>[COLOR silver][B] MARVEL - WHAT IF... 2° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JNCVKSDJUHSMFPHHT2RTTEVLIYDHO67A$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SF2LAW2JSVHVSIIMT2FYQCQH7U5OV7LB$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JNCVKSDJUHSMFPHHT2RTTEVLIYDHO67A$nome=WHAT IF EP.1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SF2LAW2JSVHVSIIMT2FYQCQH7U5OV7LB$nome=WHAT IF EP.2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xKPcu7k452MaiGOqOTGEtCx5WGl.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> What If… ? é uma série de animação que leva o público para um terreno desconhecido ao contar, de forma alternativa, momentos cruciais do Universo Cinematográfico Marvel, imaginando o que teria acontecido aos super-heróis se a história fosse totalmente diferente e se passasse em outra realidade. Com episódios independentes entre si, a antologia explora o multiverso desenvolvido pelo MCU e mergulha em possibilidades, até então, inimagináveis, e que surpreendem os fãs a cada capítulo.</info>

@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM NATAL COM TEDDY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b55ffa5f82b010a1c2e94bad23196dc4e7811a27</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jEf96axaZhZQEu9ORVtEujBTG9p.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Mariann, uma criança, vive um momento mágico quando, em uma feira de Natal, vê o ursinho de pelúcia mais fofo se mexendo e deseja ganhar o brinquedo vivo. Mas Teddy quer encontrar um dono rico que possa lhe mostrar tudo o que o mundo tem a oferecer.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MAESTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1ae349f38f9f612a8cdbaff2344dda541c0fcc5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg</thumbnail>

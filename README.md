@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] REBEL MOON-PARTE 1 A MENINA DO FOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SXKUUMHSNAKO5GBYRYBVCSBPIAC63F4F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sPmGw8DOpH856QjhCfetSK9yzI5.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quando uma colônia pacífica na orla da galáxia é ameaçada pelos exércitos de um regente tirânico chamado Balisarius, uma jovem sai em busca de guerreiros de outros planetas para enfrentar o exército de invasores que aterrorizam a pacífica colônia onde vive.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MAESTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1ae349f38f9f612a8cdbaff2344dda541c0fcc5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg</thumbnail>

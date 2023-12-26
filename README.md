@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FERIADO SANGRENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5IVSF2T5KMNSPVWSMAJ56FWOIBOXPNMA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xPLOOSM49kz4LAlCbg3CsgD0ayD.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Depois que um tumulto na Black Friday termina em tragédia, um misterioso assassino inspirado no Dia de Ação de Graças aterroriza Plymouth, Massachusetts - o berço do infame feriado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] REBEL MOON-PARTE 1 A MENINA DO FOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SXKUUMHSNAKO5GBYRYBVCSBPIAC63F4F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sPmGw8DOpH856QjhCfetSK9yzI5.jpg</thumbnail>

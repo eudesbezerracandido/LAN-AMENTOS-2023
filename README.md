@@ -15,6 +15,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ( BREVE ) MAMONAS ASSASSINAS O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome=MAMONAS O FILME BREVE</link>
+<utube>yxtCEpc5MCc</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/pEl5vFFyYCtBt4KCrjrp1lAR12J.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Estamos em Guarulhos na década de 90. Dinho, Sérgio, Samuel, Julio e Bento são garotos típicos da época com pouco dinheiro e muitos sonhos. Eles nem imaginam que o humor debochado e inteligente, tão característico do grupo de amigos, irá mudar suas vidas para sempre. De algumas tentativas fracassadas ao sucesso absoluto, em pouco tempo, eles se tornaram o maior fenômeno musical brasileiro da década: os Mamonas Assassinas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PRANCER - UM CONTO DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ed67e8d96a05157cbbfee9e033792db733f888c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tJgCmwkf2ytEHYHv8vH3QtRGVPW.jpg</thumbnail>

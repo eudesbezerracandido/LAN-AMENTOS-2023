@@ -24,6 +24,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SAMURAI DE OLHOS AZUIS 1° TEMPORADA ( ANIMAÇÃO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KPCII4RHD6LCZEQ3HK3JAOCMMRPZARQV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/krl67Uz8J0ghm94AXzZrf2b8QSz.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Movida pelo sonho de vingança contra as pessoas que a transformaram em excluída no Japão do período Edo, uma jovem guerreira decide trilhar um caminho sangrento.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PRANCER - UM CONTO DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ed67e8d96a05157cbbfee9e033792db733f888c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tJgCmwkf2ytEHYHv8vH3QtRGVPW.jpg</thumbnail>

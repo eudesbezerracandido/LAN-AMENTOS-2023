@@ -24,6 +24,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A VERSÃO PERSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27PJJR2RCZDEGD43QM77NKUIZJSILEVS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fmHNcjt08oWz9Q619ZSXqQxLgMT.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Nesta história festiva de uma jovem mulher no Brooklyn, Leila (Layla Mohammadi) se esforça para encontrar o equilíbrio e aceitar suas culturas opostas enquanto desafia os rótulos que a sociedade projeta sobre ela. Quando sua família barulhenta se reúne na cidade de Nova York para o transplante de coração de seu pai, Leila mantém sua vida "real" separada da vida familiar. Mas quando seu...</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SAMURAI DE OLHOS AZUIS 1° TEMPORADA ( ANIMAÇÃO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KPCII4RHD6LCZEQ3HK3JAOCMMRPZARQV</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/krl67Uz8J0ghm94AXzZrf2b8QSz.jpg</thumbnail>

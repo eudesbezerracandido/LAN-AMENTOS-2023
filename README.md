@@ -48,6 +48,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JORNADA PARA BELÉM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RQI5ERFWFSLPLUA7ENWV7Q5BPNTNQ4B6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tv0Ta1lAIZYuLKAcQhnRTe8bUTV.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma jovem carregando uma responsabilidade inimaginável. Um jovem dividido entre o amor e a honra. Um rei ciumento que não se deterá diante de nada para manter sua coroa. Esta aventura musical de Natal em live-action para toda a família mescla melodias clássicas de Natal com humor, fé e novas canções pop em uma releitura da maior história já contada, a história de Maria e José e o nascimento de Jesus. Uma nova entrada única na coleção de filmes clássicos de férias, este musical épico de Natal é diferente de todos os anteriores.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AGRADECIMENTOS E DESCULPAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AWNX4AZRXBTVK3XSFGVD7PYQOCMVK2QM</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/24WSZJyiQbLuH1esYnVhJOvQXNx.jpg</thumbnail>

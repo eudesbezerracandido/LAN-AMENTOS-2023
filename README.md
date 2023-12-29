@@ -112,6 +112,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F7PGJ7DJSC7K325LQJCASH2WI5WVY5Z$nome=WHAT IF EP.5</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W7EQ2JM2ESPQRSIQBJ77E5MRWSDFJUEL$nome=WHAT IF EP.6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SYJ6QQX5AAQVKI4KDZAYFLU5DD7ETY7U$nome=WHAT IF EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f32d11f66b491ccb187b634c8222ec2c53689b46$nome=WHAT IF EP.8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xKPcu7k452MaiGOqOTGEtCx5WGl.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> What If… ? é uma série de animação que leva o público para um terreno desconhecido ao contar, de forma alternativa, momentos cruciais do Universo Cinematográfico Marvel, imaginando o que teria acontecido aos super-heróis se a história fosse totalmente diferente e se passasse em outra realidade. Com episódios independentes entre si, a antologia explora o multiverso desenvolvido pelo MCU e mergulha em possibilidades, até então, inimagináveis, e que surpreendem os fãs a cada capítulo.</info>

@@ -40,6 +40,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DESENCAIXADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCGVPS67RYQ56BFVGVXLPSZF7XDUOX7S</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qQo7PrvRRGSnNYJqFX0cd5LGiy3.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Neil (Adarsh Gourav), Ahana (Ananya Panday) e Imaad (Siddhant Chaturvedi) são grandes amigos desde a época do ensino médio. Porém, agora os três estão com 20 e poucos anos e precisam encarar os desafios de adulto na cidade de Mumbai, na Índia. Nesse período, eles experimentam amor, amizade, corações partidos e sonhos, tudo com o contraponto da tecnologia e das aparências nas redes sociais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A VERSÃO PERSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27PJJR2RCZDEGD43QM77NKUIZJSILEVS</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fmHNcjt08oWz9Q619ZSXqQxLgMT.jpg</thumbnail>

@@ -24,6 +24,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SOL LUNAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff4f1ae509a80b44773fafba0bc540921655eae1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x29rKMGLUrQ2W2U8oNPpMC2guwR.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A busca do rei Louis XIV para a imortalidade leva-o a capturar e roubar a força de vida de uma sereia, um movimento que se torna ainda mais complicado pela descoberta de sua filha ilegítima da criatura.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A VERSÃO PERSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27PJJR2RCZDEGD43QM77NKUIZJSILEVS</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fmHNcjt08oWz9Q619ZSXqQxLgMT.jpg</thumbnail>

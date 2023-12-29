@@ -32,6 +32,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CLUB DOS MILAGRES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HQAON4XZELTJZFGVY56QCSJCFE74DAXJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fQwEEKyZ5WVIs9UscUg7fUbyduW.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A jornada de um grupo de mulheres da classe trabalhadora de Dublin, em peregrinação a Lourdes na França descobrem a amizade uma da outra, e seus próprios milagres.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A VERSÃO PERSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27PJJR2RCZDEGD43QM77NKUIZJSILEVS</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fmHNcjt08oWz9Q619ZSXqQxLgMT.jpg</thumbnail>

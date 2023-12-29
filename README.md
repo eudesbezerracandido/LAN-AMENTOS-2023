@@ -48,6 +48,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AGRADECIMENTOS E DESCULPAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AWNX4AZRXBTVK3XSFGVD7PYQOCMVK2QM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/24WSZJyiQbLuH1esYnVhJOvQXNx.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Em Agradecimento e Desculpas, uma mulher prestes a ter seu primeiro filho se vê sozinha, mas a visita de sua irmã distante muda tudo. No filme sueco, Sara (Sanna Sundqvist) está na tensa contagem regressiva para o parto de seu primogênito. Ela já estava em uma situação estressante o suficiente e tudo se agrava quando o marido decide ir embora para a Espanha. Desamparada, ela é surpreendida com a visita de Linda (Charlotta Björck), sua irmã mais velha que não vê há anos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A VERSÃO PERSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27PJJR2RCZDEGD43QM77NKUIZJSILEVS</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fmHNcjt08oWz9Q619ZSXqQxLgMT.jpg</thumbnail>

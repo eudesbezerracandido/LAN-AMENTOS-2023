@@ -24,6 +24,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CHARLIE - UM CACHORRO ESPECIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a143c3b49799034c2abc56c5dc435c17b785d969</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6jSjNlbScgnR4w8VSO0lcJdhHJI.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Dharma está preso em uma rotina com seu estilo de vida negativo e solitário e passa cada dia no conforto de sua solidão. Um cachorro chamado Charlie entra em sua vida e lhe dá uma nova perspectiva.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GODZILLA -MINUS ONE LEG. ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NHC4KUR57DFA7BCXMTW3Z4LEOAOSV2VB</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eYJsurMCdA4W8UIknII20a4pwiq.jpg</thumbnail>

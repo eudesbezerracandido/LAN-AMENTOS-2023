@@ -24,6 +24,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GODZILLA -MINUS ONE LEG. ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NHC4KUR57DFA7BCXMTW3Z4LEOAOSV2VB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eYJsurMCdA4W8UIknII20a4pwiq.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Ambientado no Japão do pós-guerra, Godzilla Minus One mostra um Godzilla com uma força monstruosa. O Japão, que já havia sido devastado pela guerra, enfrenta uma nova ameaça com Godzilla, deixando o país ainda mais destruído.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOL LUNAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff4f1ae509a80b44773fafba0bc540921655eae1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/x29rKMGLUrQ2W2U8oNPpMC2guwR.jpg</thumbnail>

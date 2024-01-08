@@ -192,8 +192,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] NAPOLEÃO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A57D1ED3131AC6DF9F818E57210F7C1255CC6CF3</link>
+<title>[COLOR silver][B] NAPOLEÃO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MNQYM2PE7XFJJOGD65JYR2CVIQQ2UNEI</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4KOR3lRA8RG34ypP2KZtwOstDbr.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> O filme é um olhar original e pessoal sobre as origens de Napoleão (joaquim Phoenix) Bonaparte e sua rápida e implacável escalada para imperador, vista através do prisma de sua relação viciante e muitas vezes volátil com sua esposa e um verdadeiro amor, Josephine.</info>

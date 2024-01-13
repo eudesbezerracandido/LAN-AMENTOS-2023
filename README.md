@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] ENTRE MULHERES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9822a4aecd9edf6f24b01f9291c95b8f8362a8be</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lH5qPokImvjzg18DxURFS3Clmyw.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Baseado no livro homônimo de Miriam Toews e inspirado em eventos reais ocorridos na colônia de Manitoba, na Bolívia, Entre Mulheres segue as mulheres da comunidade religiosa que lutam para conciliar sua fé com a realidade. Em 2010, as mulheres da comunidade isolada seguem a religião da igreja Menonita, e acabam descobrindo um segredo chocante sobre os homens da comunidade que controlaram suas vidas e fé. É revelado que os homens usaram anestésicos para drogar e estuprar mulheres e meninas durante a noite por muitos anos, às vezes resultando em gravidez. É tradição da comunidade quase menonita manter a mulher em um estado sem educação, sem escolaridade e analfabetismo, com o objetivo de ajudá-la a ser totalmente subserviente aos membros masculinos da comunidade e às suas necessidades.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] THE CELLO ( HDCAM ) DUBLAGEM NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A7B7F251FBFF898ECB87EB9E0BA6B1F0DF5E9D3</link>

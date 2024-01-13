@@ -6,6 +6,14 @@
 
 
 <item>
+<title>[COLOR silver][B] THE CELLO ( HDCAM ) DUBLAGEM NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A7B7F251FBFF898ECB87EB9E0BA6B1F0DF5E9D3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qjKK2zBYGCaAfNTyXAvqWY9Qtpf.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um aspirante a violoncelista descobre que o custo de seu violoncelo novo é muito mais insidioso do que ele pensava.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AQUAMAN 2 - O REINO PERDIDO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9ce1bfc4f2c6ffb5d11fb36b8a06a87c13531c4$nome=AQUAMAN</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81C27075590D6E756FE15628ABC30A4524473D08$nome=AQUAMAN O REINO PERDIDO</link>

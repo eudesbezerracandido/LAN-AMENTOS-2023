@@ -225,7 +225,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] AS MARVEL DUBLADO  ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] AS MARVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3694F5A74B6F9DE1C73C094EB0B2C5B922FC0A60</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a1mPj5EpY5mENWc1IioPWBW5mhc.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
@@ -953,14 +953,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/2kkz5jZwKkwYxV8sw6EGMyHjSzO.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Anne (Awkwafina) e sua irmã Jenny (Sandra Oh) estão cobertas de dívidas graças as apostas feitas por sua mãe. Quando o cachorro de Anne é sequestrado, a situação escalona para muito pior e elas ficam dispostas a tudo para conseguir o dinheiro para tudo que precisam. Anne, que também é obcecada por jogos, está determinada a resolver essa situação de uma vez por todas. Uma mulher obcecada por gameshow e sua irmã trabalham juntas para ajudar a cobrir as dívidas de jogo de sua mãe.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - SILVESTRE STALONE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079ee4bf3dd33119a71bbcb1669ada84f93c94e3</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/flnrKe85SfgcRCW2KgUhz2Bn9yE.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> O amor pelo cinema foi o passaporte de saída da infância traumática. De jovem sem futuro a lenda de Hollywood, Sylvester Stallone conta sua história neste documentário. Com personagens icônicos e franquias de sucesso mundial, como Rocky, Rambo e Os Mercenários, Sylvester Stallone marca presença nas telas há cerca de 50 anos. Este documentário faz uma retrospectiva da vida do ator, roteirista, diretor e produtor indicado ao Oscar, traçando um paralelo entre sua história inspiradora e seus personagens inesquecíveis. Sly tem direção de Thom Zimny (Springsteen on Broadway) e produção de Sean Stuart (Uma Linda Vida).</info>
 </item>
 
 <item>

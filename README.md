@@ -4,6 +4,17 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] GODZILLA -MINUS ONE ( HDCAM )  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DC2F64AA11476FFB5BD94F509A9DA4F1D5BBAEB$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9936C38CC7E7953FFCC15090BE3457B43E479AF$nome=LEGENDA FIXA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eYJsurMCdA4W8UIknII20a4pwiq.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Ambientado no Japão do pós-guerra, Godzilla Minus One mostra um Godzilla com uma força monstruosa. O Japão, que já havia sido devastado pela guerra, enfrenta uma nova ameaça com Godzilla, deixando o país ainda mais destruído.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DUOLOGIA - AQUAMAN  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9ce1bfc4f2c6ffb5d11fb36b8a06a87c13531c4$nome=AQUAMAN</link>
@@ -43,15 +54,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/6jSjNlbScgnR4w8VSO0lcJdhHJI.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Dharma está preso em uma rotina com seu estilo de vida negativo e solitário e passa cada dia no conforto de sua solidão. Um cachorro chamado Charlie entra em sua vida e lhe dá uma nova perspectiva.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] GODZILLA -MINUS ONE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DC2F64AA11476FFB5BD94F509A9DA4F1D5BBAEB$nome=DUBLADO NÃO OFICIAL</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9936C38CC7E7953FFCC15090BE3457B43E479AF$nome=LEGENDA FIXA</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eYJsurMCdA4W8UIknII20a4pwiq.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Ambientado no Japão do pós-guerra, Godzilla Minus One mostra um Godzilla com uma força monstruosa. O Japão, que já havia sido devastado pela guerra, enfrenta uma nova ameaça com Godzilla, deixando o país ainda mais destruído.</info>
 </item>
 
 <item>

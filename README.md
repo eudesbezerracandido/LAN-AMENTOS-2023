@@ -1,3 +1,6 @@
+
+
+
 # LAN-AMENTOS-2023
 
 
@@ -2254,6 +2257,14 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/xmJnNx64tszsJD9NAk7MenKBcC.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Os Três Mosqueteiros: D'Artagnan é um filme de ação e aventura e o primeiro de uma saga épica de duas partes dirigida por Martin Bourboulon, baseada no romance "Os Três Mosqueteiros" de Alexandre Dumas, publicado em 1844.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OS TRÊS MOSQUETEIROS: MYLADY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cae47287df6ee3bc00c0ba834a08f26fbd55faf1</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/qsOK6mqsmddKmiEtLReV6nlbuW0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Constance é raptada diante dos olhos de D'Artagnan. Numa busca frenética para a salvar, o jovem mosqueteiro é forçado a juntar forças com a misteriosa Milady de Winter. Quando a guerra é declarada e Athos, Porthos e Aramis já se juntaram à frente de batalha, um terrível segredo do passado destrói todas as antigas alianças. À medida que o Rei fica cada vez mais sob o controlo do Cardeal Richelieu, D'Artagnan e os Mosqueteiros são o último bastião antes do caos. No entanto, envolvidos numa conspiração que ameaça colocar o país a ferro e fogo, o destino submete-os a uma terrível escolha: terão de sacrificar aqueles que amam para cumprir a sua missão? Segunda de uma adaptação cinematográfica em duas partes do romance de Alexandre Dumas.</info>
 </item>
 
 <item>

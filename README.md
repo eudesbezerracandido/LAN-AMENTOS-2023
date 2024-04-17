@@ -10,8 +10,8 @@
 
 
 <item>
-<title>[COLOR silver][B] GODZILLA -MINUS ONE ( HDCAM )  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DC2F64AA11476FFB5BD94F509A9DA4F1D5BBAEB$nome=DUBLADO NÃO OFICIAL</link>
+<title>[COLOR silver][B] GODZILLA -MINUS ONE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DC2F64AA11476FFB5BD94F509A9DA4F1D5BBAEB$nome=GODZILLA MINUS ONE</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9936C38CC7E7953FFCC15090BE3457B43E479AF$nome=LEGENDA FIXA</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eYJsurMCdA4W8UIknII20a4pwiq.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
